@@ -39,7 +39,7 @@ class Switch(StpSwitch):
 	self.root= idNum
 	self.dist_root= 0
 	self.switchthrough= None
-	self.active_links= dict.fromkeys(neighbors, False) 
+	self.active_links= dict.fromkeys(neighbors, True) 
 
     def send_initial_messages(self):
         #TODO: This function needs to create and send the initial messages from this switch.
