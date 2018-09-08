@@ -116,7 +116,7 @@ class Switch(StpSwitch):
         #      A full example of a valid output file is included (sample_output.txt) with the project skeleton.
       	logstring=""
 	for active_links, boolean in sorted(self.active_links.items()):
-		print(active_links)
+
 		if boolean==True:
 			logstring+="%d - %d, " %(self.switchID, active_links)
 
