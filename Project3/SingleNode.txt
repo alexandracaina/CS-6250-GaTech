@@ -1,0 +1,4 @@
+# Single Node Topology
+# Contains a single node with no links
+#    [A]
+A

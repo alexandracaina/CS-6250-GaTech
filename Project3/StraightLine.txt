@@ -1,0 +1,5 @@
+AA,CC,-1,GG,6
+CC,AA,-1
+FF,GG,4
+GG,AA,6
+

@@ -1,0 +1,7 @@
+AA,CC,-1,EE,3,FF,-1,GG,6
+BB,AA,2
+CC,AA,-1,BB,5
+DD,AA,1
+EE,DD,-1
+FF,GG,4
+GG,AA,6
