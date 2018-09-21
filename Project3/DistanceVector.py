@@ -62,8 +62,7 @@ class DistanceVector(Node):
         # TODO 1. Process queued messages
         orig_vector= self.distance_vector.copy()
 	
-	print('%s recieving messages'%self.name, self.messages)
-        for msg in self.messages:
+	for msg in self.messages:
             node_origin= msg[0]
             node_weights= msg[1]
 	    
@@ -93,7 +92,6 @@ class DistanceVector(Node):
         if (self.distance_vector != orig_vector):
 	   	message= (self.name, copy.deepcopy(self.distance_vector))
 	    	for neighbor in self.incoming_links:
-			print('%s Sending Message to %s' %(self.name, neighbor.name), message)
 			self.send_msg(message, neighbor.name)
 
         return

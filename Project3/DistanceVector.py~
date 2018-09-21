@@ -69,8 +69,7 @@ class DistanceVector(Node):
 	    
 
 	    for node_name, node_weight in node_weights.items():
-		#if node_origin.name not in self.distance_vector.keys():
-		
+				
 		if self.name != node_name:
 			#cost from origin plus node weight
 			cost=int(self.get_outgoing_neighbor_weight(node_origin)) + node_weights[node_name]
