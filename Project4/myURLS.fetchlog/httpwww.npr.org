@@ -1,0 +1,1369 @@
+[14917:14924:8757353778:ERROR:nss_util.cc(90)] Failed to create /home/mininet/.pki/nssdb directory.
+[14917:14924:8757358777:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+[14917:14917:8758288421:INFO:CONSOLE(0)] "Viewport argument key "shrink-to-fit" not recognized and ignored.," source: https://www.npr.org/(4)
+*** Renamed /templates/javascript/dist/bundles/persistent-css-0aceacc50567a7d8993b.css to /9e3c062139a34bb65a84b39b37615bdf ***
+*** Renamed /templates/javascript/dist/bundles/newsHp2-css-0aceacc50567a7d8993b.css to /8d0892cdb4b6447803f459c732e3616c ***
+*** Renamed /assets/img/2018/10/09/rtx5f1sx_wide-7a58fd139716dc5598c2688cce2f28d5881f4c2f-s400-c15.jpg to /7c8577e1af299d7a64226a2753837081 ***
+*** Renamed /assets/img/2018/10/09/ap_17335767627331_wide-bda36a0ae8e291e8d8d222f96dca33bea6577e1c-s400-c15.jpg to /7090494fcf5f79de53ae2855b33da7f0 ***
+*** Renamed /assets/img/2018/10/09/michael-sat-colors_wide-65d15bca8bc03adb5a732def5558afde61e48e2c-s400-c15.jpg to /da243dece8402e1a5cfde496ebf806f4 ***
+*** Renamed /assets/img/2018/10/09/ap_18282388890248_wide-ba75832da58c3545f755cac27c56dacdf493226c-s400-c15.jpg to /805a9334ea497b391263975f7ca5d3f8 ***
+*** Renamed /assets/img/2018/10/09/gettyimages-981260928a_wide-0ce6396d1bcc791667b79182ac7b4c88d4c81d00-s400-c15.jpg to /e2633d27f42f4208d5f612aa5f9d77fb ***
+*** Renamed /assets/img/2018/10/09/artboard-1-copy-4_wide-8f4153fce1782fba253d1f819c01320f9ab7822a-s900-c15.jpg to /c934049882c12e2a255d55a929fa3e81 ***
+*** Renamed /assets/img/2018/10/09/nsa-9-19-18_wide-0ce3cb4dc62b10960e4bb2616d3e1a2756fe7951-s400-c15.jpg to /87586e5e4b49e1fb280f5c4b689a01f6 ***
+*** Renamed /assets/img/2018/10/09/mandarin-student-pakistan-14_wide-8ae6c5989fd59f8f3c9f5b7b353a7556677d50d1-s400-c15.jpg to /b220f4eb5f16a279c57b2bdf9ccb6dc4 ***
+*** Renamed /assets/img/2018/10/09/ap_120627080381_wide-3dc0800a55baa331ce65c5d1060f2bffdfd27d72-s400-c15.jpg to /2cbbd8848d4f9a497173c8169680557c ***
+*** Renamed /assets/img/2018/10/09/ap_18260513959156_wide-9b93e5a02757de072b04b01507fb690a5a13f93b-s400-c15.jpg to /fecf0aff865a497ba6f4653b327b7392 ***
+*** Renamed /assets/img/2018/10/09/gettyimages-1047779642_wide-9e3e39f9c9283c594431095df3b777ce6a62ee27-s400-c15.jpg to /b64ae9455d0f0c58199042de7ae6501e ***
+*** Renamed /assets/img/2018/10/09/gettyimages-1037545732_wide-782a4914b1317321ff987aeb4d9a68a5fe3862c0-s900-c15.jpg to /31ff4c0447a90825db8904205b0f3bef ***
+*** Renamed /assets/img/2018/10/09/gettyimages-170654931_wide-ef25ab881bd114103140d9d2d5ec2196ff976fea-s400-c15.jpg to /5fb7405acb42c9e325064850c31d951f ***
+*** Renamed /assets/img/2018/10/09/gettyimages-623817156_wide-721fde0e26b34ecc74641ba59032d7b30c69fe25-s400-c15.jpg to /85b8513c7d5ed5318b83fc836d2a1ae9 ***
+*** Renamed /assets/img/2018/10/09/labor_wide-99f07df07a2861b462fa901afff770436604e79c-s400-c15.jpg to /5cf4989514a7b47001c363ef274bb93b ***
+*** Renamed /assets/img/2018/10/09/ap_18281622574179_wide-e9c811976abdac64f541b5f4beec5f3883a16ef0-s400-c15.jpg to /96eae8b869bab33feaee6767854a77d8 ***
+*** Renamed /assets/img/2018/10/09/crashscene_wide-e448c82bdbbbf945085029752ec61cfb2f64e6af-s400-c15.jpg to /e887a99260e016d2ae239843fb5a27cd ***
+*** Renamed /assets/img/2018/10/09/gettyimages-967552848_wide-5c3b36d52d90d47037c4038cca81c07676dad963-s400-c15.jpg to /bc5f7368fd95fe474a694ccf5c0f88ce ***
+*** Renamed /assets/img/2018/10/09/restoration-process1_wide-68e7502006e9c2d6bd55d15f8c7dce8957ee9d9d-s400-c15.jpg to /ed7922ff81c181495fede18b321442bf ***
+*** Renamed /assets/img/2018/10/09/promo_weed_wide-e359dda63466370781cc212bde3270999f72be5d-s400-c15.jpg to /53e61c2567aebb1a3b0b36d53b101cc4 ***
+*** Renamed /assets/img/2018/10/09/cookbcancer_wide-87538fd8da7a96dadbc469c23989443ce7783fea-s400-c15.jpg to /fa164bf3fb508932244b252644d734bb ***
+*** Renamed /assets/img/2018/10/09/into-the-sunrise_wide-bd003bb3f67c23e3c43fa8956ce7022a32baeb3e-s900-c15.jpg to /a20acd9dbd74740d6c426067e18d64de ***
+*** Renamed /assets/img/2018/10/09/homeless-family-outside-shelter-1-_wide-2ce9fcb6ad4cbe680fdad327fd980bbb298bc1c2-s400-c15.jpg to /efef4956bb6286ca98a9ab0067dd4ac9 ***
+*** Renamed /assets/img/2018/10/09/seamus-china-series-ports-locator_wide-705d176787b078a75338cb396c2ad68b03d58dbc-s400-c15.png to /c30b85af7435a6dc52d8b83bc639ed9b ***
+*** Renamed /assets/img/2018/10/09/wiley_wide-db636bd3f8a02632d42935aafe345164020cc42b-s400-c15.jpg to /1ee9df54f9cb8923d38ad442443d024e ***
+*** Renamed /assets/img/2018/10/09/hsieh_angela_music_turntables_natalialafourcade_wide-6455b1295abbc7fdbaad420ebc8ac2ac9319427d-s900-c15.jpg to /d81239c2de6d5dc3d634433537ee5cd6 ***
+*** Renamed /templates/javascript/dist/bundles/0.9a94d18b115371008438.chunk.js to /d460b9b781f584f47d952f70c9569fb5 ***
+*** Renamed /templates/javascript/dist/bundles/15.6162f813ed7275d1524a.chunk.js to /8dad5879e10eb0be46743ea060f5cf1d ***
+*** Renamed /1/ece810d90e?a=3472094&v=1071.385e752&to=Y1NRZkQDV0JRAkAPWloZZkBfTU1UXRFYB0FRRRxRWQxNQ18NWANHRxlERUFMSVlA&rst=9333&ref=https://www.npr.org/&ap=732&be=900&fe=5789&dc=4759&af=err,xhr,ins,spa&perf=%7B%22timing%22:%7B%22of%22:1539145388153,%22n%22:0,%22f%22:319,%22dn%22:319,%22dne%22:319,%22c%22:319,%22ce%22:319,%22rq%22:319,%22rp%22:319,%22rpe%22:1023,%22dl%22:891,%22di%22:4759,%22ds%22:4759,%22de%22:4760,%22dc%22:5789,%22l%22:5789,%22le%22:5798%7D,%22navigation%22:%7B%7D%7D&at=TxRGEAwZRB0SABZcTklL&jsonp=NREUM.setToken to /1f3b424ad93e6dcdfb4ae6b9e07255eb ***
+*** Renamed /assets/img/2018/10/09/rtx5f1sx_wide-7a58fd139716dc5598c2688cce2f28d5881f4c2f-s400-c85.jpg to /19c419262765a0c64d00b06f16309680 ***
+*** Renamed /assets/img/2018/10/09/ap_17335767627331_wide-bda36a0ae8e291e8d8d222f96dca33bea6577e1c-s300-c85.jpg to /9bad5519efb680b5ca2378cd72ee63a5 ***
+*** Renamed /assets/img/2018/10/09/michael-sat-colors_wide-65d15bca8bc03adb5a732def5558afde61e48e2c-s300-c85.jpg to /a6d939a8da844a6fe4aa5dbf23ee67b8 ***
+*** Renamed /assets/img/2018/10/09/ap_18282388890248_wide-ba75832da58c3545f755cac27c56dacdf493226c-s300-c85.jpg to /67e024c0797950e378212e427483a211 ***
+*** Renamed /assets/img/2018/10/09/gettyimages-981260928a_wide-0ce6396d1bcc791667b79182ac7b4c88d4c81d00-s400-c85.jpg to /bd17eab6ab6e4125ca4aa54a19b30403 ***
+*** Renamed /assets/img/2018/10/09/artboard-1-copy-4_wide-8f4153fce1782fba253d1f819c01320f9ab7822a-s800-c85.jpg to /34fc1842b858d8e2c9ab76c2e1bcd8d6 ***
+*** Renamed /assets/img/2018/10/09/nsa-9-19-18_wide-0ce3cb4dc62b10960e4bb2616d3e1a2756fe7951-s400-c85.jpg to /5cf6f024ae8204733bff092ffa530963 ***
+*** Renamed /assets/img/2018/10/09/mandarin-student-pakistan-14_wide-8ae6c5989fd59f8f3c9f5b7b353a7556677d50d1-s400-c85.jpg to /fc5fcda8e4ca1be08941c2ddb5a655e8 ***
+*** Renamed /assets/img/2018/10/09/ap_120627080381_wide-3dc0800a55baa331ce65c5d1060f2bffdfd27d72-s400-c85.jpg to /c03bd47e0203f284936fdb1d1b77e924 ***
+*** Renamed /assets/img/2018/10/09/ap_18260513959156_wide-9b93e5a02757de072b04b01507fb690a5a13f93b-s400-c85.jpg to /2d13df2e12b46d701f8f6800bb5824d9 ***
+*** Renamed /assets/img/2018/10/09/gettyimages-1047779642_wide-9e3e39f9c9283c594431095df3b777ce6a62ee27-s400-c85.jpg to /9c71d924e15d1c23c788433326ce26d1 ***
+*** Renamed /assets/img/2018/10/09/gettyimages-1037545732_wide-782a4914b1317321ff987aeb4d9a68a5fe3862c0-s800-c85.jpg to /ee9a78ec77783b26005aac07d76ca4e6 ***
+*** Renamed /assets/img/2018/10/09/gettyimages-170654931_wide-ef25ab881bd114103140d9d2d5ec2196ff976fea-s400-c85.jpg to /025ecb85dca0ef8112dd34e7e1bd2c40 ***
+*** Renamed /assets/img/2018/10/09/gettyimages-623817156_wide-721fde0e26b34ecc74641ba59032d7b30c69fe25-s400-c85.jpg to /5631053d80a3b2390fc9e9a05561b13d ***
+*** Renamed /assets/img/2018/10/09/labor_wide-99f07df07a2861b462fa901afff770436604e79c-s400-c85.jpg to /ecc5841a708952da474a8baeace2f439 ***
+*** Renamed /assets/img/2018/10/09/ap_18281622574179_wide-e9c811976abdac64f541b5f4beec5f3883a16ef0-s400-c85.jpg to /a2f9188038f3438fe4be400cbeaa9169 ***
+*** Renamed /assets/img/2018/10/09/crashscene_wide-e448c82bdbbbf945085029752ec61cfb2f64e6af-s400-c85.jpg to /1da41ce6d3e35ea8ce32ebc8d6aaf2e4 ***
+*** Renamed /assets/img/2018/10/09/gettyimages-967552848_wide-5c3b36d52d90d47037c4038cca81c07676dad963-s400-c85.jpg to /cac01fe6694173a769aaff7b99c771c7 ***
+*** Renamed /assets/img/2018/10/09/restoration-process1_wide-68e7502006e9c2d6bd55d15f8c7dce8957ee9d9d-s400-c85.jpg to /d753f228bdb7430c1d0e545326805587 ***
+*** Renamed /assets/img/2018/10/09/promo_weed_wide-e359dda63466370781cc212bde3270999f72be5d-s400-c85.jpg to /6253b7c76730204f7c9dd164b7b377c3 ***
+*** Renamed /assets/img/2018/10/09/cookbcancer_wide-87538fd8da7a96dadbc469c23989443ce7783fea-s400-c85.jpg to /b99a1ff1b28fcbb5fa795151165b6114 ***
+*** Renamed /assets/img/2018/10/09/into-the-sunrise_wide-bd003bb3f67c23e3c43fa8956ce7022a32baeb3e-s800-c85.jpg to /d3a3b44c4783e8b7cbe1773fb120b110 ***
+*** Renamed /assets/img/2018/10/09/homeless-family-outside-shelter-1-_wide-2ce9fcb6ad4cbe680fdad327fd980bbb298bc1c2-s400-c85.jpg to /34661ecd45162e73b55e1bd540e87ff4 ***
+*** Renamed /assets/img/2018/10/09/seamus-china-series-ports-locator_wide-705d176787b078a75338cb396c2ad68b03d58dbc-s400-c85.png to /698750bdb5c9b4674bb1378f63e8f285 ***
+*** Renamed /assets/img/2018/10/09/wiley_wide-db636bd3f8a02632d42935aafe345164020cc42b-s400-c85.jpg to /b8fc4fbc12ba67c24db26ce61e90cc8e ***
+*** Renamed /assets/img/2018/10/09/hsieh_angela_music_turntables_natalialafourcade_wide-6455b1295abbc7fdbaad420ebc8ac2ac9319427d-s800-c85.jpg to /054201a16771f4b6e876496401d96c5f ***
+*** Renamed /cgi-bin/m?ci=us-803244h&cg=0&cc=1&si=https%3A%2F%2Fwww.npr.org%2F&rp=&ts=compact&rnd=1539145399598 to /7d3b20c4249b72aa72e986a82d758a6e ***
+*** Renamed /activityi;src=6635101;type=homep0;cat=homep0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=6311534750275 to /15a48d94c881d0893c46e23787f16192 ***
+*** Renamed /ddm/fls/i/src=6635101;type=homep0;cat=homep0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=6311534750275;_dc_1=1;~oref=https://www.npr.org/ to /bd877d1c1883fed0c2ef0b97f64f97d8 ***
+*** Renamed /events/1/ece810d90e?a=3472094&v=1071.385e752&to=Y1NRZkQDV0JRAkAPWloZZkBfTU1UXRFYB0FRRRxRWQxNQ18NWANHRxlERUFMSVlA&rst=18134&ref=https://www.npr.org/ to /b35103365b2a9244d3f181bf7c35425a ***
+*** Renamed /b?c1=2&c2=17691522&ns__t=1539145406382&ns_c=UTF-8&cv=3.1&c8=NPR%20%3A%20National%20Public%20Radio%20%3A%20News%20%26%20Analysis%2C%20World%2C%20US%2C%20Music%20%26%20Arts%20%3A%20NPR&c7=https%3A%2F%2Fwww.npr.org%2F&c9= to /eefa26f70ba635bd749de8138c8b84d8 ***
+*** Renamed /ping?h=npr.org&p=%2F&u=Bdsws5CQGweMCsD41m&d=npr.org&g=18888&g0=No%20Section&g1=No%20Author&n=1&f=00001&c=0&x=0&m=0&y=11855&o=785&w=600&j=45&R=1&W=0&I=0&E=0&e=0&r=&b=5789&t=VWj5hoLBEMoVVRlBiJe-AWhlZp&V=109&i=NPR%20%3A%20National%20Public%20Radio%20%3A%20News%20%26%20Analysis%2C%20World%2C%20US%2C%20Music%20%26%20Arts%20%3A%20NPR&tz=240&sn=1&sv=DlmJ83BCSvEzCMVoMMC2U223CT4OTl&sd=1&im=067b0ff3&_ to /664c015d965a644e1ecac97f0b2818cc ***
+*** Renamed /idr.js?_callback=window.RocketfuelBCP.jsonpCallbacks.request_cmZpSWRJbkNhY2hl to /3e564a1c23ac7c8f1519c713e39aa54a ***
+*** Renamed /r/collect?v=1&_v=j70&a=849386053&t=pageview&_s=1&dl=https%3A%2F%2Fwww.npr.org%2F&dp=%2F&ul=en-us&de=UTF-8&dt=NPR%20%3A%20National%20Public%20Radio%20%3A%20News%20%26%20Analysis%2C%20World%2C%20US%2C%20Music%20%26%20Arts%20%3A%20NPR&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=31.0%20r0&_u=aGBAAEYg~&jid=804984782&gjid=311890740&cid=1443473345.1539145406&tid=UA-5828686-4&_gid=1013130705.1539145406&_r=1&cd2=null&cd3=null&cd4=null&cd5=null&cd6=null&cd11=2&cd12=direct&cd13=www.npr.org%2F&cd14=no%20favorite%20set%20-%20wnyc%2Cwbgo&cd15=no%20favorite%20set%20-%20wnyc%2Cwbgo&cd18=20181010&cd23=portrait&cd24=traditional&cd40=no%20favorite%20set%20-%20554%2C314&cd41=c1pl%2Cc2ps%2Cc3ps%2Cc4ps%2Cc5pl&cd43=false&cd44=false&cd26=not%20active%20-%20collapsed&cd37=&z=1663368349 to /bf744474332eb4f52f4ff822c98b86de ***
+<stats>
+c:tfo.supported:	0
+c:WebFrameActiveCount:	5
+t:tfo.page_load_timer:	11715
+c:URLRequestCount:	94
+c:disk_cache.miss:	97
+c:HttpNetworkTransaction.Count:	99
+c:tcp.connect:	39
+c:tcp.write_bytes:	57135
+c:tcp.read_bytes:	2367672
+c:socket.backup_created:	9
+c:PluginLibrariesLoaded:	1
+c:PluginInstancesActive:	1
+</stats>
+
+<resolves>
+strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
+  104.817 |   201.405 |    96.588 |   0 | www.npr.org:80 ->  23.204.255.10:80 [2600:1408:20:69b::1155]:80 [2600:1408:20:698::1155]:80
+  104.849 |   104.849 |     0.000 |   1 | www.npr.org:80 ->  nil
+  405.451 | 11735.837 | 11330.386 |   0 | www.npr.org:443 ->  23.204.255.10:443 [2600:1408:20:69b::1155]:443 [2600:1408:20:698::1155]:443
+  405.559 |   405.559 |     0.000 |   1 | www.npr.org:443 ->  nil
+  405.575 |   405.575 |     0.000 |   1 | www.npr.org:443 ->  nil
+ 1023.911 |  1332.750 |   308.839 |   0 | cdn.optimizely.com:443 ->  23.204.255.39:443
+ 1023.911 |  1023.911 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+ 1026.420 |  5882.860 |  4856.440 |   0 | s.npr.org:443 ->  23.204.255.10:443 [2600:1408:20:69b::1155]:443 [2600:1408:20:698::1155]:443
+ 1026.483 |  1026.483 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1030.176 |  1030.176 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1030.250 |  1030.250 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1031.211 |  1031.211 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1031.241 |  1031.241 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1032.669 | 12942.357 | 11909.688 |   0 | media.npr.org:443 ->  23.204.255.10:443 [2600:1408:20:698::1155]:443 [2600:1408:20:69b::1155]:443
+ 1032.717 |  1032.717 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1033.289 |  1033.289 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1033.324 |  1033.324 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1034.630 |  1034.630 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1034.661 |  1034.661 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1037.655 |  1037.655 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1037.706 |  1037.706 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1045.467 |  1045.467 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1045.510 |  1045.510 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1047.503 |  1047.503 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1047.545 |  1047.545 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1048.234 |  1048.234 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1048.857 |  1048.857 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1050.314 |  1050.314 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1050.904 |  1050.904 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1051.413 |  1051.413 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1053.300 |  1053.300 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1053.735 |  1053.735 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1054.221 |  1054.221 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1077.228 |  1077.228 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1077.705 |  1077.705 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1078.271 |  1078.271 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1078.758 |  1078.758 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1079.190 |  1079.190 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1079.679 |  1079.679 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1081.494 |  1081.494 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1082.517 |  1082.517 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1083.023 |  1083.023 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1083.534 |  1083.534 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1090.914 |  1090.914 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1092.005 |  1092.005 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1093.325 |  1093.325 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1099.774 |  1099.774 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1103.447 |  1103.447 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1107.663 |  1107.663 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1171.663 |  1171.663 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1171.850 |  1171.850 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1171.979 |  1171.979 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1277.741 |  1277.741 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1277.763 |  1277.763 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1331.919 |  1331.919 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1332.076 |  1332.076 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1332.202 |  1332.202 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1332.336 |  1332.336 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1332.463 |  1332.463 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1332.604 |  1332.604 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1332.747 |  1332.747 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+ 4425.056 |  4564.747 |   139.691 |   0 | logx.optimizely.com:443 ->  52.203.157.58:443 52.204.59.235:443 52.205.53.219:443 52.204.227.50:443 52.0.63.14:443 52.206.62.79:443 52.207.7.200:443 52.206.182.132:443
+ 4425.057 |  4425.057 |     0.000 |   1 | logx.optimizely.com:443 ->  nil
+ 4564.739 |  4564.739 |     0.000 |   1 | logx.optimizely.com:443 ->  nil
+ 4707.033 |  4707.033 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 4737.312 |  4737.312 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 4908.464 |  5159.683 |   251.219 |   0 | a11107397707.cdn.optimizely.com:443 ->  104.108.102.182:443
+ 4908.508 |  4908.508 |     0.000 |   1 | a11107397707.cdn.optimizely.com:443 ->  nil
+ 5017.125 |  5017.125 |     0.000 |   1 | a11107397707.cdn.optimizely.com:443 ->  nil
+ 5159.622 |  5159.622 |     0.000 |   1 | a11107397707.cdn.optimizely.com:443 ->  nil
+ 5159.679 |  5159.679 |     0.000 |   1 | a11107397707.cdn.optimizely.com:443 ->  nil
+ 5876.233 |  6027.103 |   150.870 |   0 | js-agent.newrelic.com:443 ->  151.101.2.110:443 151.101.66.110:443 151.101.130.110:443 151.101.194.110:443
+ 5876.276 |  5876.276 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 5880.889 |  5880.889 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 5882.850 |  5882.850 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 6027.094 |  6027.094 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 9424.204 | 18221.220 |  8797.016 |   0 | bam.nr-data.net:443 ->  162.247.242.19:443 162.247.242.21:443 162.247.242.18:443 162.247.242.20:443
+ 9424.262 |  9424.262 |     0.000 |   1 | bam.nr-data.net:443 ->  nil
+ 9717.929 |  9717.929 |     0.000 |   1 | bam.nr-data.net:443 ->  nil
+10610.294 | 18560.050 |  7949.756 |   0 | www.google-analytics.com:443 ->  172.217.10.46:443 [2607:f8b0:4006:803::200e]:443
+10610.868 | 10610.868 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+10761.830 | 10761.830 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+10850.553 | 16086.991 |  5236.438 |   0 | c1.rfihub.net:443 ->  23.50.229.102:443
+10850.653 | 10850.653 |     0.000 |   1 | c1.rfihub.net:443 ->  nil
+10853.908 | 18519.154 |  7665.246 |   0 | connect.facebook.net:443 ->  31.13.71.7:443 [2a03:2880:f012:8:face:b00c:0:1]:443
+10853.948 | 10853.948 |     0.000 |   1 | connect.facebook.net:443 ->  nil
+10862.208 | 10862.208 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+10862.231 | 10862.231 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+11270.117 | 11521.001 |   250.884 |   0 | api.npr.org:443 ->  216.35.221.71:443
+11270.186 | 11270.186 |     0.000 |   1 | api.npr.org:443 ->  nil
+11339.429 | 11590.663 |   251.234 |   0 | www.googletagservices.com:443 ->  172.217.10.2:443 [2607:f8b0:4006:804::2002]:443
+11339.512 | 11339.512 |     0.000 |   1 | www.googletagservices.com:443 ->  nil
+11465.127 | 11465.127 |     0.000 |   1 | media.npr.org:443 ->  nil
+11467.495 | 11467.495 |     0.000 |   1 | media.npr.org:443 ->  nil
+11470.722 | 11470.722 |     0.000 |   1 | media.npr.org:443 ->  nil
+11471.915 | 11471.915 |     0.000 |   1 | media.npr.org:443 ->  nil
+11473.738 | 11473.738 |     0.000 |   1 | media.npr.org:443 ->  nil
+11474.717 | 11474.717 |     0.000 |   1 | media.npr.org:443 ->  nil
+11475.650 | 11475.650 |     0.000 |   1 | media.npr.org:443 ->  nil
+11477.276 | 11477.276 |     0.000 |   1 | media.npr.org:443 ->  nil
+11477.861 | 11477.861 |     0.000 |   1 | media.npr.org:443 ->  nil
+11479.045 | 11479.045 |     0.000 |   1 | media.npr.org:443 ->  nil
+11479.097 | 11479.097 |     0.000 |   1 | media.npr.org:443 ->  nil
+11479.164 | 11479.164 |     0.000 |   1 | media.npr.org:443 ->  nil
+11480.713 | 11480.713 |     0.000 |   1 | media.npr.org:443 ->  nil
+11482.794 | 11482.794 |     0.000 |   1 | media.npr.org:443 ->  nil
+11482.837 | 11482.837 |     0.000 |   1 | media.npr.org:443 ->  nil
+11482.875 | 11482.875 |     0.000 |   1 | media.npr.org:443 ->  nil
+11482.890 | 11482.890 |     0.000 |   1 | media.npr.org:443 ->  nil
+11493.273 | 11493.273 |     0.000 |   1 | api.npr.org:443 ->  nil
+11497.795 | 11497.795 |     0.000 |   1 | media.npr.org:443 ->  nil
+11497.899 | 11497.899 |     0.000 |   1 | media.npr.org:443 ->  nil
+11497.971 | 11497.971 |     0.000 |   1 | media.npr.org:443 ->  nil
+11498.030 | 11498.030 |     0.000 |   1 | media.npr.org:443 ->  nil
+11503.239 | 11503.239 |     0.000 |   1 | media.npr.org:443 ->  nil
+11506.005 | 11506.005 |     0.000 |   1 | media.npr.org:443 ->  nil
+11510.414 | 11510.414 |     0.000 |   1 | media.npr.org:443 ->  nil
+11510.607 | 11510.607 |     0.000 |   1 | media.npr.org:443 ->  nil
+11510.721 | 11510.721 |     0.000 |   1 | media.npr.org:443 ->  nil
+11513.614 | 11513.614 |     0.000 |   1 | www.googletagservices.com:443 ->  nil
+11520.982 | 11520.982 |     0.000 |   1 | api.npr.org:443 ->  nil
+11520.998 | 11520.998 |     0.000 |   1 | api.npr.org:443 ->  nil
+11527.853 | 18540.675 |  7012.822 |   0 | sb.scorecardresearch.com:443 ->  23.57.19.23:443
+11527.925 | 11527.925 |     0.000 |   1 | sb.scorecardresearch.com:443 ->  nil
+11532.173 | 12982.086 |  1449.913 |   0 | secure-us.imrworldwide.com:443 ->  54.175.193.162:443 52.2.39.10:443 52.203.216.94:443 52.21.6.98:443 52.7.17.216:443 52.86.10.243:443 52.1.7.183:443 54.86.2.116:443
+11532.253 | 11532.253 |     0.000 |   1 | secure-us.imrworldwide.com:443 ->  nil
+11536.196 | 12621.896 |  1085.700 |   0 | 6635101.fls.doubleclick.net:443 ->  172.217.10.38:443
+11536.244 | 11536.244 |     0.000 |   1 | 6635101.fls.doubleclick.net:443 ->  nil
+11590.663 | 11590.663 |     0.000 |   1 | www.googletagservices.com:443 ->  nil
+11590.663 | 11590.663 |     0.000 |   1 | www.googletagservices.com:443 ->  nil
+11705.037 | 11705.037 |     0.000 |   1 | sb.scorecardresearch.com:443 ->  nil
+11735.822 | 11735.822 |     0.000 |   1 | www.npr.org:443 ->  nil
+11742.160 | 11742.160 |     0.000 |   1 | secure-us.imrworldwide.com:443 ->  nil
+11757.321 | 12122.307 |   364.986 |   0 | static.chartbeat.com:443 ->  13.35.77.99:443 [2600:9000:2013:8e00:18:1fcd:348:2461]:443 [2600:9000:2013:2c00:18:1fcd:348:2461]:443 [2600:9000:2013:ee00:18:1fcd:348:2461]:443 [2600:9000:2013:9200:18:1fcd:348:2461]:443 [2600:9000:2013:da00:18:1fcd:348:2461]:443 [2600:9000:2013:a800:18:1fcd:348:2461]:443 [2600:9000:2013:a00:18:1fcd:348:2461]:443 [2600:9000:2013:1800:18:1fcd:348:2461]:443
+11757.387 | 11757.387 |     0.000 |   1 | static.chartbeat.com:443 ->  nil
+11763.666 | 14097.251 |  2333.585 |   0 | insight.adsrvr.org:443 ->  54.236.128.194:443 54.85.100.187:443 54.85.178.158:443 54.82.151.4:443 54.197.52.75:443 54.85.197.245:443 54.85.233.91:443 54.85.96.132:443
+11763.868 | 11763.868 |     0.000 |   1 | insight.adsrvr.org:443 ->  nil
+11782.039 | 11782.039 |     0.000 |   1 | sb.scorecardresearch.com:443 ->  nil
+11782.060 | 11782.060 |     0.000 |   1 | sb.scorecardresearch.com:443 ->  nil
+11783.535 | 11783.535 |     0.000 |   1 | secure-us.imrworldwide.com:443 ->  nil
+11783.553 | 11783.553 |     0.000 |   1 | secure-us.imrworldwide.com:443 ->  nil
+12015.544 | 12015.544 |     0.000 |   1 | insight.adsrvr.org:443 ->  nil
+12015.934 | 12015.934 |     0.000 |   1 | insight.adsrvr.org:443 ->  nil
+12015.958 | 12015.958 |     0.000 |   1 | insight.adsrvr.org:443 ->  nil
+12122.291 | 12122.291 |     0.000 |   1 | static.chartbeat.com:443 ->  nil
+12621.891 | 12621.891 |     0.000 |   1 | 6635101.fls.doubleclick.net:443 ->  nil
+12940.809 | 12940.809 |     0.000 |   1 | media.npr.org:443 ->  nil
+12942.352 | 12942.352 |     0.000 |   1 | media.npr.org:443 ->  nil
+12982.075 | 12982.075 |     0.000 |   1 | secure-us.imrworldwide.com:443 ->  nil
+13170.800 | 13308.066 |   137.266 |   0 | d1eoo1tco6rr5e.cloudfront.net:443 ->  13.35.79.50:443
+13170.847 | 13170.847 |     0.000 |   1 | d1eoo1tco6rr5e.cloudfront.net:443 ->  nil
+13308.061 | 13308.061 |     0.000 |   1 | d1eoo1tco6rr5e.cloudfront.net:443 ->  nil
+13421.557 | 18310.853 |  4889.296 |   0 | adservice.google.com:443 ->  172.217.6.226:443 [2607:f8b0:4006:804::2002]:443
+13421.613 | 13421.613 |     0.000 |   1 | adservice.google.com:443 ->  nil
+13548.154 | 13548.154 |     0.000 |   1 | adservice.google.com:443 ->  nil
+14097.240 | 14097.240 |     0.000 |   1 | insight.adsrvr.org:443 ->  nil
+14417.660 | 15635.499 |  1217.839 |   0 | pixel.advertising.com:443 ->  34.198.204.91:443 18.208.9.84:443 35.170.227.229:443 18.214.144.114:443 34.192.61.163:443 54.84.115.146:443 34.192.58.253:443 34.201.175.252:443
+14417.661 | 14417.661 |     0.000 |   1 | pixel.advertising.com:443 ->  nil
+14858.413 | 14858.413 |     0.000 |   1 | pixel.advertising.com:443 ->  nil
+15635.487 | 15635.487 |     0.000 |   1 | pixel.advertising.com:443 ->  nil
+16086.983 | 16086.983 |     0.000 |   1 | c1.rfihub.net:443 ->  nil
+16092.569 | 16092.569 |     0.000 |   1 | connect.facebook.net:443 ->  nil
+18221.211 | 18221.211 |     0.000 |   1 | bam.nr-data.net:443 ->  nil
+18268.164 | 18268.164 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+18310.844 | 18310.844 |     0.000 |   1 | adservice.google.com:443 ->  nil
+18312.142 | 18562.412 |   250.270 |   0 | securepubads.g.doubleclick.net:443 ->  172.217.10.34:443
+18312.181 | 18312.181 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+18315.988 | 18315.988 |     0.000 |   1 | sb.scorecardresearch.com:443 ->  nil
+18437.646 | 18437.653 |     0.007 | 4294966492 | ping.chartbeat.net:443 ->  nil
+18437.697 | 18437.697 |     0.000 |   1 | ping.chartbeat.net:443 ->  nil
+18450.625 | 18450.645 |     0.020 | 4294966492 | a.rfihub.com:443 ->  nil
+18450.696 | 18450.696 |     0.000 |   1 | a.rfihub.com:443 ->  nil
+18455.652 | 18455.652 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+18519.146 | 18519.146 |     0.000 |   1 | connect.facebook.net:443 ->  nil
+18540.668 | 18540.668 |     0.000 |   1 | sb.scorecardresearch.com:443 ->  nil
+18560.041 | 18560.041 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+18562.397 | 18562.397 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+18562.409 | 18562.409 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+</resolves>
+
+<transactions>
+strt (ms) | end (ms)  | len (ms)  | url
+  104.774 |   404.986 |   300.212 | http://www.npr.org/
+  405.418 |  1108.085 |   702.667 | https://www.npr.org/
+ 1026.397 |  1664.716 |   638.319 | https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js
+ 1033.266 |  1920.919 |   887.653 | https://media.npr.org/chrome_svg/npr_logo.svg
+ 1032.653 |  1920.964 |   888.311 | https://media.npr.org/chrome_svg/npr-logo.svg
+ 1034.603 |  1939.689 |   905.086 | https://media.npr.org/chrome_svg/music-logo-2018.svg
+ 1037.625 |  1961.290 |   923.665 | https://media.npr.org/chrome_svg/podcasts/headphones-ee3d23.svg
+ 1047.480 |  1961.815 |   914.335 | https://media.npr.org/assets/img/2018/10/09/ap_17335767627331_wide-bda36a0ae8e291e8d8d222f96dca33bea6577e1c-s400-c15.jpg
+ 1045.433 |  2007.594 |   962.161 | https://media.npr.org/assets/img/2018/10/09/rtx5f1sx_wide-7a58fd139716dc5598c2688cce2f28d5881f4c2f-s400-c15.jpg
+ 1050.297 |  2021.557 |   971.260 | https://media.npr.org/assets/img/2018/10/09/gettyimages-981260928a_wide-0ce6396d1bcc791667b79182ac7b4c88d4c81d00-s400-c15.jpg
+ 1048.837 |  2040.190 |   991.353 | https://media.npr.org/assets/img/2018/10/09/ap_18282388890248_wide-ba75832da58c3545f755cac27c56dacdf493226c-s400-c15.jpg
+ 1031.194 |  2041.113 |  1009.919 | https://s.npr.org/templates/javascript/dist/bundles/newsHp2-css-0aceacc50567a7d8993b.css
+ 1048.219 |  2051.705 |  1003.486 | https://media.npr.org/assets/img/2018/10/09/michael-sat-colors_wide-65d15bca8bc03adb5a732def5558afde61e48e2c-s400-c15.jpg
+ 1051.400 |  2083.568 |  1032.168 | https://media.npr.org/assets/img/2018/10/09/nsa-9-19-18_wide-0ce3cb4dc62b10960e4bb2616d3e1a2756fe7951-s400-c15.jpg
+ 1053.722 |  2167.200 |  1113.478 | https://media.npr.org/assets/img/2018/10/09/ap_120627080381_wide-3dc0800a55baa331ce65c5d1060f2bffdfd27d72-s400-c15.jpg
+ 1053.286 |  2168.925 |  1115.639 | https://media.npr.org/assets/img/2018/10/09/mandarin-student-pakistan-14_wide-8ae6c5989fd59f8f3c9f5b7b353a7556677d50d1-s400-c15.jpg
+ 1054.208 |  2169.175 |  1114.967 | https://media.npr.org/assets/img/2018/10/09/ap_18260513959156_wide-9b93e5a02757de072b04b01507fb690a5a13f93b-s400-c15.jpg
+ 1077.203 |  2210.769 |  1133.566 | https://media.npr.org/assets/img/2018/10/09/gettyimages-1047779642_wide-9e3e39f9c9283c594431095df3b777ce6a62ee27-s400-c15.jpg
+ 1079.176 |  2226.761 |  1147.585 | https://media.npr.org/assets/img/2018/10/09/labor_wide-99f07df07a2861b462fa901afff770436604e79c-s400-c15.jpg
+ 1078.256 |  2257.479 |  1179.223 | https://media.npr.org/assets/img/2018/10/09/gettyimages-170654931_wide-ef25ab881bd114103140d9d2d5ec2196ff976fea-s400-c15.jpg
+ 1079.666 |  2285.731 |  1206.065 | https://media.npr.org/assets/img/2018/10/09/ap_18281622574179_wide-e9c811976abdac64f541b5f4beec5f3883a16ef0-s400-c15.jpg
+ 1078.736 |  2320.170 |  1241.434 | https://media.npr.org/assets/img/2018/10/09/gettyimages-623817156_wide-721fde0e26b34ecc74641ba59032d7b30c69fe25-s400-c15.jpg
+ 1083.009 |  2394.247 |  1311.238 | https://media.npr.org/assets/img/2018/10/09/restoration-process1_wide-68e7502006e9c2d6bd55d15f8c7dce8957ee9d9d-s400-c15.jpg
+ 1081.480 |  2435.226 |  1353.746 | https://media.npr.org/assets/img/2018/10/09/crashscene_wide-e448c82bdbbbf945085029752ec61cfb2f64e6af-s400-c15.jpg
+ 1050.872 |  2438.803 |  1387.931 | https://media.npr.org/assets/img/2018/10/09/artboard-1-copy-4_wide-8f4153fce1782fba253d1f819c01320f9ab7822a-s900-c15.jpg
+ 1082.502 |  2442.070 |  1359.568 | https://media.npr.org/assets/img/2018/10/09/gettyimages-967552848_wide-5c3b36d52d90d47037c4038cca81c07676dad963-s400-c15.jpg
+ 1093.274 |  2524.251 |  1430.977 | https://media.npr.org/assets/img/2018/10/09/homeless-family-outside-shelter-1-_wide-2ce9fcb6ad4cbe680fdad327fd980bbb298bc1c2-s400-c15.jpg
+ 1090.872 |  2524.443 |  1433.571 | https://media.npr.org/assets/img/2018/10/09/cookbcancer_wide-87538fd8da7a96dadbc469c23989443ce7783fea-s400-c15.jpg
+ 1083.521 |  2535.095 |  1451.574 | https://media.npr.org/assets/img/2018/10/09/promo_weed_wide-e359dda63466370781cc212bde3270999f72be5d-s400-c15.jpg
+ 1077.688 |  2563.534 |  1485.846 | https://media.npr.org/assets/img/2018/10/09/gettyimages-1037545732_wide-782a4914b1317321ff987aeb4d9a68a5fe3862c0-s900-c15.jpg
+ 1103.358 |  2587.680 |  1484.322 | https://media.npr.org/assets/img/2018/10/09/wiley_wide-db636bd3f8a02632d42935aafe345164020cc42b-s400-c15.jpg
+ 1107.644 |  3024.074 |  1916.430 | https://media.npr.org/assets/img/2018/10/09/hsieh_angela_music_turntables_natalialafourcade_wide-6455b1295abbc7fdbaad420ebc8ac2ac9319427d-s900-c15.jpg
+ 1099.750 |  3024.605 |  1924.855 | https://media.npr.org/assets/img/2018/10/09/seamus-china-series-ports-locator_wide-705d176787b078a75338cb396c2ad68b03d58dbc-s400-c15.png
+ 1091.975 |  3158.040 |  2066.065 | https://media.npr.org/assets/img/2018/10/09/into-the-sunrise_wide-bd003bb3f67c23e3c43fa8956ce7022a32baeb3e-s900-c15.jpg
+ 1023.911 |  3169.930 |  2146.019 | https://cdn.optimizely.com/js/11107397707.js
+ 1030.111 |  4565.791 |  3535.680 | https://s.npr.org/templates/javascript/dist/bundles/persistent-css-0aceacc50567a7d8993b.css
+ 4425.056 |  4983.830 |   558.774 | https://logx.optimizely.com/v1/events
+ 4707.010 |  5418.066 |   711.056 | https://media.npr.org/chrome/av/close-embed-modal.png
+ 4737.238 |  5418.640 |   681.402 | https://media.npr.org/chrome/news/bullet_5x5.png
+ 4908.442 |  5821.898 |   913.456 | https://a11107397707.cdn.optimizely.com/client_storage/a11107397707.html
+ 5882.824 |  6086.649 |   203.825 | https://s.npr.org/templates/javascript/dist/bundles/15.6162f813ed7275d1524a.chunk.js
+ 5876.212 |  6877.266 |  1001.054 | https://js-agent.newrelic.com/nr-spa-1071.min.js
+ 5880.831 |  8376.945 |  2496.114 | https://s.npr.org/templates/javascript/dist/bundles/0.9a94d18b115371008438.chunk.js
+ 9424.165 | 10585.789 |  1161.624 | https://bam.nr-data.net/1/ece810d90e?a=3472094&v=1071.385e752&to=Y1NRZkQDV0JRAkAPWloZZkBfTU1UXRFYB0FRRRxRWQxNQ18NWANHRxlERUFMSVlA&rst=9333&ref=https://www.npr.org/&ap=732&be=900&fe=5789&dc=4759&af=err,xhr,ins,spa&perf=%7B%22timing%22:%7B%22of%22:1539145388153,%22n%22:0,%22f%22:319,%22dn%22:319,%22dne%22:319,%22c%22:319,%22ce%22:319,%22rq%22:319,%22rp%22:319,%22rpe%22:1023,%22dl%22:891,%22di%22:4759,%22ds%22:4759,%22de%22:4760,%22dc%22:5789,%22l%22:5789,%22le%22:5798%7D,%22navigation%22:%7B%7D%7D&at=TxRGEAwZRB0SABZcTklL&jsonp=NREUM.setToken
+11735.792 | 12020.635 |   284.843 | https://www.npr.org/js/jquery.jplayer.swf
+11467.470 | 12172.249 |   704.779 | https://media.npr.org/assets/img/2018/10/09/ap_17335767627331_wide-bda36a0ae8e291e8d8d222f96dca33bea6577e1c-s300-c85.jpg
+11473.723 | 12232.402 |   758.679 | https://media.npr.org/assets/img/2018/10/09/gettyimages-981260928a_wide-0ce6396d1bcc791667b79182ac7b4c88d4c81d00-s400-c85.jpg
+10610.218 | 12323.897 |  1713.679 | https://www.google-analytics.com/analytics.js
+11470.705 | 12345.325 |   874.620 | https://media.npr.org/assets/img/2018/10/09/michael-sat-colors_wide-65d15bca8bc03adb5a732def5558afde61e48e2c-s300-c85.jpg
+11465.099 | 12442.404 |   977.305 | https://media.npr.org/assets/img/2018/10/09/rtx5f1sx_wide-7a58fd139716dc5598c2688cce2f28d5881f4c2f-s400-c85.jpg
+11339.398 | 12480.446 |  1141.048 | https://www.googletagservices.com/tag/js/gpt.js
+11270.087 | 12540.270 |  1270.183 | https://api.npr.org/stationfinder/v3/stations/recommendations
+11471.900 | 12954.374 |  1482.474 | https://media.npr.org/assets/img/2018/10/09/ap_18282388890248_wide-ba75832da58c3545f755cac27c56dacdf493226c-s300-c85.jpg
+11532.142 | 12981.677 |  1449.535 | https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-803244h&cg=0&cc=1&si=https%3A%2F%2Fwww.npr.org%2F&rp=&ts=compact&rnd=1539145399598
+11527.824 | 13043.614 |  1515.790 | https://sb.scorecardresearch.com/beacon.js
+11477.847 | 13149.770 |  1671.923 | https://media.npr.org/assets/img/2018/10/09/ap_120627080381_wide-3dc0800a55baa331ce65c5d1060f2bffdfd27d72-s400-c85.jpg
+11763.595 | 13170.406 |  1406.811 | https://insight.adsrvr.org/tags/vflsioo/8dz9rid/iframe
+11477.262 | 13247.740 |  1770.478 | https://media.npr.org/assets/img/2018/10/09/mandarin-student-pakistan-14_wide-8ae6c5989fd59f8f3c9f5b7b353a7556677d50d1-s400-c85.jpg
+11479.031 | 13271.597 |  1792.566 | https://media.npr.org/assets/img/2018/10/09/ap_18260513959156_wide-9b93e5a02757de072b04b01507fb690a5a13f93b-s400-c85.jpg
+12982.051 | 13306.890 |   324.839 | https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-803244h&cg=0&cc=1&si=https%3A%2F%2Fwww.npr.org%2F&rp=&ts=compact&rnd=1539145399598&ja=1
+11475.636 | 13330.331 |  1854.695 | https://media.npr.org/assets/img/2018/10/09/nsa-9-19-18_wide-0ce3cb4dc62b10960e4bb2616d3e1a2756fe7951-s400-c85.jpg
+11757.295 | 13370.633 |  1613.338 | https://static.chartbeat.com/js/chartbeat.js
+11536.173 | 13412.869 |  1876.696 | https://6635101.fls.doubleclick.net/activityi;src=6635101;type=homep0;cat=homep0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=6311534750275?
+11479.076 | 13665.102 |  2186.026 | https://media.npr.org/assets/img/2018/10/09/gettyimages-1047779642_wide-9e3e39f9c9283c594431095df3b777ce6a62ee27-s400-c85.jpg
+11482.826 | 13684.505 |  2201.679 | https://media.npr.org/assets/img/2018/10/09/labor_wide-99f07df07a2861b462fa901afff770436604e79c-s400-c85.jpg
+11480.700 | 13713.640 |  2232.940 | https://media.npr.org/assets/img/2018/10/09/gettyimages-170654931_wide-ef25ab881bd114103140d9d2d5ec2196ff976fea-s400-c85.jpg
+13170.780 | 14072.024 |   901.244 | https://d1eoo1tco6rr5e.cloudfront.net/vflsioo/8dz9rid/iframe
+11482.781 | 14197.543 |  2714.762 | https://media.npr.org/assets/img/2018/10/09/gettyimages-623817156_wide-721fde0e26b34ecc74641ba59032d7b30c69fe25-s400-c85.jpg
+14097.218 | 14417.362 |   320.144 | https://insight.adsrvr.org/track/evnt/?adv=vflsioo&ct=0:8dz9rid&fmt=3
+11482.864 | 14498.338 |  3015.474 | https://media.npr.org/assets/img/2018/10/09/ap_18281622574179_wide-e9c811976abdac64f541b5f4beec5f3883a16ef0-s400-c85.jpg
+13421.535 | 14932.775 |  1511.240 | https://adservice.google.com/ddm/fls/i/src=6635101;type=homep0;cat=homep0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=6311534750275;_dc_1=1;~oref=https://www.npr.org/
+11497.760 | 14956.891 |  3459.131 | https://media.npr.org/assets/img/2018/10/09/gettyimages-967552848_wide-5c3b36d52d90d47037c4038cca81c07676dad963-s400-c85.jpg
+11479.136 | 15246.633 |  3767.497 | https://media.npr.org/assets/img/2018/10/09/gettyimages-1037545732_wide-782a4914b1317321ff987aeb4d9a68a5fe3862c0-s800-c85.jpg
+11474.701 | 15267.240 |  3792.539 | https://media.npr.org/assets/img/2018/10/09/artboard-1-copy-4_wide-8f4153fce1782fba253d1f819c01320f9ab7822a-s800-c85.jpg
+11497.880 | 15296.274 |  3798.394 | https://media.npr.org/assets/img/2018/10/09/restoration-process1_wide-68e7502006e9c2d6bd55d15f8c7dce8957ee9d9d-s400-c85.jpg
+11497.944 | 15533.957 |  4036.013 | https://media.npr.org/assets/img/2018/10/09/promo_weed_wide-e359dda63466370781cc212bde3270999f72be5d-s400-c85.jpg
+11498.012 | 15535.249 |  4037.237 | https://media.npr.org/assets/img/2018/10/09/cookbcancer_wide-87538fd8da7a96dadbc469c23989443ce7783fea-s400-c85.jpg
+11505.967 | 15580.340 |  4074.373 | https://media.npr.org/assets/img/2018/10/09/homeless-family-outside-shelter-1-_wide-2ce9fcb6ad4cbe680fdad327fd980bbb298bc1c2-s400-c85.jpg
+14417.650 | 15635.143 |  1217.493 | https://pixel.advertising.com/ups/55953/sync?uid=6c1a24b3-ca17-42b9-b7b7-fcfb3af0193b&_origin=1&gdpr=0&gdpr_consent=
+15635.464 | 15743.703 |   108.239 | https://pixel.advertising.com/ups/55953/sync?uid=6c1a24b3-ca17-42b9-b7b7-fcfb3af0193b&_origin=1&gdpr=0&gdpr_consent=&verify=true
+12940.809 | 15827.063 |  2886.254 | https://media.npr.org/images/stations/nprone_logos/wnyc.png
+11510.355 | 15933.228 |  4422.873 | https://media.npr.org/assets/img/2018/10/09/seamus-china-series-ports-locator_wide-705d176787b078a75338cb396c2ad68b03d58dbc-s400-c85.png
+11510.576 | 15957.844 |  4447.268 | https://media.npr.org/assets/img/2018/10/09/wiley_wide-db636bd3f8a02632d42935aafe345164020cc42b-s400-c85.jpg
+11482.889 | 15973.926 |  4491.037 | https://media.npr.org/assets/img/2018/10/09/crashscene_wide-e448c82bdbbbf945085029752ec61cfb2f64e6af-s400-c85.jpg
+12942.339 | 16179.962 |  3237.623 | https://media.npr.org/images/stations/nprone_logos/wbgo.png
+10850.520 | 16870.780 |  6020.260 | https://c1.rfihub.net/js/tc.min.js
+11503.215 | 17044.092 |  5540.877 | https://media.npr.org/assets/img/2018/10/09/into-the-sunrise_wide-bd003bb3f67c23e3c43fa8956ce7022a32baeb3e-s800-c85.jpg
+11510.703 | 17106.523 |  5595.820 | https://media.npr.org/assets/img/2018/10/09/hsieh_angela_music_turntables_natalialafourcade_wide-6455b1295abbc7fdbaad420ebc8ac2ac9319427d-s800-c85.jpg
+10853.878 | 17163.890 |  6310.012 | https://connect.facebook.net/en_US/fbevents.js
+18268.142 | 18538.815 |   270.673 | https://www.google-analytics.com/plugins/ua/linkid.js
+18221.185 | 18539.256 |   318.071 | https://bam.nr-data.net/events/1/ece810d90e?a=3472094&v=1071.385e752&to=Y1NRZkQDV0JRAkAPWloZZkBfTU1UXRFYB0FRRRxRWQxNQ18NWANHRxlERUFMSVlA&rst=18134&ref=https://www.npr.org/
+18310.823 | 18540.099 |   229.276 | https://adservice.google.com/adsid/integrator.js?domain=www.npr.org
+18315.962 | 18540.452 |   224.490 | https://sb.scorecardresearch.com/b?c1=2&c2=17691522&ns__t=1539145406382&ns_c=UTF-8&cv=3.1&c8=NPR%20%3A%20National%20Public%20Radio%20%3A%20News%20%26%20Analysis%2C%20World%2C%20US%2C%20Music%20%26%20Arts%20%3A%20NPR&c7=https%3A%2F%2Fwww.npr.org%2F&c9=
+</transactions>
+
+<responses>
+status       | mime_type       | charset | url -> redirect_url
+Moved Permanently |                 |         | http://www.npr.org/ -> https://www.npr.org/
+          OK |       text/html |         | https://www.npr.org/ -> nil
+          OK | application/javascript |         | https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js -> nil
+          OK |   image/svg+xml |         | https://media.npr.org/chrome_svg/npr_logo.svg -> nil
+          OK |   image/svg+xml |         | https://media.npr.org/chrome_svg/npr-logo.svg -> nil
+          OK |   image/svg+xml |         | https://media.npr.org/chrome_svg/music-logo-2018.svg -> nil
+          OK |   image/svg+xml |         | https://media.npr.org/chrome_svg/podcasts/headphones-ee3d23.svg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_17335767627331_wide-bda36a0ae8e291e8d8d222f96dca33bea6577e1c-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/rtx5f1sx_wide-7a58fd139716dc5598c2688cce2f28d5881f4c2f-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-981260928a_wide-0ce6396d1bcc791667b79182ac7b4c88d4c81d00-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_18282388890248_wide-ba75832da58c3545f755cac27c56dacdf493226c-s400-c15.jpg -> nil
+          OK |        text/css |         | https://s.npr.org/templates/javascript/dist/bundles/newsHp2-css-0aceacc50567a7d8993b.css -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/michael-sat-colors_wide-65d15bca8bc03adb5a732def5558afde61e48e2c-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/nsa-9-19-18_wide-0ce3cb4dc62b10960e4bb2616d3e1a2756fe7951-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_120627080381_wide-3dc0800a55baa331ce65c5d1060f2bffdfd27d72-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/mandarin-student-pakistan-14_wide-8ae6c5989fd59f8f3c9f5b7b353a7556677d50d1-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_18260513959156_wide-9b93e5a02757de072b04b01507fb690a5a13f93b-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-1047779642_wide-9e3e39f9c9283c594431095df3b777ce6a62ee27-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/labor_wide-99f07df07a2861b462fa901afff770436604e79c-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-170654931_wide-ef25ab881bd114103140d9d2d5ec2196ff976fea-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_18281622574179_wide-e9c811976abdac64f541b5f4beec5f3883a16ef0-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-623817156_wide-721fde0e26b34ecc74641ba59032d7b30c69fe25-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/restoration-process1_wide-68e7502006e9c2d6bd55d15f8c7dce8957ee9d9d-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/crashscene_wide-e448c82bdbbbf945085029752ec61cfb2f64e6af-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/artboard-1-copy-4_wide-8f4153fce1782fba253d1f819c01320f9ab7822a-s900-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-967552848_wide-5c3b36d52d90d47037c4038cca81c07676dad963-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/homeless-family-outside-shelter-1-_wide-2ce9fcb6ad4cbe680fdad327fd980bbb298bc1c2-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/cookbcancer_wide-87538fd8da7a96dadbc469c23989443ce7783fea-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/promo_weed_wide-e359dda63466370781cc212bde3270999f72be5d-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-1037545732_wide-782a4914b1317321ff987aeb4d9a68a5fe3862c0-s900-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/wiley_wide-db636bd3f8a02632d42935aafe345164020cc42b-s400-c15.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/hsieh_angela_music_turntables_natalialafourcade_wide-6455b1295abbc7fdbaad420ebc8ac2ac9319427d-s900-c15.jpg -> nil
+          OK |       image/png |         | https://media.npr.org/assets/img/2018/10/09/seamus-china-series-ports-locator_wide-705d176787b078a75338cb396c2ad68b03d58dbc-s400-c15.png -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/into-the-sunrise_wide-bd003bb3f67c23e3c43fa8956ce7022a32baeb3e-s900-c15.jpg -> nil
+          OK | text/javascript |   utf-8 | https://cdn.optimizely.com/js/11107397707.js -> nil
+          OK |        text/css |         | https://s.npr.org/templates/javascript/dist/bundles/persistent-css-0aceacc50567a7d8993b.css -> nil
+  No Content |      text/plain |         | https://logx.optimizely.com/v1/events -> nil
+          OK |       image/png |         | https://media.npr.org/chrome/av/close-embed-modal.png -> nil
+          OK |       image/png |         | https://media.npr.org/chrome/news/bullet_5x5.png -> nil
+          OK |       text/html |   utf-8 | https://a11107397707.cdn.optimizely.com/client_storage/a11107397707.html -> nil
+          OK | application/javascript |         | https://s.npr.org/templates/javascript/dist/bundles/15.6162f813ed7275d1524a.chunk.js -> nil
+          OK | application/javascript |         | https://js-agent.newrelic.com/nr-spa-1071.min.js -> nil
+          OK | application/javascript |         | https://s.npr.org/templates/javascript/dist/bundles/0.9a94d18b115371008438.chunk.js -> nil
+          OK | text/javascript | iso-8859-1 | https://bam.nr-data.net/1/ece810d90e?a=3472094&v=1071.385e752&to=Y1NRZkQDV0JRAkAPWloZZkBfTU1UXRFYB0FRRRxRWQxNQ18NWANHRxlERUFMSVlA&rst=9333&ref=https://www.npr.org/&ap=732&be=900&fe=5789&dc=4759&af=err,xhr,ins,spa&perf=%7B%22timing%22:%7B%22of%22:1539145388153,%22n%22:0,%22f%22:319,%22dn%22:319,%22dne%22:319,%22c%22:319,%22ce%22:319,%22rq%22:319,%22rp%22:319,%22rpe%22:1023,%22dl%22:891,%22di%22:4759,%22ds%22:4759,%22de%22:4760,%22dc%22:5789,%22l%22:5789,%22le%22:5798%7D,%22navigation%22:%7B%7D%7D&at=TxRGEAwZRB0SABZcTklL&jsonp=NREUM.setToken -> nil
+   Not Found |       text/html |   utf-8 | https://www.npr.org/js/jquery.jplayer.swf -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_17335767627331_wide-bda36a0ae8e291e8d8d222f96dca33bea6577e1c-s300-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-981260928a_wide-0ce6396d1bcc791667b79182ac7b4c88d4c81d00-s400-c85.jpg -> nil
+          OK | text/javascript |         | https://www.google-analytics.com/analytics.js -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/michael-sat-colors_wide-65d15bca8bc03adb5a732def5558afde61e48e2c-s300-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/rtx5f1sx_wide-7a58fd139716dc5598c2688cce2f28d5881f4c2f-s400-c85.jpg -> nil
+          OK | text/javascript |         | https://www.googletagservices.com/tag/js/gpt.js -> nil
+          OK | application/json |         | https://api.npr.org/stationfinder/v3/stations/recommendations -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_18282388890248_wide-ba75832da58c3545f755cac27c56dacdf493226c-s300-c85.jpg -> nil
+       Found |                 |         | https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-803244h&cg=0&cc=1&si=https%3A%2F%2Fwww.npr.org%2F&rp=&ts=compact&rnd=1539145399598 -> https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-803244h&cg=0&cc=1&si=https%3A%2F%2Fwww.npr.org%2F&rp=&ts=compact&rnd=1539145399598&ja=1
+          OK | application/x-javascript |         | https://sb.scorecardresearch.com/beacon.js -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_120627080381_wide-3dc0800a55baa331ce65c5d1060f2bffdfd27d72-s400-c85.jpg -> nil
+   See Other |       text/html |   utf-8 | https://insight.adsrvr.org/tags/vflsioo/8dz9rid/iframe -> https://d1eoo1tco6rr5e.cloudfront.net/vflsioo/8dz9rid/iframe
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/mandarin-student-pakistan-14_wide-8ae6c5989fd59f8f3c9f5b7b353a7556677d50d1-s400-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_18260513959156_wide-9b93e5a02757de072b04b01507fb690a5a13f93b-s400-c85.jpg -> nil
+          OK |       image/gif |         | https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-803244h&cg=0&cc=1&si=https%3A%2F%2Fwww.npr.org%2F&rp=&ts=compact&rnd=1539145399598&ja=1 -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/nsa-9-19-18_wide-0ce3cb4dc62b10960e4bb2616d3e1a2756fe7951-s400-c85.jpg -> nil
+          OK | application/x-javascript |         | https://static.chartbeat.com/js/chartbeat.js -> nil
+          OK |       text/html |   utf-8 | https://6635101.fls.doubleclick.net/activityi;src=6635101;type=homep0;cat=homep0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=6311534750275? -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-1047779642_wide-9e3e39f9c9283c594431095df3b777ce6a62ee27-s400-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/labor_wide-99f07df07a2861b462fa901afff770436604e79c-s400-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-170654931_wide-ef25ab881bd114103140d9d2d5ec2196ff976fea-s400-c85.jpg -> nil
+          OK |       text/html |         | https://d1eoo1tco6rr5e.cloudfront.net/vflsioo/8dz9rid/iframe -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-623817156_wide-721fde0e26b34ecc74641ba59032d7b30c69fe25-s400-c85.jpg -> nil
+       Found |                 |         | https://insight.adsrvr.org/track/evnt/?adv=vflsioo&ct=0:8dz9rid&fmt=3 -> https://pixel.advertising.com/ups/55953/sync?uid=6c1a24b3-ca17-42b9-b7b7-fcfb3af0193b&_origin=1&gdpr=0&gdpr_consent=
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/ap_18281622574179_wide-e9c811976abdac64f541b5f4beec5f3883a16ef0-s400-c85.jpg -> nil
+          OK |       text/html |   utf-8 | https://adservice.google.com/ddm/fls/i/src=6635101;type=homep0;cat=homep0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=6311534750275;_dc_1=1;~oref=https://www.npr.org/ -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-967552848_wide-5c3b36d52d90d47037c4038cca81c07676dad963-s400-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-1037545732_wide-782a4914b1317321ff987aeb4d9a68a5fe3862c0-s800-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/artboard-1-copy-4_wide-8f4153fce1782fba253d1f819c01320f9ab7822a-s800-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/restoration-process1_wide-68e7502006e9c2d6bd55d15f8c7dce8957ee9d9d-s400-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/promo_weed_wide-e359dda63466370781cc212bde3270999f72be5d-s400-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/cookbcancer_wide-87538fd8da7a96dadbc469c23989443ce7783fea-s400-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/homeless-family-outside-shelter-1-_wide-2ce9fcb6ad4cbe680fdad327fd980bbb298bc1c2-s400-c85.jpg -> nil
+       Found |                 |         | https://pixel.advertising.com/ups/55953/sync?uid=6c1a24b3-ca17-42b9-b7b7-fcfb3af0193b&_origin=1&gdpr=0&gdpr_consent= -> https://pixel.advertising.com/ups/55953/sync?uid=6c1a24b3-ca17-42b9-b7b7-fcfb3af0193b&_origin=1&gdpr=0&gdpr_consent=&verify=true
+  No Content |                 |         | https://pixel.advertising.com/ups/55953/sync?uid=6c1a24b3-ca17-42b9-b7b7-fcfb3af0193b&_origin=1&gdpr=0&gdpr_consent=&verify=true -> nil
+          OK |       image/png |         | https://media.npr.org/images/stations/nprone_logos/wnyc.png -> nil
+          OK |       image/png |         | https://media.npr.org/assets/img/2018/10/09/seamus-china-series-ports-locator_wide-705d176787b078a75338cb396c2ad68b03d58dbc-s400-c85.png -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/wiley_wide-db636bd3f8a02632d42935aafe345164020cc42b-s400-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/crashscene_wide-e448c82bdbbbf945085029752ec61cfb2f64e6af-s400-c85.jpg -> nil
+          OK |       image/png |         | https://media.npr.org/images/stations/nprone_logos/wbgo.png -> nil
+          OK | application/x-javascript |         | https://c1.rfihub.net/js/tc.min.js -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/into-the-sunrise_wide-bd003bb3f67c23e3c43fa8956ce7022a32baeb3e-s800-c85.jpg -> nil
+          OK |      image/jpeg |         | https://media.npr.org/assets/img/2018/10/09/hsieh_angela_music_turntables_natalialafourcade_wide-6455b1295abbc7fdbaad420ebc8ac2ac9319427d-s800-c85.jpg -> nil
+          OK | application/x-javascript |   utf-8 | https://connect.facebook.net/en_US/fbevents.js -> nil
+          OK | text/javascript |         | https://www.google-analytics.com/plugins/ua/linkid.js -> nil
+          OK |       image/gif |         | https://bam.nr-data.net/events/1/ece810d90e?a=3472094&v=1071.385e752&to=Y1NRZkQDV0JRAkAPWloZZkBfTU1UXRFYB0FRRRxRWQxNQ18NWANHRxlERUFMSVlA&rst=18134&ref=https://www.npr.org/ -> nil
+          OK | application/javascript |   utf-8 | https://adservice.google.com/adsid/integrator.js?domain=www.npr.org -> nil
+Moved Temporarily |                 |         | https://sb.scorecardresearch.com/b?c1=2&c2=17691522&ns__t=1539145406382&ns_c=UTF-8&cv=3.1&c8=NPR%20%3A%20National%20Public%20Radio%20%3A%20News%20%26%20Analysis%2C%20World%2C%20US%2C%20Music%20%26%20Arts%20%3A%20NPR&c7=https%3A%2F%2Fwww.npr.org%2F&c9= -> https://sb.scorecardresearch.com/b2?c1=2&c2=17691522&ns__t=1539145406382&ns_c=UTF-8&cv=3.1&c8=NPR%20%3A%20National%20Public%20Radio%20%3A%20News%20%26%20Analysis%2C%20World%2C%20US%2C%20Music%20%26%20Arts%20%3A%20NPR&c7=https%3A%2F%2Fwww.npr.org%2F&c9=
+</responses>
+
+<queries>
+Collections of histograms for DNS.
+Histogram: AsyncDNS.HaveDnsConfig recorded 22 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (22 = 100.0%)
+1  ... 
+
+Histogram: DNS.AttemptDiscarded recorded 22 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (22 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: DNS.AttemptSuccess recorded 22 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (22 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: DNS.AttemptSuccessDuration recorded 22 samples, average = 704.1 (flags = 0x1)
+0     ... 
+89    ------------O                                                             (1 = 4.5%) {0.0%}
+103   ------------O                                                             (1 = 4.5%) {4.5%}
+119   ------------O                                                             (1 = 4.5%) {9.1%}
+137   ------------------------------------------------------------------------O (6 = 27.3%) {13.6%}
+158   ------------------------O                                                 (2 = 9.1%) {40.9%}
+182   ------------O                                                             (1 = 4.5%) {50.0%}
+210   ------------O                                                             (1 = 4.5%) {54.5%}
+242   ------------O                                                             (1 = 4.5%) {59.1%}
+279   ------------------------------------O                                     (3 = 13.6%) {63.6%}
+322   ------------O                                                             (1 = 4.5%) {77.3%}
+372   O                                                                         (0 = 0.0%) {81.8%}
+429   ------------O                                                             (1 = 4.5%) {81.8%}
+495   ... 
+1013  ------------O                                                             (1 = 4.5%) {86.4%}
+1169  ... 
+4904  ------------------------O                                                 (2 = 9.1%) {90.9%}
+5660  ... 
+
+Histogram: DNS.AttemptTimeSavedByRetry recorded 22 samples, average = 8767070.0 (flags = 0x1)
+0        ... 
+3600000  ------------------------------------------------------------------------O (22 = 100.0%) {0.0%}
+
+Histogram: DNS.JobQueueTime recorded 24 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (24 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTimeAfterChange recorded 24 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (24 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTimeAfterChange_LOWEST recorded 24 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (24 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTime_LOWEST recorded 24 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (24 = 100.0%)
+1  ... 
+
+Histogram: DNS.ResolveCategory recorded 22 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (22 = 100.0%)
+1  ... 
+
+Histogram: DNS.ResolveSuccess recorded 22 samples, average = 704.0 (flags = 0x1)
+0     ... 
+89    ------------O                                                             (1 = 4.5%) {0.0%}
+103   ------------O                                                             (1 = 4.5%) {4.5%}
+119   ------------O                                                             (1 = 4.5%) {9.1%}
+137   ------------------------------------------------------------------------O (6 = 27.3%) {13.6%}
+158   ------------------------O                                                 (2 = 9.1%) {40.9%}
+182   ------------O                                                             (1 = 4.5%) {50.0%}
+210   ------------O                                                             (1 = 4.5%) {54.5%}
+242   ------------O                                                             (1 = 4.5%) {59.1%}
+279   ------------------------------------O                                     (3 = 13.6%) {63.6%}
+322   ------------O                                                             (1 = 4.5%) {77.3%}
+372   O                                                                         (0 = 0.0%) {81.8%}
+429   ------------O                                                             (1 = 4.5%) {81.8%}
+495   ... 
+1013  ------------O                                                             (1 = 4.5%) {86.4%}
+1169  ... 
+4904  ------------------------O                                                 (2 = 9.1%) {90.9%}
+5660  ... 
+
+Histogram: DNS.ResolveSuccess_FAMILY_UNSPEC recorded 22 samples, average = 704.0 (flags = 0x1)
+0     ... 
+89    ------------O                                                             (1 = 4.5%) {0.0%}
+103   ------------O                                                             (1 = 4.5%) {4.5%}
+119   ------------O                                                             (1 = 4.5%) {9.1%}
+137   ------------------------------------------------------------------------O (6 = 27.3%) {13.6%}
+158   ------------------------O                                                 (2 = 9.1%) {40.9%}
+182   ------------O                                                             (1 = 4.5%) {50.0%}
+210   ------------O                                                             (1 = 4.5%) {54.5%}
+242   ------------O                                                             (1 = 4.5%) {59.1%}
+279   ------------------------------------O                                     (3 = 13.6%) {63.6%}
+322   ------------O                                                             (1 = 4.5%) {77.3%}
+372   O                                                                         (0 = 0.0%) {81.8%}
+429   ------------O                                                             (1 = 4.5%) {81.8%}
+495   ... 
+1013  ------------O                                                             (1 = 4.5%) {86.4%}
+1169  ... 
+4904  ------------------------O                                                 (2 = 9.1%) {90.9%}
+5660  ... 
+
+Histogram: DNS.TotalTime recorded 39 samples, average = 441.8 (flags = 0x1)
+0     ------------------------------------------------------------------------O (10 = 25.6%)
+1     ... 
+89    -O                                                                        (1 = 2.6%) {25.6%}
+103   -O                                                                        (1 = 2.6%) {28.2%}
+119   -O                                                                        (1 = 2.6%) {30.8%}
+137   ------------O                                                             (8 = 20.5%) {33.3%}
+158   ---O                                                                      (2 = 5.1%) {53.8%}
+182   -O                                                                        (1 = 2.6%) {59.0%}
+210   -O                                                                        (1 = 2.6%) {61.5%}
+242   -O                                                                        (1 = 2.6%) {64.1%}
+279   ------------O                                                             (8 = 20.5%) {66.7%}
+322   -O                                                                        (1 = 2.6%) {87.2%}
+372   O                                                                         (0 = 0.0%) {89.7%}
+429   -O                                                                        (1 = 2.6%) {89.7%}
+495   ... 
+1013  -O                                                                        (1 = 2.6%) {92.3%}
+1169  ... 
+4904  ---O                                                                      (2 = 5.1%) {94.9%}
+5660  ... 
+
+
+Collections of histograms for Net.
+Histogram: Net.CertVerifier_Job_Latency recorded 21 samples, average = 7.1 (flags = 0x1)
+0   O                                                                         (0 = 0.0%)
+1   ---------------------O                                                    (2 = 9.5%) {0.0%}
+2   ------------------------------------------------------------------------O (7 = 33.3%) {9.5%}
+3   ---------------------------------------------------O                      (5 = 23.8%) {42.9%}
+4   ----------O                                                               (1 = 4.8%) {66.7%}
+5   ----------O                                                               (1 = 4.8%) {71.4%}
+6   ----------O                                                               (1 = 4.8%) {76.2%}
+7   ----------O                                                               (1 = 4.8%) {81.0%}
+8   ... 
+12  -----O                                                                    (1 = 4.8%) {85.7%}
+14  O                                                                         (0 = 0.0%) {90.5%}
+16  -----O                                                                    (1 = 4.8%) {90.5%}
+18  ... 
+69  --O                                                                       (1 = 4.8%) {95.2%}
+78  ... 
+
+Histogram: Net.Compress.SSL.BytesAfterCompression recorded 20 samples, average = 116709.0 (flags = 0x1)
+0       ------------------------------------------------------------------------O (3 = 15.0%)
+500     ... 
+1268    ------------------------O                                                 (1 = 5.0%) {15.0%}
+1370    O                                                                         (0 = 0.0%) {20.0%}
+1480    ------------------------------------------------O                         (2 = 10.0%) {20.0%}
+1599    ... 
+7544    ------------------------O                                                 (1 = 5.0%) {30.0%}
+8152    ... 
+12985   ------------------------O                                                 (1 = 5.0%) {35.0%}
+14032   ... 
+19137   ------------------------------------------------O                         (2 = 10.0%) {40.0%}
+20681   O                                                                         (0 = 0.0%) {50.0%}
+22349   ------------------------O                                                 (1 = 5.0%) {50.0%}
+24152   ... 
+32938   ------------------------O                                                 (1 = 5.0%) {55.0%}
+35595   ------------------------O                                                 (1 = 5.0%) {60.0%}
+38466   O                                                                         (0 = 0.0%) {65.0%}
+41569   ------------------------O                                                 (1 = 5.0%) {65.0%}
+44922   ------------------------O                                                 (1 = 5.0%) {70.0%}
+48545   ... 
+133075  ------------------------O                                                 (1 = 5.0%) {75.0%}
+143809  ... 
+181489  ------------------------O                                                 (1 = 5.0%) {80.0%}
+196128  O                                                                         (0 = 0.0%) {85.0%}
+211947  ------------------------O                                                 (1 = 5.0%) {85.0%}
+229042  ... 
+581004  ------------------------O                                                 (1 = 5.0%) {90.0%}
+627867  ... 
+925361  ------------------------O                                                 (1 = 5.0%) {95.0%}
+1000000 O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.Compress.SSL.BytesBeforeCompression recorded 20 samples, average = 41839.9 (flags = 0x1)
+0       ------------------------------------------------------------------------O (3 = 15.0%)
+500     ... 
+682     ------------------------O                                                 (1 = 5.0%) {15.0%}
+737     O                                                                         (0 = 0.0%) {20.0%}
+796     ------------------------O                                                 (1 = 5.0%) {20.0%}
+860     ------------------------O                                                 (1 = 5.0%) {25.0%}
+929     ... 
+3473    ------------------------O                                                 (1 = 5.0%) {30.0%}
+3753    ... 
+5532    ------------------------------------------------O                         (2 = 10.0%) {35.0%}
+5978    ------------------------O                                                 (1 = 5.0%) {45.0%}
+6460    ... 
+8152    ------------------------O                                                 (1 = 5.0%) {50.0%}
+8810    ... 
+12016   ------------------------O                                                 (1 = 5.0%) {55.0%}
+12985   O                                                                         (0 = 0.0%) {60.0%}
+14032   ------------------------------------------------O                         (2 = 10.0%) {60.0%}
+15164   O                                                                         (0 = 0.0%) {70.0%}
+16387   ------------------------O                                                 (1 = 5.0%) {70.0%}
+17709   ... 
+35595   ------------------------O                                                 (1 = 5.0%) {75.0%}
+38466   ------------------------O                                                 (1 = 5.0%) {80.0%}
+41569   ... 
+61265   ------------------------O                                                 (1 = 5.0%) {85.0%}
+66207   ... 
+247516  ------------------------O                                                 (1 = 5.0%) {90.0%}
+267480  ... 
+337565  ------------------------O                                                 (1 = 5.0%) {95.0%}
+364793  ... 
+
+Histogram: Net.Compress.SSL.ShouldHaveBeenCompressed recorded 6 samples, average = 1137.0 (flags = 0x1)
+0     ------------------------------------------------------------------------O (2 = 33.3%)
+500   ... 
+929   ------------------------------------------------------------------------O (2 = 33.3%) {33.3%}
+1004  ... 
+1728  ------------------------------------O                                     (1 = 16.7%) {66.7%}
+1867  ... 
+2752  ------------------------------------O                                     (1 = 16.7%) {83.3%}
+2974  ... 
+
+Histogram: Net.ConnectionTypeCount3 recorded 121 samples, average = 4.7 (flags = 0x1)
+0   ------------------------------------------------------------------------O (36 = 29.8%)
+1   --------------------------------------------------------O                 (28 = 23.1%) {29.8%}
+2   ... 
+7   ----------------------------------------------------------O               (29 = 24.0%) {52.9%}
+8   ... 
+12  --------------------------------------------------------O                 (28 = 23.1%) {76.9%}
+13  ... 
+
+Histogram: Net.ConnectionUsedSSLVersionFallback recorded 98 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (98 = 100.0%)
+1  ... 
+
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 36 samples, average = 627.5 (flags = 0x1)
+0     ... 
+69    ---------O                                                                (1 = 2.8%) {0.0%}
+78    ---------O                                                                (1 = 2.8%) {2.8%}
+88    ... 
+145   ------------------O                                                       (2 = 5.6%) {5.6%}
+164   ---------O                                                                (1 = 2.8%) {11.1%}
+186   ---------O                                                                (1 = 2.8%) {13.9%}
+211   ---------------------------O                                              (3 = 8.3%) {16.7%}
+239   ---------------------------------------------O                            (5 = 13.9%) {25.0%}
+271   ---------------------------O                                              (3 = 8.3%) {38.9%}
+307   ---------------------------O                                              (3 = 8.3%) {47.2%}
+348   ------------------O                                                       (2 = 5.6%) {55.6%}
+394   ------------------------------------------------------------------------O (8 = 22.2%) {61.1%}
+446   O                                                                         (0 = 0.0%) {83.3%}
+505   ------------------O                                                       (2 = 5.6%) {83.3%}
+572   ... 
+831   ---------O                                                                (1 = 2.8%) {88.9%}
+941   ... 
+1206  ---------O                                                                (1 = 2.8%) {91.7%}
+1365  ... 
+4727  ---------O                                                                (1 = 2.8%) {94.4%}
+5352  ---------O                                                                (1 = 2.8%) {97.2%}
+6060  ... 
+
+Histogram: Net.GoogleConnectionUsedSSLVersionFallback recorded 2 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+1  ... 
+
+Histogram: Net.HadConnectionType3 recorded 4 samples, average = 5.0 (flags = 0x1)
+0   ------------------------------------------------------------------------O (1 = 25.0%)
+1   ------------------------------------------------------------------------O (1 = 25.0%) {25.0%}
+2   ... 
+7   ------------------------------------------------------------------------O (1 = 25.0%) {50.0%}
+8   ... 
+12  ------------------------------------------------------------------------O (1 = 25.0%) {75.0%}
+13  ... 
+
+Histogram: Net.HttpConnectionLatency recorded 29 samples, average = 1115.7 (flags = 0x1)
+0     ... 
+186   ------------O                                                             (1 = 3.4%) {0.0%}
+211   ... 
+394   ------------O                                                             (1 = 3.4%) {3.4%}
+446   ------------------------O                                                 (2 = 6.9%) {6.9%}
+505   ------------------------O                                                 (2 = 6.9%) {13.8%}
+572   ------------------------O                                                 (2 = 6.9%) {20.7%}
+648   ------------------------------------------------------------O             (5 = 17.2%) {27.6%}
+734   ------------------------------------------------------------------------O (6 = 20.7%) {44.8%}
+831   ------------------------O                                                 (2 = 6.9%) {65.5%}
+941   ------------------------------------------------O                         (4 = 13.8%) {72.4%}
+1065  ------------O                                                             (1 = 3.4%) {86.2%}
+1206  ... 
+1546  ------------O                                                             (1 = 3.4%) {89.7%}
+1750  ... 
+5352  ------------------------O                                                 (2 = 6.9%) {93.1%}
+6060  ... 
+
+Histogram: Net.HttpJob.TotalTime recorded 93 samples, average = 1777.4 (flags = 0x1)
+0     ... 
+96    ------O                                                                   (1 = 1.1%) {0.0%}
+114   ... 
+190   -----------O                                                              (2 = 2.2%) {1.1%}
+226   ------O                                                                   (1 = 1.1%) {3.2%}
+268   ----------------------O                                                   (4 = 4.3%) {4.3%}
+318   -----------O                                                              (2 = 2.2%) {8.6%}
+378   ... 
+533   ------O                                                                   (1 = 1.1%) {10.8%}
+633   ----------------------------O                                             (5 = 5.4%) {11.8%}
+752   ----------------------O                                                   (4 = 4.3%) {17.2%}
+894   ------------------------------------------------------------------------O (13 = 14.0%) {21.5%}
+1062  -------------------------------------------------------------O            (11 = 11.8%) {35.5%}
+1262  ------------------------------------------------------------------------O (13 = 14.0%) {47.3%}
+1500  ---------------------------------O                                        (6 = 6.5%) {61.3%}
+1782  ---------------------------------O                                        (6 = 6.5%) {67.7%}
+2117  ----------------------------O                                             (5 = 5.4%) {74.2%}
+2516  -----------O                                                              (2 = 2.2%) {79.6%}
+2990  ----------------------O                                                   (4 = 4.3%) {81.7%}
+3553  ---------------------------------O                                        (6 = 6.5%) {86.0%}
+4222  -----------------O                                                        (3 = 3.2%) {92.5%}
+5017  -----------O                                                              (2 = 2.2%) {95.7%}
+5961  -----------O                                                              (2 = 2.2%) {97.8%}
+7083  ... 
+
+Histogram: Net.HttpJob.TotalTimeCancel recorded 7 samples, average = 743.3 (flags = 0x1)
+0     ... 
+190   ------------------------------------O                                     (1 = 14.3%) {0.0%}
+226   O                                                                         (0 = 0.0%) {14.3%}
+268   ------------------------------------------------------------------------O (2 = 28.6%) {14.3%}
+318   ------------------------------------O                                     (1 = 14.3%) {42.9%}
+378   ... 
+1062  ------------------------------------O                                     (1 = 14.3%) {57.1%}
+1262  ------------------------------------------------------------------------O (2 = 28.6%) {71.4%}
+1500  ... 
+
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 93 samples, average = 1777.4 (flags = 0x1)
+0     ... 
+96    ------O                                                                   (1 = 1.1%) {0.0%}
+114   ... 
+190   -----------O                                                              (2 = 2.2%) {1.1%}
+226   ------O                                                                   (1 = 1.1%) {3.2%}
+268   ----------------------O                                                   (4 = 4.3%) {4.3%}
+318   -----------O                                                              (2 = 2.2%) {8.6%}
+378   ... 
+533   ------O                                                                   (1 = 1.1%) {10.8%}
+633   ----------------------------O                                             (5 = 5.4%) {11.8%}
+752   ----------------------O                                                   (4 = 4.3%) {17.2%}
+894   ------------------------------------------------------------------------O (13 = 14.0%) {21.5%}
+1062  -------------------------------------------------------------O            (11 = 11.8%) {35.5%}
+1262  ------------------------------------------------------------------------O (13 = 14.0%) {47.3%}
+1500  ---------------------------------O                                        (6 = 6.5%) {61.3%}
+1782  ---------------------------------O                                        (6 = 6.5%) {67.7%}
+2117  ----------------------------O                                             (5 = 5.4%) {74.2%}
+2516  -----------O                                                              (2 = 2.2%) {79.6%}
+2990  ----------------------O                                                   (4 = 4.3%) {81.7%}
+3553  ---------------------------------O                                        (6 = 6.5%) {86.0%}
+4222  -----------------O                                                        (3 = 3.2%) {92.5%}
+5017  -----------O                                                              (2 = 2.2%) {95.7%}
+5961  -----------O                                                              (2 = 2.2%) {97.8%}
+7083  ... 
+
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 86 samples, average = 1861.5 (flags = 0x1)
+0     ... 
+96    ------O                                                                   (1 = 1.2%) {0.0%}
+114   ... 
+190   ------O                                                                   (1 = 1.2%) {1.2%}
+226   ------O                                                                   (1 = 1.2%) {2.3%}
+268   -----------O                                                              (2 = 2.3%) {3.5%}
+318   ------O                                                                   (1 = 1.2%) {5.8%}
+378   ... 
+533   ------O                                                                   (1 = 1.2%) {7.0%}
+633   ----------------------------O                                             (5 = 5.8%) {8.1%}
+752   ----------------------O                                                   (4 = 4.7%) {14.0%}
+894   ------------------------------------------------------------------------O (13 = 15.1%) {18.6%}
+1062  -------------------------------------------------------O                  (10 = 11.6%) {33.7%}
+1262  -------------------------------------------------------------O            (11 = 12.8%) {45.3%}
+1500  ---------------------------------O                                        (6 = 7.0%) {58.1%}
+1782  ---------------------------------O                                        (6 = 7.0%) {65.1%}
+2117  ----------------------------O                                             (5 = 5.8%) {72.1%}
+2516  -----------O                                                              (2 = 2.3%) {77.9%}
+2990  ----------------------O                                                   (4 = 4.7%) {80.2%}
+3553  ---------------------------------O                                        (6 = 7.0%) {84.9%}
+4222  -----------------O                                                        (3 = 3.5%) {91.9%}
+5017  -----------O                                                              (2 = 2.3%) {95.3%}
+5961  -----------O                                                              (2 = 2.3%) {97.7%}
+7083  ... 
+
+Histogram: Net.HttpResponseCode recorded 94 samples, average = 208.8 (flags = 0x1)
+0    ... 
+200  ------------------------------------------------------------------------O (85 = 90.4%) {0.0%}
+201  ... 
+204  ------------------------------------------------------------------------O (2 = 2.1%) {90.4%}
+205  ... 
+301  ------------------------------------------------------------------------O (1 = 1.1%) {92.6%}
+302  ------------------------------------------------------------------------O (4 = 4.3%) {93.6%}
+303  ------------------------------------------------------------------------O (1 = 1.1%) {97.9%}
+304  ... 
+404  ------------------------------------------------------------------------O (1 = 1.1%) {98.9%}
+405  ... 
+
+Histogram: Net.HttpSocketType recorded 96 samples, average = 1.4 (flags = 0x1)
+0  -------------------------------O                                          (29 = 30.2%)
+1  O                                                                         (0 = 0.0%) {30.2%}
+2  ------------------------------------------------------------------------O (67 = 69.8%) {30.2%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.HttpTimeToFirstByte recorded 93 samples, average = 1489.2 (flags = 0x1)
+0     ... 
+61    -----O                                                                    (1 = 1.1%) {0.0%}
+75    -----O                                                                    (1 = 1.1%) {1.1%}
+92    ------------------O                                                       (4 = 4.3%) {2.2%}
+113   O                                                                         (0 = 0.0%) {6.5%}
+139   ---------O                                                                (2 = 2.2%) {6.5%}
+171   -----O                                                                    (1 = 1.1%) {8.6%}
+210   -----O                                                                    (1 = 1.1%) {9.7%}
+258   -------------O                                                            (3 = 3.2%) {10.8%}
+317   O                                                                         (0 = 0.0%) {14.0%}
+389   ---------O                                                                (2 = 2.2%) {14.0%}
+477   -------------O                                                            (3 = 3.2%) {16.1%}
+585   -------------O                                                            (3 = 3.2%) {19.4%}
+718   -----------------------O                                                  (5 = 5.4%) {22.6%}
+881   --------------------------------------------------------------------O     (15 = 16.1%) {28.0%}
+1081  ------------------------------------------------------------------------O (16 = 17.2%) {44.1%}
+1326  -----------------------------------------------------------O              (13 = 14.0%) {61.3%}
+1627  -------------O                                                            (3 = 3.2%) {75.3%}
+1996  -----------------------O                                                  (5 = 5.4%) {78.5%}
+2449  ---------O                                                                (2 = 2.2%) {83.9%}
+3005  ------------------O                                                       (4 = 4.3%) {86.0%}
+3687  -------------------------------O                                          (7 = 7.5%) {90.3%}
+4524  O                                                                         (0 = 0.0%) {97.8%}
+5551  ---------O                                                                (2 = 2.2%) {97.8%}
+6812  ... 
+
+Histogram: Net.NumDuplicateCookiesInDb recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.PreconnectUtilization2 recorded 1 samples, average = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: Net.Priority_High_Latency_b recorded 6 samples, average = 566.8 (flags = 0x1)
+0     ... 
+100   ------------------------------------------------------------------------O (1 = 16.7%) {0.0%}
+113   O                                                                         (0 = 0.0%) {16.7%}
+128   ------------------------------------------------------------------------O (1 = 16.7%) {16.7%}
+145   ... 
+271   ------------------------------------------------------------------------O (1 = 16.7%) {33.3%}
+307   ... 
+505   ------------------------------------------------------------------------O (1 = 16.7%) {50.0%}
+572   ... 
+1065  ------------------------------------------------------------------------O (1 = 16.7%) {66.7%}
+1206  ------------------------------------------------------------------------O (1 = 16.7%) {83.3%}
+1365  ... 
+
+Histogram: Net.RenegotiationExtensionSupported recorded 28 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (28 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.SSLCertVerificationTime recorded 28 samples, average = 5.4 (flags = 0x1)
+0   ------------------------------------------------------------------------O (7 = 25.0%)
+1   ---------------------O                                                    (2 = 7.1%) {25.0%}
+2   ------------------------------------------------------------------------O (7 = 25.0%) {32.1%}
+3   ---------------------------------------------------O                      (5 = 17.9%) {57.1%}
+4   ----------O                                                               (1 = 3.6%) {75.0%}
+5   ----------O                                                               (1 = 3.6%) {78.6%}
+6   ----------O                                                               (1 = 3.6%) {82.1%}
+7   ----------O                                                               (1 = 3.6%) {85.7%}
+8   ... 
+12  -----O                                                                    (1 = 3.6%) {89.3%}
+14  ---O                                                                      (1 = 3.6%) {92.9%}
+17  ... 
+68  --O                                                                       (1 = 3.6%) {96.4%}
+81  ... 
+
+Histogram: Net.SSL_Connection_Latency recorded 28 samples, average = 393.7 (flags = 0x1)
+0    ... 
+164  --------------O                                                           (2 = 7.1%) {0.0%}
+186  O                                                                         (0 = 0.0%) {7.1%}
+211  -------O                                                                  (1 = 3.6%) {7.1%}
+239  -------O                                                                  (1 = 3.6%) {10.7%}
+271  ----------------------O                                                   (3 = 10.7%) {14.3%}
+307  ------------------------------------------------------------------------O (10 = 35.7%) {25.0%}
+348  O                                                                         (0 = 0.0%) {60.7%}
+394  --------------O                                                           (2 = 7.1%) {60.7%}
+446  --------------O                                                           (2 = 7.1%) {67.9%}
+505  ----------------------O                                                   (3 = 10.7%) {75.0%}
+572  --------------O                                                           (2 = 7.1%) {85.7%}
+648  O                                                                         (0 = 0.0%) {92.9%}
+734  --------------O                                                           (2 = 7.1%) {92.9%}
+831  ... 
+
+Histogram: Net.SSL_Connection_Latency_Full_Handshake recorded 28 samples, average = 393.7 (flags = 0x1)
+0    ... 
+164  ----------------O                                                         (2 = 7.1%) {0.0%}
+181  O                                                                         (0 = 0.0%) {7.1%}
+200  --------O                                                                 (1 = 3.6%) {7.1%}
+221  O                                                                         (0 = 0.0%) {10.7%}
+244  --------O                                                                 (1 = 3.6%) {10.7%}
+269  ----------------O                                                         (2 = 7.1%) {14.3%}
+297  ------------------------------------------------------------------------O (9 = 32.1%) {21.4%}
+328  ----------------O                                                         (2 = 7.1%) {53.6%}
+362  O                                                                         (0 = 0.0%) {60.7%}
+399  --------O                                                                 (1 = 3.6%) {60.7%}
+440  ------------------------O                                                 (3 = 10.7%) {64.3%}
+485  ----------------O                                                         (2 = 7.1%) {75.0%}
+535  --------O                                                                 (1 = 3.6%) {82.1%}
+590  ----------------O                                                         (2 = 7.1%) {85.7%}
+651  O                                                                         (0 = 0.0%) {92.9%}
+718  --------O                                                                 (1 = 3.6%) {92.9%}
+792  --------O                                                                 (1 = 3.6%) {96.4%}
+874  ... 
+
+Histogram: Net.SSL_Connection_Latency_Google recorded 1 samples, average = 813.0 (flags = 0x1)
+0    ... 
+734  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+831  ... 
+
+Histogram: Net.SSL_Connection_Latency_Google_Full_Handshake recorded 1 samples, average = 813.0 (flags = 0x1)
+0    ... 
+792  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+874  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket recorded 67 samples, average = 1356.0 (flags = 0x1)
+0      ------------------------------------------------------------------------O (49 = 73.1%)
+1      ... 
+20     O                                                                         (1 = 1.5%) {73.1%}
+23     ... 
+886    O                                                                         (1 = 1.5%) {74.6%}
+997    ... 
+1262   -O                                                                        (2 = 3.0%) {76.1%}
+1420   O                                                                         (1 = 1.5%) {79.1%}
+1597   O                                                                         (1 = 1.5%) {80.6%}
+1797   ... 
+3239   O                                                                         (1 = 1.5%) {82.1%}
+3644   O                                                                         (1 = 1.5%) {83.6%}
+4099   ... 
+5187   O                                                                         (1 = 1.5%) {85.1%}
+5835   -O                                                                        (3 = 4.5%) {86.6%}
+6564   O                                                                         (0 = 0.0%) {91.0%}
+7384   O                                                                         (1 = 1.5%) {91.0%}
+8307   -O                                                                        (4 = 6.0%) {92.5%}
+9345   O                                                                         (0 = 0.0%) {98.5%}
+10513  O                                                                         (1 = 1.5%) {98.5%}
+11827  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSL2 recorded 67 samples, average = 1356.0 (flags = 0x1)
+0      ------------------------------------------------------------------------O (49 = 73.1%)
+1      ... 
+20     O                                                                         (1 = 1.5%) {73.1%}
+23     ... 
+886    O                                                                         (1 = 1.5%) {74.6%}
+997    ... 
+1262   -O                                                                        (2 = 3.0%) {76.1%}
+1420   O                                                                         (1 = 1.5%) {79.1%}
+1597   O                                                                         (1 = 1.5%) {80.6%}
+1797   ... 
+3239   O                                                                         (1 = 1.5%) {82.1%}
+3644   O                                                                         (1 = 1.5%) {83.6%}
+4099   ... 
+5187   O                                                                         (1 = 1.5%) {85.1%}
+5835   -O                                                                        (3 = 4.5%) {86.6%}
+6564   O                                                                         (0 = 0.0%) {91.0%}
+7384   O                                                                         (1 = 1.5%) {91.0%}
+8307   -O                                                                        (4 = 6.0%) {92.5%}
+9345   O                                                                         (0 = 0.0%) {98.5%}
+10513  O                                                                         (1 = 1.5%) {98.5%}
+11827  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSL2 recorded 95 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (95 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCP recorded 29 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (29 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSL2 recorded 28 samples, average = 1148.1 (flags = 0x1)
+0     ... 
+394   ------------O                                                             (1 = 3.6%) {0.0%}
+446   ------------------------O                                                 (2 = 7.1%) {3.6%}
+505   ------------------------O                                                 (2 = 7.1%) {10.7%}
+572   ------------------------O                                                 (2 = 7.1%) {17.9%}
+648   ------------------------------------------------------------O             (5 = 17.9%) {25.0%}
+734   ------------------------------------------------------------------------O (6 = 21.4%) {42.9%}
+831   ------------------------O                                                 (2 = 7.1%) {64.3%}
+941   ------------------------------------------------O                         (4 = 14.3%) {71.4%}
+1065  ------------O                                                             (1 = 3.6%) {85.7%}
+1206  ... 
+1546  ------------O                                                             (1 = 3.6%) {89.3%}
+1750  ... 
+5352  ------------------------O                                                 (2 = 7.1%) {92.9%}
+6060  ... 
+
+Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCP recorded 29 samples, average = 734.9 (flags = 0x1)
+0     ... 
+69    ---------O                                                                (1 = 3.4%) {0.0%}
+78    ... 
+186   ---------O                                                                (1 = 3.4%) {3.4%}
+211   ------------------O                                                       (2 = 6.9%) {6.9%}
+239   ---------------------------O                                              (3 = 10.3%) {13.8%}
+271   ---------------------------O                                              (3 = 10.3%) {24.1%}
+307   ---------------------------O                                              (3 = 10.3%) {34.5%}
+348   ------------------O                                                       (2 = 6.9%) {44.8%}
+394   ------------------------------------------------------------------------O (8 = 27.6%) {51.7%}
+446   O                                                                         (0 = 0.0%) {79.3%}
+505   ------------------O                                                       (2 = 6.9%) {79.3%}
+572   ... 
+831   ---------O                                                                (1 = 3.4%) {86.2%}
+941   ... 
+1206  ---------O                                                                (1 = 3.4%) {89.7%}
+1365  ... 
+4727  ---------O                                                                (1 = 3.4%) {93.1%}
+5352  ---------O                                                                (1 = 3.4%) {96.6%}
+6060  ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSL2 recorded 95 samples, average = 1.4 (flags = 0x1)
+0  ------------------------------O                                           (28 = 29.5%)
+1  O                                                                         (0 = 0.0%) {29.5%}
+2  ------------------------------------------------------------------------O (67 = 70.5%) {29.5%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.SocketType_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCP recorded 29 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (29 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketType_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.TCP_Connection_Latency recorded 36 samples, average = 152.6 (flags = 0x1)
+0    ... 
+42   ----------O                                                               (1 = 2.8%) {0.0%}
+48   O                                                                         (0 = 0.0%) {2.8%}
+54   ----------O                                                               (1 = 2.8%) {2.8%}
+61   ----------O                                                               (1 = 2.8%) {5.6%}
+69   ----------O                                                               (1 = 2.8%) {8.3%}
+78   ----------O                                                               (1 = 2.8%) {11.1%}
+88   ---------------------O                                                    (2 = 5.6%) {13.9%}
+100  -------------------------------O                                          (3 = 8.3%) {19.4%}
+113  -----------------------------------------O                                (4 = 11.1%) {27.8%}
+128  -----------------------------------------O                                (4 = 11.1%) {38.9%}
+145  ------------------------------------------------------------------------O (7 = 19.4%) {50.0%}
+164  -------------------------------O                                          (3 = 8.3%) {69.4%}
+186  ---------------------O                                                    (2 = 5.6%) {77.8%}
+211  ---------------------O                                                    (2 = 5.6%) {83.3%}
+239  -------------------------------O                                          (3 = 8.3%) {88.9%}
+271  ... 
+394  ----------O                                                               (1 = 2.8%) {97.2%}
+446  ... 
+
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 36 samples, average = 152.6 (flags = 0x1)
+0    ... 
+42   ----------O                                                               (1 = 2.8%) {0.0%}
+48   O                                                                         (0 = 0.0%) {2.8%}
+54   ----------O                                                               (1 = 2.8%) {2.8%}
+61   ----------O                                                               (1 = 2.8%) {5.6%}
+69   ----------O                                                               (1 = 2.8%) {8.3%}
+78   ----------O                                                               (1 = 2.8%) {11.1%}
+88   ---------------------O                                                    (2 = 5.6%) {13.9%}
+100  -------------------------------O                                          (3 = 8.3%) {19.4%}
+113  -----------------------------------------O                                (4 = 11.1%) {27.8%}
+128  -----------------------------------------O                                (4 = 11.1%) {38.9%}
+145  ------------------------------------------------------------------------O (7 = 19.4%) {50.0%}
+164  -------------------------------O                                          (3 = 8.3%) {69.4%}
+186  ---------------------O                                                    (2 = 5.6%) {77.8%}
+211  ---------------------O                                                    (2 = 5.6%) {83.3%}
+239  -------------------------------O                                          (3 = 8.3%) {88.9%}
+271  ... 
+394  ----------O                                                               (1 = 2.8%) {97.2%}
+446  ... 
+
+Histogram: Net.Transaction_Connected recorded 6 samples, average = 566.8 (flags = 0x1)
+0     ... 
+100   ------------------------------------------------------------------------O (1 = 16.7%) {0.0%}
+113   O                                                                         (0 = 0.0%) {16.7%}
+128   ------------------------------------------------------------------------O (1 = 16.7%) {16.7%}
+145   ... 
+271   ------------------------------------------------------------------------O (1 = 16.7%) {33.3%}
+307   ... 
+505   ------------------------------------------------------------------------O (1 = 16.7%) {50.0%}
+572   ... 
+1065  ------------------------------------------------------------------------O (1 = 16.7%) {66.7%}
+1206  ------------------------------------------------------------------------O (1 = 16.7%) {83.3%}
+1365  ... 
+
+Histogram: Net.Transaction_Connected_New_b recorded 4 samples, average = 788.5 (flags = 0x1)
+0     ... 
+271   ------------------------------------------------------------------------O (1 = 25.0%) {0.0%}
+307   ... 
+505   ------------------------------------------------------------------------O (1 = 25.0%) {25.0%}
+572   ... 
+1065  ------------------------------------------------------------------------O (1 = 25.0%) {50.0%}
+1206  ------------------------------------------------------------------------O (1 = 25.0%) {75.0%}
+1365  ... 
+
+Histogram: Net.Transaction_Latency_Total recorded 86 samples, average = 1860.3 (flags = 0x1)
+0     ... 
+100   --------O                                                                 (1 = 1.2%) {0.0%}
+113   ... 
+186   --------O                                                                 (1 = 1.2%) {1.2%}
+211   --------O                                                                 (1 = 1.2%) {2.3%}
+239   --------O                                                                 (1 = 1.2%) {3.5%}
+271   O                                                                         (0 = 0.0%) {4.7%}
+307   ----------------O                                                         (2 = 2.3%) {4.7%}
+348   ... 
+505   --------O                                                                 (1 = 1.2%) {7.0%}
+572   --------O                                                                 (1 = 1.2%) {8.1%}
+648   --------------------------------O                                         (4 = 4.7%) {9.3%}
+734   --------O                                                                 (1 = 1.2%) {14.0%}
+831   ----------------------------------------------------------------O         (8 = 9.3%) {15.1%}
+941   ----------------------------------------------------------------O         (8 = 9.3%) {24.4%}
+1065  ------------------------------------------------------------------------O (9 = 10.5%) {33.7%}
+1206  ----------------------------------------O                                 (5 = 5.8%) {44.2%}
+1365  ------------------------------------------------------------------------O (9 = 10.5%) {50.0%}
+1546  ------------------------O                                                 (3 = 3.5%) {60.5%}
+1750  ------------------------------------------------O                         (6 = 7.0%) {64.0%}
+1981  ----------------------------------------O                                 (5 = 5.8%) {70.9%}
+2243  --------O                                                                 (1 = 1.2%) {76.7%}
+2540  --------O                                                                 (1 = 1.2%) {77.9%}
+2876  ------------------------O                                                 (3 = 3.5%) {79.1%}
+3256  ----------------O                                                         (2 = 2.3%) {82.6%}
+3687  ------------------------------------------------O                         (6 = 7.0%) {84.9%}
+4175  ------------------------O                                                 (3 = 3.5%) {91.9%}
+4727  O                                                                         (0 = 0.0%) {95.3%}
+5352  ------------------------O                                                 (3 = 3.5%) {95.3%}
+6060  --------O                                                                 (1 = 1.2%) {98.8%}
+6861  ... 
+
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 25 samples, average = 1640.0 (flags = 0x1)
+0     ... 
+505   ----------O                                                               (1 = 4.0%) {0.0%}
+572   ----------O                                                               (1 = 4.0%) {4.0%}
+648   ----------O                                                               (1 = 4.0%) {8.0%}
+734   O                                                                         (0 = 0.0%) {12.0%}
+831   ------------------------------------------------------------------------O (7 = 28.0%) {12.0%}
+941   -------------------------------O                                          (3 = 12.0%) {40.0%}
+1065  ---------------------O                                                    (2 = 8.0%) {52.0%}
+1206  ----------O                                                               (1 = 4.0%) {60.0%}
+1365  ---------------------O                                                    (2 = 8.0%) {64.0%}
+1546  ---------------------O                                                    (2 = 8.0%) {72.0%}
+1750  ----------O                                                               (1 = 4.0%) {80.0%}
+1981  ----------O                                                               (1 = 4.0%) {84.0%}
+2243  ... 
+3256  ----------O                                                               (1 = 4.0%) {88.0%}
+3687  ... 
+5352  ----------O                                                               (1 = 4.0%) {92.0%}
+6060  ----------O                                                               (1 = 4.0%) {96.0%}
+6861  ... 
+
+Histogram: Net.Transaction_Latency_b recorded 86 samples, average = 600.3 (flags = 0x1)
+0     ... 
+54    ---------O                                                                (1 = 1.2%) {0.0%}
+61    ---------O                                                                (1 = 1.2%) {1.2%}
+69    ------------------O                                                       (2 = 2.3%) {2.3%}
+78    ------------------O                                                       (2 = 2.3%) {4.7%}
+88    ---------O                                                                (1 = 1.2%) {7.0%}
+100   ------------------O                                                       (2 = 2.3%) {8.1%}
+113   ------------------O                                                       (2 = 2.3%) {10.5%}
+128   ---------------------------O                                              (3 = 3.5%) {12.8%}
+145   ------------------------------------------------------------------------O (8 = 9.3%) {16.3%}
+164   ---------------------------O                                              (3 = 3.5%) {25.6%}
+186   ---------------------------O                                              (3 = 3.5%) {29.1%}
+211   ---------------------------O                                              (3 = 3.5%) {32.6%}
+239   ---------------------------O                                              (3 = 3.5%) {36.0%}
+271   ------------------O                                                       (2 = 2.3%) {39.5%}
+307   ------------------------------------------------------O                   (6 = 7.0%) {41.9%}
+348   ---------------------------O                                              (3 = 3.5%) {48.8%}
+394   ---------------------------O                                              (3 = 3.5%) {52.3%}
+446   ---------------------------------------------O                            (5 = 5.8%) {55.8%}
+505   ---------O                                                                (1 = 1.2%) {61.6%}
+572   ---------------------------------------------O                            (5 = 5.8%) {62.8%}
+648   ---------------------------------------------O                            (5 = 5.8%) {68.6%}
+734   ------------------------------------O                                     (4 = 4.7%) {74.4%}
+831   ---------------------------O                                              (3 = 3.5%) {79.1%}
+941   ---------------------------O                                              (3 = 3.5%) {82.6%}
+1065  ------------------O                                                       (2 = 2.3%) {86.0%}
+1206  ---------O                                                                (1 = 1.2%) {88.4%}
+1365  ------------------O                                                       (2 = [14917:14924:8775842595:FATAL:url_request_context.cc(121)] Check failed: false. Leaked 6 URLRequest(s). First URL: https://sb.scorecardresearch.com/b2?c1=2&c2=17691522&ns__t=1539145406382&ns_c=UTF-8&cv=3.1&c8=NPR%20%3A%20National%20Public%20Radio%20%3A%20News%20%26%20Analysis%2C%20World%2C%20US%2C%20Music%20%26%20Arts%20%3A%20NPR&c7=https%3A%2F%2Fwww.npr.org%2F&c9=.
+2.3%) {89.5%}
+1546  ---------O                                                                (1 = 1.2%) {91.9%}
+1750  ---------O                                                                (1 = 1.2%) {93.0%}
+1981  ---------O                                                                (1 = 1.2%) {94.2%}
+2243  ------------------O                                                       (2 = 2.3%) {95.3%}
+2540  O                                                                         (0 = 0.0%) {97.7%}
+2876  ---------O                                                                (1 = 1.2%) {97.7%}
+3256  O                                                                         (0 = 0.0%) {98.8%}
+3687  ---------O                                                                (1 = 1.2%) {98.8%}
+4175  ... 
+
+
+</queries>
+Received signal 6
+ [0x000000531f1e] base::debug::StackTrace::StackTrace()
+ [0x000000532418] base::debug::(anonymous namespace)::StackDumpSignalHandler()
+ [0x7f90b4415330] <unknown>
+ [0x7f90b343ac37] gsignal
+ [0x7f90b343e028] abort
+ [0x00000056c349] base::debug::BreakDebugger()
+ [0x0000005405cd] logging::LogMessage::~LogMessage()
+ [0x000001c2eb7e] net::URLRequestContext::AssertNoURLRequests()
+ [0x000001c2ebc8] net::URLRequestContext::~URLRequestContext()
+ [0x000001aec899] TestShellRequestContext::~TestShellRequestContext()
+ [0x000001ae3c1f] (anonymous namespace)::IOThread::CleanUp()
+ [0x00000055eafd] base::Thread::ThreadMain()
+ [0x00000055e361] base::(anonymous namespace)::ThreadFunc()
+ [0x7f90b440d184] start_thread
+ [0x7f90b350203d] clone
+  r8: 000000000204024d  r9: 00007f90ac882b5e r10: 0000000000000008 r11: 0000000000000202
+ r12: 0000000000000000 r13: 00007f90b37c7868 r14: 00007f90ac8849c0 r15: 00007f90ac884700
+  di: 0000000000003a45  si: 0000000000003a4c  bp: 00007f90b3fec3c0  bx: 00007f90ac883650
+  dx: 0000000000000006  ax: 0000000000000000  cx: ffffffffffffffff  sp: 00007f90ac882df8
+  ip: 00007f90b343ac37 efl: 0000000000000202 cgf: 0000000000000033 erf: 0000000000000000
+ trp: 0000000000000000 msk: 0000000000000000 cr2: 0000000000000000

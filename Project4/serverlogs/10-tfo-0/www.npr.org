@@ -1,0 +1,10 @@
+HTTP Running : 8000  from  /home/mininet/Documents/Project4/myURLS/www.npr.org  with delay  0.0 s
+<socket._socketobject object at 0x7efdf4ed6c20>
+/home/mininet/Documents/Project4/myURLS/www.npr.org/
+/home/mininet/Documents/Project4/myURLS/www.npr.org/index.html
+10.0.0.34 - - [10/Oct/2018 00:24:16] "GET / HTTP/1.1" 200 -
+<socket._socketobject object at 0x7efdf4ed6c20>
+/home/mininet/Documents/Project4/myURLS/www.npr.org/
+/home/mininet/Documents/Project4/myURLS/www.npr.org/index.html
+10.0.0.34 - - [10/Oct/2018 00:24:27] "GET / HTTP/1.1" 200 -
+Killed

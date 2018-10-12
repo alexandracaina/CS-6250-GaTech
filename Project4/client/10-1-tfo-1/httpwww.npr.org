@@ -1,0 +1,928 @@
+[22363:22368:9072388055:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+
+(test_shell:22363): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
+Loading hacky DNS from '/home/mininet/Documents/Project4/hack_dns' succeeded.
+Remapping 'cdn.optimizely.com' -> '10.0.0.1' port 8000
+Remapping 'a11107397707.cdn.optimizely.com' -> '10.0.0.2' port 8000
+Remapping 'fonts.googleapis.com' -> '10.0.0.3' port 8000
+Remapping 'c1.rfihub.net' -> '10.0.0.4' port 8000
+Remapping 'api.npr.org' -> '10.0.0.5' port 8000
+Remapping 'www.craigslist.org' -> '10.0.0.6' port 8000
+Remapping 'www.googletagservices.com' -> '10.0.0.7' port 8000
+Remapping 'www.google-analytics.com' -> '10.0.0.8' port 8000
+Remapping 'https%3A' -> '10.0.0.9' port 8000
+Remapping 'secure-us.imrworldwide.com' -> '10.0.0.10' port 8000
+Remapping 'www.npr.org' -> '10.0.0.11' port 8000
+Remapping 'static.chartbeat.com' -> '10.0.0.12' port 8000
+Remapping 'adservice.google.com' -> '10.0.0.13' port 8000
+Remapping 'platform.twitter.com' -> '10.0.0.14' port 8000
+Remapping 'craigslist.org' -> '10.0.0.15' port 8000
+Remapping 'connect.facebook.net' -> '10.0.0.16' port 8000
+Remapping 'bam.nr-data.net' -> '10.0.0.17' port 8000
+Remapping 'pbs.twimg.com' -> '10.0.0.18' port 8000
+Remapping 'logx.optimizely.com' -> '10.0.0.19' port 8000
+Remapping 'sb.scorecardresearch.com' -> '10.0.0.20' port 8000
+Remapping 's.npr.org' -> '10.0.0.21' port 8000
+Remapping 'syndication.twitter.com' -> '10.0.0.22' port 8000
+Remapping 'js-agent.newrelic.com' -> '10.0.0.23' port 8000
+Remapping 'securepubads.g.doubleclick.net' -> '10.0.0.24' port 8000
+Remapping '6635101.fls.doubleclick.net' -> '10.0.0.25' port 8000
+Remapping 'maxcdn.bootstrapcdn.com' -> '10.0.0.26' port 8000
+Remapping 'canvas.gatech.edu' -> '10.0.0.27' port 8000
+Remapping 'fonts.gstatic.com' -> '10.0.0.28' port 8000
+Remapping 'media.npr.org' -> '10.0.0.29' port 8000
+Remapping 'a.rfihub.com' -> '10.0.0.30' port 8000
+Remapping 'cdn.syndication.twimg.com' -> '10.0.0.31' port 8000
+Remapping 'ping.chartbeat.net' -> '10.0.0.32' port 8000
+Remapping 'insight.adsrvr.org' -> '10.0.0.33' port 8000
+[22363:22363:9072546246:INFO:CONSOLE(0)] "Viewport argument key "shrink-to-fit" not recognized and ignored.," source: http://www.npr.org/(4)
+[22363:22373:9072619369:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072619878:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072620323:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072622167:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072663311:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072670479:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072675649:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072706977:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072707128:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072707828:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072707890:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072707926:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072722723:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072723548:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072723808:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072788712:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072788888:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072815621:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072816601:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072830615:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072831002:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072834552:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072834723:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072886856:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072928941:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072943653:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072944051:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072944120:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072951489:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072951567:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9072951617:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073016967:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073017226:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073017312:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073017313:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073017313:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073017586:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073076811:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073076947:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073076992:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073077062:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073077096:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073077128:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073086061:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073123617:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073123814:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073123877:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073123929:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073123983:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073132374:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073156693:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073165173:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073180485:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073184852:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073206131:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073211871:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073228568:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073241374:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073250098:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073271191:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073271816:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073271860:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073271894:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073312058:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073312275:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073312321:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073312355:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073341281:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073341394:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073348655:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073348713:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073348751:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073348784:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073349553:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073349612:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073426763:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073426933:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073426988:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073427040:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073427093:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073463454:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073463552:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073463655:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073479861:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073480082:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073507919:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073515698:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073515757:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073515816:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073515857:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073515891:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073515923:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073515955:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073523297:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073523452:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073547575:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073560268:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073560333:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073560367:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073564684:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073564737:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073565298:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073585064:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073603854:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073610216:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073614956:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073623240:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073631364:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073650509:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073654871:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073654935:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073660240:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073727466:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073731845:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073763757:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073763966:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073772490:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073817402:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073817508:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073827461:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073855182:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073939183:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073946760:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073954494:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073968591:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073979955:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073983018:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9073991131:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9074003619:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9074023489:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9074032096:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9074036625:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[22363:22373:9074072232:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+<stats>
+c:tfo.supported:	1
+c:WebFrameActiveCount:	2
+t:tfo.page_load_timer:	1907
+c:URLRequestCount:	38
+c:disk_cache.miss:	38
+c:HttpNetworkTransaction.Count:	38
+c:tcp.connect:	139
+c:tcp.write_bytes:	22303
+c:tcp.read_bytes:	231567
+</stats>
+
+<resolves>
+strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
+  258.121 |   258.741 |     0.620 |   0 | www.npr.org:80 ->  10.0.0.11:8000
+  258.733 |   258.733 |     0.000 |   1 | www.npr.org:80 ->  nil
+  401.652 |   693.033 |   291.381 |   0 | cdn.optimizely.com:443 ->  10.0.0.1:8000
+  401.720 |   401.720 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+  401.729 |   401.729 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+  406.870 |  1884.616 |  1477.746 |   0 | s.npr.org:443 ->  10.0.0.21:8000
+  406.920 |   406.920 |     0.000 |   1 | s.npr.org:443 ->  nil
+  406.928 |   406.928 |     0.000 |   1 | s.npr.org:443 ->  nil
+  407.146 |   407.146 |     0.000 |   1 | s.npr.org:443 ->  nil
+  407.174 |   407.174 |     0.000 |   1 | s.npr.org:443 ->  nil
+  407.181 |   407.181 |     0.000 |   1 | s.npr.org:443 ->  nil
+  407.328 |   407.328 |     0.000 |   1 | s.npr.org:443 ->  nil
+  407.355 |   407.355 |     0.000 |   1 | s.npr.org:443 ->  nil
+  407.362 |   407.362 |     0.000 |   1 | s.npr.org:443 ->  nil
+  407.528 |  1670.218 |  1262.690 |   0 | media.npr.org:443 ->  10.0.0.29:8000
+  407.571 |   407.571 |     0.000 |   1 | media.npr.org:443 ->  nil
+  407.578 |   407.578 |     0.000 |   1 | media.npr.org:443 ->  nil
+  407.725 |   407.725 |     0.000 |   1 | media.npr.org:443 ->  nil
+  407.751 |   407.751 |     0.000 |   1 | media.npr.org:443 ->  nil
+  407.758 |   407.758 |     0.000 |   1 | media.npr.org:443 ->  nil
+  407.884 |   407.884 |     0.000 |   1 | media.npr.org:443 ->  nil
+  407.919 |   407.919 |     0.000 |   1 | media.npr.org:443 ->  nil
+  407.926 |   407.926 |     0.000 |   1 | media.npr.org:443 ->  nil
+  471.075 |   471.075 |     0.000 |   1 | media.npr.org:443 ->  nil
+  471.118 |   471.118 |     0.000 |   1 | media.npr.org:443 ->  nil
+  471.124 |   471.124 |     0.000 |   1 | media.npr.org:443 ->  nil
+  472.040 |   472.040 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+  472.083 |   472.083 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+  472.089 |   472.089 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+  472.390 |   472.390 |     0.000 |   1 | s.npr.org:443 ->  nil
+  472.398 |   472.398 |     0.000 |   1 | s.npr.org:443 ->  nil
+  472.516 |   472.516 |     0.000 |   1 | s.npr.org:443 ->  nil
+  472.542 |   472.542 |     0.000 |   1 | s.npr.org:443 ->  nil
+  472.548 |   472.548 |     0.000 |   1 | s.npr.org:443 ->  nil
+  473.850 |   473.850 |     0.000 |   1 | s.npr.org:443 ->  nil
+  473.859 |   473.859 |     0.000 |   1 | s.npr.org:443 ->  nil
+  473.995 |   473.995 |     0.000 |   1 | s.npr.org:443 ->  nil
+  474.020 |   474.020 |     0.000 |   1 | s.npr.org:443 ->  nil
+  474.026 |   474.026 |     0.000 |   1 | s.npr.org:443 ->  nil
+  477.067 |   477.067 |     0.000 |   1 | s.npr.org:443 ->  nil
+  477.208 |   477.208 |     0.000 |   1 | s.npr.org:443 ->  nil
+  477.258 |   477.258 |     0.000 |   1 | s.npr.org:443 ->  nil
+  499.422 |   499.422 |     0.000 |   1 | media.npr.org:443 ->  nil
+  499.475 |   499.475 |     0.000 |   1 | media.npr.org:443 ->  nil
+  500.640 |   500.640 |     0.000 |   1 | media.npr.org:443 ->  nil
+  515.974 |   515.974 |     0.000 |   1 | media.npr.org:443 ->  nil
+  515.992 |   515.992 |     0.000 |   1 | media.npr.org:443 ->  nil
+  519.858 |   519.858 |     0.000 |   1 | media.npr.org:443 ->  nil
+  519.918 |   519.918 |     0.000 |   1 | media.npr.org:443 ->  nil
+  519.928 |   519.928 |     0.000 |   1 | media.npr.org:443 ->  nil
+  524.185 |   524.185 |     0.000 |   1 | media.npr.org:443 ->  nil
+  524.203 |   524.203 |     0.000 |   1 | media.npr.org:443 ->  nil
+  524.599 |   524.599 |     0.000 |   1 | media.npr.org:443 ->  nil
+  526.727 |   526.727 |     0.000 |   1 | media.npr.org:443 ->  nil
+  526.755 |   526.755 |     0.000 |   1 | media.npr.org:443 ->  nil
+  542.964 |   542.964 |     0.000 |   1 | media.npr.org:443 ->  nil
+  543.037 |   543.037 |     0.000 |   1 | media.npr.org:443 ->  nil
+  543.058 |   543.058 |     0.000 |   1 | media.npr.org:443 ->  nil
+  575.823 |   575.823 |     0.000 |   1 | media.npr.org:443 ->  nil
+  576.274 |   576.274 |     0.000 |   1 | media.npr.org:443 ->  nil
+  576.442 |   576.442 |     0.000 |   1 | media.npr.org:443 ->  nil
+  576.452 |   576.452 |     0.000 |   1 | media.npr.org:443 ->  nil
+  578.425 |   578.425 |     0.000 |   1 | media.npr.org:443 ->  nil
+  578.427 |   578.427 |     0.000 |   1 | media.npr.org:443 ->  nil
+  579.024 |   579.024 |     0.000 |   1 | s.npr.org:443 ->  nil
+  579.060 |   579.060 |     0.000 |   1 | s.npr.org:443 ->  nil
+  626.699 |   626.699 |     0.000 |   1 | s.npr.org:443 ->  nil
+  626.717 |   626.717 |     0.000 |   1 | s.npr.org:443 ->  nil
+  641.613 |   641.613 |     0.000 |   1 | media.npr.org:443 ->  nil
+  641.632 |   641.632 |     0.000 |   1 | media.npr.org:443 ->  nil
+  683.513 |   683.513 |     0.000 |   1 | media.npr.org:443 ->  nil
+  683.523 |   683.523 |     0.000 |   1 | media.npr.org:443 ->  nil
+  687.256 |   687.256 |     0.000 |   1 | media.npr.org:443 ->  nil
+  687.276 |   687.276 |     0.000 |   1 | media.npr.org:443 ->  nil
+  692.110 |   692.110 |     0.000 |   1 | media.npr.org:443 ->  nil
+  692.175 |   692.175 |     0.000 |   1 | media.npr.org:443 ->  nil
+  692.184 |   692.184 |     0.000 |   1 | media.npr.org:443 ->  nil
+  692.965 |   692.965 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+  693.019 |   693.019 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+  693.028 |   693.028 |     0.000 |   1 | cdn.optimizely.com:443 ->  nil
+  693.512 |   693.512 |     0.000 |   1 | media.npr.org:443 ->  nil
+  693.548 |   693.548 |     0.000 |   1 | media.npr.org:443 ->  nil
+  693.556 |   693.556 |     0.000 |   1 | media.npr.org:443 ->  nil
+  693.800 |   693.800 |     0.000 |   1 | s.npr.org:443 ->  nil
+  693.853 |   693.853 |     0.000 |   1 | s.npr.org:443 ->  nil
+  693.860 |   693.860 |     0.000 |   1 | s.npr.org:443 ->  nil
+  698.968 |   698.968 |     0.000 |   1 | media.npr.org:443 ->  nil
+  706.990 |   706.990 |     0.000 |   1 | media.npr.org:443 ->  nil
+  707.016 |   707.016 |     0.000 |   1 | media.npr.org:443 ->  nil
+  723.046 |   723.046 |     0.000 |   1 | media.npr.org:443 ->  nil
+  723.067 |   723.067 |     0.000 |   1 | media.npr.org:443 ->  nil
+  723.369 |   723.369 |     0.000 |   1 | media.npr.org:443 ->  nil
+  723.433 |   723.433 |     0.000 |   1 | media.npr.org:443 ->  nil
+  723.487 |   723.487 |     0.000 |   1 | media.npr.org:443 ->  nil
+  723.537 |   723.537 |     0.000 |   1 | media.npr.org:443 ->  nil
+  723.587 |   723.587 |     0.000 |   1 | s.npr.org:443 ->  nil
+  723.634 |   723.634 |     0.000 |   1 | s.npr.org:443 ->  nil
+  723.641 |   723.641 |     0.000 |   1 | s.npr.org:443 ->  nil
+  723.945 |   723.945 |     0.000 |   1 | media.npr.org:443 ->  nil
+  723.955 |   723.955 |     0.000 |   1 | media.npr.org:443 ->  nil
+  739.492 |   739.492 |     0.000 |   1 | media.npr.org:443 ->  nil
+  739.515 |   739.515 |     0.000 |   1 | media.npr.org:443 ->  nil
+  743.681 |   743.681 |     0.000 |   1 | media.npr.org:443 ->  nil
+  743.704 |   743.704 |     0.000 |   1 | media.npr.org:443 ->  nil
+  743.960 |   743.960 |     0.000 |   1 | s.npr.org:443 ->  nil
+  744.001 |   744.001 |     0.000 |   1 | s.npr.org:443 ->  nil
+  744.011 |   744.011 |     0.000 |   1 | s.npr.org:443 ->  nil
+  744.196 |   744.196 |     0.000 |   1 | media.npr.org:443 ->  nil
+  744.236 |   744.236 |     0.000 |   1 | media.npr.org:443 ->  nil
+  744.245 |   744.245 |     0.000 |   1 | media.npr.org:443 ->  nil
+  806.485 |   806.485 |     0.000 |   1 | media.npr.org:443 ->  nil
+  806.539 |   806.539 |     0.000 |   1 | media.npr.org:443 ->  nil
+  806.549 |   806.549 |     0.000 |   1 | media.npr.org:443 ->  nil
+  807.086 |   807.086 |     0.000 |   1 | media.npr.org:443 ->  nil
+  807.139 |   807.139 |     0.000 |   1 | media.npr.org:443 ->  nil
+  807.148 |   807.148 |     0.000 |   1 | media.npr.org:443 ->  nil
+  819.917 |   819.917 |     0.000 |   1 | media.npr.org:443 ->  nil
+  819.957 |   819.957 |     0.000 |   1 | media.npr.org:443 ->  nil
+  820.450 |   820.450 |     0.000 |   1 | media.npr.org:443 ->  nil
+  820.517 |   820.517 |     0.000 |   1 | media.npr.org:443 ->  nil
+  820.612 |   820.612 |     0.000 |   1 | media.npr.org:443 ->  nil
+  820.621 |   820.621 |     0.000 |   1 | media.npr.org:443 ->  nil
+  868.238 |   868.238 |     0.000 |   1 | media.npr.org:443 ->  nil
+  868.266 |   868.266 |     0.000 |   1 | media.npr.org:443 ->  nil
+  868.464 |   868.464 |     0.000 |   1 | media.npr.org:443 ->  nil
+  868.475 |   868.475 |     0.000 |   1 | media.npr.org:443 ->  nil
+  881.092 |   881.092 |     0.000 |   1 | media.npr.org:443 ->  nil
+  881.291 |   881.291 |     0.000 |   1 | s.npr.org:443 ->  nil
+  881.302 |   881.302 |     0.000 |   1 | s.npr.org:443 ->  nil
+  882.613 |   882.613 |     0.000 |   1 | media.npr.org:443 ->  nil
+  882.622 |   882.622 |     0.000 |   1 | media.npr.org:443 ->  nil
+  882.789 |   882.789 |     0.000 |   1 | media.npr.org:443 ->  nil
+  882.841 |   882.841 |     0.000 |   1 | media.npr.org:443 ->  nil
+  882.893 |   882.893 |     0.000 |   1 | media.npr.org:443 ->  nil
+  882.947 |   882.947 |     0.000 |   1 | media.npr.org:443 ->  nil
+  882.991 |   882.991 |     0.000 |   1 | media.npr.org:443 ->  nil
+  883.035 |   883.035 |     0.000 |   1 | media.npr.org:443 ->  nil
+  883.065 |   883.065 |     0.000 |   1 | media.npr.org:443 ->  nil
+  883.073 |   883.073 |     0.000 |   1 | media.npr.org:443 ->  nil
+  883.250 |   883.250 |     0.000 |   1 | media.npr.org:443 ->  nil
+  883.294 |   883.294 |     0.000 |   1 | media.npr.org:443 ->  nil
+  887.046 |   887.046 |     0.000 |   1 | media.npr.org:443 ->  nil
+  887.056 |   887.056 |     0.000 |   1 | media.npr.org:443 ->  nil
+  887.195 |   887.195 |     0.000 |   1 | media.npr.org:443 ->  nil
+  887.202 |   887.202 |     0.000 |   1 | media.npr.org:443 ->  nil
+  887.329 |   887.329 |     0.000 |   1 | media.npr.org:443 ->  nil
+  887.336 |   887.336 |     0.000 |   1 | media.npr.org:443 ->  nil
+  887.477 |   887.477 |     0.000 |   1 | s.npr.org:443 ->  nil
+  887.499 |   887.499 |     0.000 |   1 | s.npr.org:443 ->  nil
+  887.678 |   887.678 |     0.000 |   1 | media.npr.org:443 ->  nil
+  887.686 |   887.686 |     0.000 |   1 | media.npr.org:443 ->  nil
+  924.704 |   924.704 |     0.000 |   1 | media.npr.org:443 ->  nil
+  924.768 |   924.768 |     0.000 |   1 | media.npr.org:443 ->  nil
+  924.818 |   924.818 |     0.000 |   1 | media.npr.org:443 ->  nil
+  924.857 |   924.857 |     0.000 |   1 | media.npr.org:443 ->  nil
+  924.895 |   924.895 |     0.000 |   1 | media.npr.org:443 ->  nil
+  924.927 |   924.927 |     0.000 |   1 | media.npr.org:443 ->  nil
+  924.958 |   924.958 |     0.000 |   1 | media.npr.org:443 ->  nil
+  924.974 |   924.974 |     0.000 |   1 | media.npr.org:443 ->  nil
+  924.974 |   924.974 |     0.000 |   1 | media.npr.org:443 ->  nil
+  925.011 |   925.011 |     0.000 |   1 | media.npr.org:443 ->  nil
+  925.035 |   925.035 |     0.000 |   1 | media.npr.org:443 ->  nil
+  925.040 |   925.040 |     0.000 |   1 | media.npr.org:443 ->  nil
+  935.690 |   935.690 |     0.000 |   1 | media.npr.org:443 ->  nil
+  935.732 |   935.732 |     0.000 |   1 | media.npr.org:443 ->  nil
+  935.739 |   935.739 |     0.000 |   1 | media.npr.org:443 ->  nil
+  949.007 |   949.007 |     0.000 |   1 | media.npr.org:443 ->  nil
+  949.058 |   949.058 |     0.000 |   1 | media.npr.org:443 ->  nil
+  949.086 |   949.086 |     0.000 |   1 | media.npr.org:443 ->  nil
+  949.093 |   949.093 |     0.000 |   1 | media.npr.org:443 ->  nil
+  951.409 |   951.409 |     0.000 |   1 | media.npr.org:443 ->  nil
+  951.602 |   951.602 |     0.000 |   1 | media.npr.org:443 ->  nil
+  952.178 |   952.178 |     0.000 |   1 | media.npr.org:443 ->  nil
+  952.186 |   952.186 |     0.000 |   1 | media.npr.org:443 ->  nil
+  977.129 |   977.129 |     0.000 |   1 | media.npr.org:443 ->  nil
+  977.144 |   977.144 |     0.000 |   1 | media.npr.org:443 ->  nil
+  977.823 |   977.823 |     0.000 |   1 | media.npr.org:443 ->  nil
+  977.831 |   977.831 |     0.000 |   1 | media.npr.org:443 ->  nil
+  978.678 |   978.678 |     0.000 |   1 | media.npr.org:443 ->  nil
+  978.685 |   978.685 |     0.000 |   1 | media.npr.org:443 ->  nil
+  978.791 |   978.791 |     0.000 |   1 | media.npr.org:443 ->  nil
+  978.797 |   978.797 |     0.000 |   1 | media.npr.org:443 ->  nil
+  978.899 |   978.899 |     0.000 |   1 | media.npr.org:443 ->  nil
+  978.905 |   978.905 |     0.000 |   1 | media.npr.org:443 ->  nil
+  994.513 |   994.513 |     0.000 |   1 | media.npr.org:443 ->  nil
+  994.528 |   994.528 |     0.000 |   1 | media.npr.org:443 ->  nil
+  995.068 |   995.068 |     0.000 |   1 | media.npr.org:443 ->  nil
+  995.118 |   995.118 |     0.000 |   1 | media.npr.org:443 ->  nil
+  995.158 |   995.158 |     0.000 |   1 | media.npr.org:443 ->  nil
+  995.403 |   995.403 |     0.000 |   1 | media.npr.org:443 ->  nil
+  995.411 |   995.411 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1032.200 |  1032.200 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1032.223 |  1032.223 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1032.447 |  1032.447 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1032.455 |  1032.455 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1032.651 |  1032.651 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1032.662 |  1032.662 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1060.388 |  1060.388 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1060.787 |  1060.787 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1060.797 |  1060.797 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1060.951 |  1060.951 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1060.972 |  1060.972 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1061.112 |  1061.112 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1061.119 |  1061.119 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1061.236 |  1061.236 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1061.243 |  1061.243 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1061.419 |  1061.419 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1061.458 |  1061.458 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1070.834 |  1070.834 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1070.884 |  1070.884 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1070.936 |  1070.936 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1071.032 |  1071.032 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1071.067 |  1071.067 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1071.099 |  1071.099 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1071.153 |  1071.153 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1076.796 |  1076.796 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1076.980 |  1076.980 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1076.990 |  1076.990 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1077.130 |  1077.130 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1077.137 |  1077.137 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1077.352 |  1077.352 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1077.419 |  1077.419 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1077.471 |  1077.471 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1084.823 |  1084.823 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1084.837 |  1084.837 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1101.159 |  1101.159 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1101.175 |  1101.175 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1113.862 |  1113.862 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1113.887 |  1113.887 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1114.046 |  1114.046 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.377 |  1124.377 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.377 |  1124.377 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.555 |  1124.555 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.565 |  1124.565 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.680 |  1124.680 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.686 |  1124.686 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.788 |  1124.788 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.794 |  1124.794 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.918 |  1124.918 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1124.979 |  1124.979 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1125.015 |  1125.015 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1125.051 |  1125.051 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1164.841 |  1164.841 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1164.855 |  1164.855 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1165.032 |  1165.032 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1165.040 |  1165.040 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1165.157 |  1165.157 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1165.164 |  1165.164 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1165.269 |  1165.269 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1165.275 |  1165.275 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1165.368 |  1165.368 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1165.368 |  1165.368 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1194.936 |  1194.936 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1194.953 |  1194.953 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1195.122 |  1195.122 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1195.128 |  1195.128 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1195.246 |  1195.246 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.163 |  1202.163 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.175 |  1202.175 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.297 |  1202.297 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.303 |  1202.303 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.405 |  1202.405 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.412 |  1202.412 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.546 |  1202.546 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.553 |  1202.553 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.740 |  1202.740 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.746 |  1202.746 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.854 |  1202.854 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1202.860 |  1202.860 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1279.898 |  1279.898 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1279.912 |  1279.912 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1285.480 |  1285.480 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1285.515 |  1285.515 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1285.974 |  1285.974 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1285.982 |  1285.982 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1289.561 |  1289.561 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1289.572 |  1289.572 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1294.368 |  1294.368 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1294.384 |  1294.384 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1294.781 |  1294.781 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1294.853 |  1294.853 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1294.895 |  1294.895 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1295.176 |  1295.176 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1295.220 |  1295.220 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1295.713 |  1295.713 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1296.184 |  1296.184 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1316.346 |  1316.346 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1317.088 |  1317.088 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1317.354 |  1317.354 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1317.363 |  1317.363 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1317.522 |  1317.522 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1317.573 |  1317.573 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1317.617 |  1317.617 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1333.847 |  1333.847 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1333.862 |  1333.862 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1334.002 |  1334.002 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1334.008 |  1334.008 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1334.124 |  1334.124 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1360.657 |  1360.657 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1360.680 |  1360.680 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1361.322 |  1361.322 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1368.438 |  1368.438 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1368.451 |  1368.451 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1368.576 |  1368.576 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1368.582 |  1368.582 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1370.565 |  1370.565 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1370.573 |  1370.573 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1370.728 |  1370.728 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1370.734 |  1370.734 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1370.837 |  1370.837 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1370.844 |  1370.844 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1375.460 |  1375.460 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1375.529 |  1375.529 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1375.572 |  1375.572 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1384.906 |  1384.906 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1384.924 |  1384.924 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1412.995 |  1412.995 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1413.008 |  1413.008 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1413.142 |  1413.142 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1413.149 |  1413.149 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1417.302 |  1417.302 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1417.314 |  1417.314 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1437.691 |  1437.691 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1437.705 |  1437.705 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1456.450 |  1456.450 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1456.464 |  1456.464 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1462.783 |  1462.783 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1462.805 |  1462.805 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1467.518 |  1467.518 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1467.531 |  1467.531 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1475.742 |  1475.742 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1475.755 |  1475.755 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1548.226 |  1548.226 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1548.279 |  1548.279 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1548.288 |  1548.288 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1553.384 |  1553.384 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1553.428 |  1553.428 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1553.435 |  1553.435 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1580.079 |  1580.079 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1580.093 |  1580.093 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1580.223 |  1580.223 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1580.251 |  1580.251 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1580.265 |  1580.265 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1584.459 |  1584.459 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1584.490 |  1584.490 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1584.496 |  1584.496 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1616.460 |  1616.460 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1616.474 |  1616.474 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1616.558 |  1616.558 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1616.587 |  1616.587 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1616.593 |  1616.593 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1624.983 |  1624.983 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1625.020 |  1625.020 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1625.027 |  1625.027 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1670.193 |  1670.193 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1670.212 |  1670.212 |     0.000 |   1 | media.npr.org:443 ->  nil
+ 1756.078 |  1821.399 |    65.321 |   0 | js-agent.newrelic.com:443 ->  10.0.0.23:8000
+ 1756.129 |  1756.129 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 1756.138 |  1756.138 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 1768.908 |  1768.908 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1768.951 |  1768.951 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1768.958 |  1768.958 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1771.409 |  1771.409 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1771.438 |  1771.438 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1771.444 |  1771.444 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1791.816 |  1791.816 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 1791.861 |  1791.861 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 1791.870 |  1791.870 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 1799.323 |  1799.323 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1799.342 |  1799.342 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1800.113 |  1800.113 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1800.232 |  1800.232 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1800.257 |  1800.257 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1807.105 |  1807.105 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1807.145 |  1807.145 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1807.152 |  1807.152 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1821.339 |  1821.339 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 1821.387 |  1821.387 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 1821.395 |  1821.395 |     0.000 |   1 | js-agent.newrelic.com:443 ->  nil
+ 1832.508 |  1832.508 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1832.522 |  1832.522 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1832.645 |  1832.645 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1832.672 |  1832.672 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1832.678 |  1832.678 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1843.756 |  1843.756 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1843.805 |  1843.805 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1843.812 |  1843.812 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1884.598 |  1884.598 |     0.000 |   1 | s.npr.org:443 ->  nil
+ 1884.612 |  1884.612 |     0.000 |   1 | s.npr.org:443 ->  nil
+</resolves>
+
+<transactions>
+strt (ms) | end (ms)  | len (ms)  | url
+  406.834 |   935.601 |   528.767 | https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js
+  401.628 |   948.940 |   547.312 | https://cdn.optimizely.com/js/11107397707.js
+  407.130 |   951.569 |   544.439 | https://s.npr.org/templates/javascript/dist/bundles/persistent-css-0aceacc50567a7d8993b.css
+  407.314 |   951.753 |   544.439 | https://s.npr.org/templates/javascript/dist/bundles/newsHp2-css-0aceacc50567a7d8993b.css
+  407.512 |  1070.739 |   663.227 | https://media.npr.org/chrome_svg/npr-logo.svg
+  407.705 |  1076.724 |   669.019 | https://media.npr.org/chrome_svg/npr_logo.svg
+  407.869 |  1084.660 |   676.791 | https://media.npr.org/chrome_svg/music-logo-2018.svg
+  471.053 |  1100.850 |   629.797 | https://media.npr.org/chrome_svg/podcasts/headphones-ee3d23.svg
+  499.394 |  1101.024 |   601.630 | https://media.npr.org/assets/img/2018/10/09/rtx5f1sx_wide-7a58fd139716dc5598c2688cce2f28d5881f4c2f-s400-c15.jpg
+  542.794 |  1113.669 |   570.875 | https://media.npr.org/assets/img/2018/10/09/ap_17335767627331_wide-bda36a0ae8e291e8d8d222f96dca33bea6577e1c-s400-c15.jpg
+  575.787 |  1123.354 |   547.567 | https://media.npr.org/assets/img/2018/10/09/michael-sat-colors_wide-65d15bca8bc03adb5a732def5558afde61e48e2c-s400-c15.jpg
+  576.250 |  1165.481 |   589.231 | https://media.npr.org/assets/img/2018/10/09/ap_18282388890248_wide-ba75832da58c3545f755cac27c56dacdf493226c-s400-c15.jpg
+  698.924 |  1165.607 |   466.683 | https://media.npr.org/assets/img/2018/10/09/gettyimages-981260928a_wide-0ce6396d1bcc791667b79182ac7b4c88d4c81d00-s400-c15.jpg
+  723.331 |  1202.061 |   478.730 | https://media.npr.org/assets/img/2018/10/09/artboard-1-copy-4_wide-8f4153fce1782fba253d1f819c01320f9ab7822a-s900-c15.jpg
+  723.417 |  1295.124 |   571.707 | https://media.npr.org/assets/img/2018/10/09/nsa-9-19-18_wide-0ce3cb4dc62b10960e4bb2616d3e1a2756fe7951-s400-c15.jpg
+  723.470 |  1295.753 |   572.283 | https://media.npr.org/assets/img/2018/10/09/mandarin-student-pakistan-14_wide-8ae6c5989fd59f8f3c9f5b7b353a7556677d50d1-s400-c15.jpg
+  723.523 |  1295.940 |   572.417 | https://media.npr.org/assets/img/2018/10/09/ap_120627080381_wide-3dc0800a55baa331ce65c5d1060f2bffdfd27d72-s400-c15.jpg
+  820.413 |  1296.130 |   475.717 | https://media.npr.org/assets/img/2018/10/09/ap_18260513959156_wide-9b93e5a02757de072b04b01507fb690a5a13f93b-s400-c15.jpg
+  820.502 |  1336.799 |   516.297 | https://media.npr.org/assets/img/2018/10/09/gettyimages-1047779642_wide-9e3e39f9c9283c594431095df3b777ce6a62ee27-s400-c15.jpg
+  881.051 |  1375.149 |   494.098 | https://media.npr.org/assets/img/2018/10/09/gettyimages-1037545732_wide-782a4914b1317321ff987aeb4d9a68a5fe3862c0-s900-c15.jpg
+  882.769 |  1375.244 |   492.475 | https://media.npr.org/assets/img/2018/10/09/gettyimages-170654931_wide-ef25ab881bd114103140d9d2d5ec2196ff976fea-s400-c15.jpg
+  882.829 |  1375.360 |   492.531 | https://media.npr.org/assets/img/2018/10/09/gettyimages-623817156_wide-721fde0e26b34ecc74641ba59032d7b30c69fe25-s400-c15.jpg
+  882.878 |  1386.550 |   503.672 | https://media.npr.org/assets/img/2018/10/09/labor_wide-99f07df07a2861b462fa901afff770436604e79c-s400-c15.jpg
+  924.671 |  1413.275 |   488.604 | https://media.npr.org/assets/img/2018/10/09/ap_18281622574179_wide-e9c811976abdac64f541b5f4beec5f3883a16ef0-s400-c15.jpg
+  924.756 |  1413.309 |   488.553 | https://media.npr.org/assets/img/2018/10/09/crashscene_wide-e448c82bdbbbf945085029752ec61cfb2f64e6af-s400-c15.jpg
+  924.799 |  1417.527 |   492.728 | https://media.npr.org/assets/img/2018/10/09/gettyimages-967552848_wide-5c3b36d52d90d47037c4038cca81c07676dad963-s400-c15.jpg
+  924.846 |  1437.846 |   513.000 | https://media.npr.org/assets/img/2018/10/09/restoration-process1_wide-68e7502006e9c2d6bd55d15f8c7dce8957ee9d9d-s400-c15.jpg
+  995.043 |  1456.646 |   461.603 | https://media.npr.org/assets/img/2018/10/09/promo_weed_wide-e359dda63466370781cc212bde3270999f72be5d-s400-c15.jpg
+  995.106 |  1467.186 |   472.080 | https://media.npr.org/assets/img/2018/10/09/cookbcancer_wide-87538fd8da7a96dadbc469c23989443ce7783fea-s400-c15.jpg
+  995.147 |  1468.297 |   473.150 | https://media.npr.org/assets/img/2018/10/09/into-the-sunrise_wide-bd003bb3f67c23e3c43fa8956ce7022a32baeb3e-s900-c15.jpg
+ 1070.921 |  1477.218 |   406.297 | https://media.npr.org/assets/img/2018/10/09/homeless-family-outside-shelter-1-_wide-2ce9fcb6ad4cbe680fdad327fd980bbb298bc1c2-s400-c15.jpg
+ 1071.019 |  1484.143 |   413.124 | https://media.npr.org/assets/img/2018/10/09/seamus-china-series-ports-locator_wide-705d176787b078a75338cb396c2ad68b03d58dbc-s400-c15.png
+  258.036 |  1661.445 |  1403.409 | http://www.npr.org/
+ 1548.201 |  1670.411 |   122.210 | https://media.npr.org/assets/img/2018/10/09/wiley_wide-db636bd3f8a02632d42935aafe345164020cc42b-s400-c15.jpg
+ 1553.355 |  1680.009 |   126.654 | https://media.npr.org/assets/img/2018/10/09/hsieh_angela_music_turntables_natalialafourcade_wide-6455b1295abbc7fdbaad420ebc8ac2ac9319427d-s900-c15.jpg
+ 1756.055 |  1856.320 |   100.265 | https://js-agent.newrelic.com/nr-spa-1071.min.js
+ 1768.886 |  1884.874 |   115.988 | https://s.npr.org/templates/javascript/dist/bundles/0.9a94d18b115371008438.chunk.js
+ 1771.394 |  1889.217 |   117.823 | https://s.npr.org/templates/javascript/dist/bundles/15.6162f813ed7275d1524a.chunk.js
+</transactions>
+
+<responses>
+status       | mime_type       | charset | url -> redirect_url
+             |                 |         | https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js -> nil
+             |                 |         | https://cdn.optimizely.com/js/11107397707.js -> nil
+             |                 |         | https://s.npr.org/templates/javascript/dist/bundles/persistent-css-0aceacc50567a7d8993b.css -> nil
+             |                 |         | https://s.npr.org/templates/javascript/dist/bundles/newsHp2-css-0aceacc50567a7d8993b.css -> nil
+             |                 |         | https://media.npr.org/chrome_svg/npr-logo.svg -> nil
+             |                 |         | https://media.npr.org/chrome_svg/npr_logo.svg -> nil
+             |                 |         | https://media.npr.org/chrome_svg/music-logo-2018.svg -> nil
+             |                 |         | https://media.npr.org/chrome_svg/podcasts/headphones-ee3d23.svg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/rtx5f1sx_wide-7a58fd139716dc5598c2688cce2f28d5881f4c2f-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/ap_17335767627331_wide-bda36a0ae8e291e8d8d222f96dca33bea6577e1c-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/michael-sat-colors_wide-65d15bca8bc03adb5a732def5558afde61e48e2c-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/ap_18282388890248_wide-ba75832da58c3545f755cac27c56dacdf493226c-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-981260928a_wide-0ce6396d1bcc791667b79182ac7b4c88d4c81d00-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/artboard-1-copy-4_wide-8f4153fce1782fba253d1f819c01320f9ab7822a-s900-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/nsa-9-19-18_wide-0ce3cb4dc62b10960e4bb2616d3e1a2756fe7951-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/mandarin-student-pakistan-14_wide-8ae6c5989fd59f8f3c9f5b7b353a7556677d50d1-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/ap_120627080381_wide-3dc0800a55baa331ce65c5d1060f2bffdfd27d72-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/ap_18260513959156_wide-9b93e5a02757de072b04b01507fb690a5a13f93b-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-1047779642_wide-9e3e39f9c9283c594431095df3b777ce6a62ee27-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-1037545732_wide-782a4914b1317321ff987aeb4d9a68a5fe3862c0-s900-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-170654931_wide-ef25ab881bd114103140d9d2d5ec2196ff976fea-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-623817156_wide-721fde0e26b34ecc74641ba59032d7b30c69fe25-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/labor_wide-99f07df07a2861b462fa901afff770436604e79c-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/ap_18281622574179_wide-e9c811976abdac64f541b5f4beec5f3883a16ef0-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/crashscene_wide-e448c82bdbbbf945085029752ec61cfb2f64e6af-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/gettyimages-967552848_wide-5c3b36d52d90d47037c4038cca81c07676dad963-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/restoration-process1_wide-68e7502006e9c2d6bd55d15f8c7dce8957ee9d9d-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/promo_weed_wide-e359dda63466370781cc212bde3270999f72be5d-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/cookbcancer_wide-87538fd8da7a96dadbc469c23989443ce7783fea-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/into-the-sunrise_wide-bd003bb3f67c23e3c43fa8956ce7022a32baeb3e-s900-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/homeless-family-outside-shelter-1-_wide-2ce9fcb6ad4cbe680fdad327fd980bbb298bc1c2-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/seamus-china-series-ports-locator_wide-705d176787b078a75338cb396c2ad68b03d58dbc-s400-c15.png -> nil
+          OK |       text/html |         | http://www.npr.org/ -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/wiley_wide-db636bd3f8a02632d42935aafe345164020cc42b-s400-c15.jpg -> nil
+             |                 |         | https://media.npr.org/assets/img/2018/10/09/hsieh_angela_music_turntables_natalialafourcade_wide-6455b1295abbc7fdbaad420ebc8ac2ac9319427d-s900-c15.jpg -> nil
+             |                 |         | https://js-agent.newrelic.com/nr-spa-1071.min.js -> nil
+             |                 |         | https://s.npr.org/templates/javascript/dist/bundles/0.9a94d18b115371008438.chunk.js -> nil
+             |                 |         | https://s.npr.org/templates/javascript/dist/bundles/15.6162f813ed7275d1524a.chunk.js -> nil
+</responses>
+
+<queries>
+Collections of histograms for DNS.
+Histogram: DNS.TotalTime recorded 139 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (139 = 100.0%)
+1  ... 
+
+
+Collections of histograms for Net.
+Histogram: Net.Compress.NoProxy.ShouldHaveBeenCompressed recorded 1 samples, average = 184350.0 (flags = 0x1)
+0       ... 
+181489  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+196128  ... 
+
+Histogram: Net.ConnectionTypeCount3 recorded 140 samples, average = 0.1 (flags = 0x1)
+0  ------------------------------------------------------------------------O (139 = 99.3%)
+1  ... 
+7  -O                                                                        (1 = 0.7%) {99.3%}
+8  ... 
+
+Histogram: Net.ConnectionUsedSSLVersionFallback recorded 111 samples, average = 1.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (37 = 33.3%)
+1  ------------------------------------------------------------------------O (37 = 33.3%) {33.3%}
+2  ------------------------------------------------------------------------O (37 = 33.3%) {66.7%}
+3  ... 
+
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 139 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (138 = 99.3%)
+1  -O                                                                        (1 = 0.7%) {99.3%}
+2  ... 
+
+Histogram: Net.HadConnectionType3 recorded 2 samples, average = 3.5 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 50.0%)
+1  ... 
+7  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+8  ... 
+
+Histogram: Net.HttpConnectionLatency recorded 1 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: Net.HttpJob.TotalTime recorded 38 samples, average = 559.8 (flags = 0x1)
+0     ... 
+96    ----O                                                                     (1 = 2.6%) {0.0%}
+114   ----------------O                                                         (4 = 10.5%) {2.6%}
+135   ... 
+449   ------------O                                                             (3 = 7.9%) {13.2%}
+533   ------------------------------------------------------------------------O (18 = 47.4%) {21.1%}
+633   --------------------------------------------O                             (11 = 28.9%) {68.4%}
+752   ... 
+1262  ----O                                                                     (1 = 2.6%) {97.4%}
+1500  ... 
+
+Histogram: Net.HttpJob.TotalTimeCancel recorded 37 samples, average = 536.8 (flags = 0x1)
+0    ... 
+96   ----O                                                                     (1 = 2.7%) {0.0%}
+114  ----------------O                                                         (4 = 10.8%) {2.7%}
+135  ... 
+449  ------------O                                                             (3 = 8.1%) {13.5%}
+533  ------------------------------------------------------------------------O (18 = 48.6%) {21.6%}
+633  --------------------------------------------O                             (11 = 29.7%) {70.3%}
+752  ... 
+
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 1 samples, average = 1409.0 (flags = 0x1)
+0     ... 
+1262  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+1500  ... 
+
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 1 samples, average = 1409.0 (flags = 0x1)
+0     ... 
+1262  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+1500  ... 
+
+Histogram: Net.HttpResponseCode recorded 1 samples, average = 200.0 (flags = 0x1)
+0    ... 
+200  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+201  ... 
+
+Histogram: Net.HttpSocketType recorded 1 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: Net.HttpTimeToFirstByte recorded 38 samples, average = 524.2 (flags = 0x1)
+0    ... 
+33   ----O                                                                     (1 = 2.6%) {0.0%}
+41   ... 
+92   ----O                                                                     (1 = 2.6%) {2.6%}
+113  --------------O                                                           (4 = 10.5%) {5.3%}
+139  ... 
+477  -------------------------------------------O                              (12 = 31.6%) {15.8%}
+585  ------------------------------------------------------------------------O (20 = 52.6%) {47.4%}
+718  ... 
+
+Histogram: Net.NumDuplicateCookiesInDb recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.PreconnectUtilization2 recorded 134 samples, average = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (134 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSL2 recorded 111 samples, average = 107.0 (flags = 0x1)
+0    ... 
+107  ------------------------------------------------------------------------O (111 = 100.0%) {0.0%}
+108  ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCP recorded 139 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (139 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCP recorded 139 samples, average = 0.1 (flags = 0x1)
+0  ------------------------------------------------------------------------O (136 = 97.8%)
+1  -O                                                                        (2 = 1.4%) {97.8%}
+2  ... 
+5  -O                                                                        (1 = 0.7%) {99.3%}
+6  ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCP recorded 139 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (139 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketType_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.TCP_Connection_Latency recorded 139 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (139 = 100.0%)
+1  ... 
+
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 139 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (139 = 100.0%)
+1  ... 
+
+Histogram: Net.Transaction_Latency_Total recorded 1 samples, average = 1402.0 (flags = 0x1)
+0     ... 
+1365  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+1546  ... 
+
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 1 samples, average = 1402.0 (flags = 0x1)
+0     ... 
+1365  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+1546  ... 
+
+Histogram: Net.Transaction_Latency_b recorded 1 samples, average = 1401.0 (flags = 0x1)
+0     ... 
+1365  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+1546  ... 
+
+
+</queries>

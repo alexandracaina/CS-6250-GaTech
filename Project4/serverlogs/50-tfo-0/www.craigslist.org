@@ -1,0 +1,62 @@
+HTTP Running : 8000  from  /home/mininet/Documents/Project4/myURLS/www.craigslist.org  with delay  0.0 s
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/styles/cl.css
+/styles/cl.css?v=d99915fc6f3187577f30df4caeee65d6
+10.0.0.34 - - [10/Oct/2018 00:25:13] "GET /styles/cl.css?v=d99915fc6f3187577f30df4caeee65d6 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/js/search-concat.min.js
+/js/search-concat.min.js?v=0e155aa133fc2bddf54d8aa33afebbe0
+10.0.0.34 - - [10/Oct/2018 00:25:13] "GET /js/search-concat.min.js?v=0e155aa133fc2bddf54d8aa33afebbe0 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/styles/homepage.css
+/styles/homepage.css?v=156600f6ede325cfb3639a460cb712e9
+10.0.0.34 - - [10/Oct/2018 00:25:13] "GET /styles/homepage.css?v=156600f6ede325cfb3639a460cb712e9 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/styles/jquery-ui-clcustom.css
+/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339
+/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339
+trying hash: 583593e279158e5ad3687023e14068c0
+10.0.0.34 - - [10/Oct/2018 00:25:13] "GET /styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/js/general-concat.min.js
+/js/general-concat.min.js?v=ec2809ab798c64f11701752083535431
+10.0.0.34 - - [10/Oct/2018 00:25:13] "GET /js/general-concat.min.js?v=ec2809ab798c64f11701752083535431 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/js/homepage-concat.min.js
+/js/homepage-concat.min.js?v=25c022be0f01fac05f13555be409ae78
+10.0.0.34 - - [10/Oct/2018 00:25:14] "GET /js/homepage-concat.min.js?v=25c022be0f01fac05f13555be409ae78 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/static/localstorage.html
+/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170
+10.0.0.34 - - [10/Oct/2018 00:25:15] "GET /static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/styles/cl.css
+/styles/cl.css?v=d99915fc6f3187577f30df4caeee65d6
+10.0.0.34 - - [10/Oct/2018 00:25:26] "GET /styles/cl.css?v=d99915fc6f3187577f30df4caeee65d6 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/styles/homepage.css
+/styles/homepage.css?v=156600f6ede325cfb3639a460cb712e9
+10.0.0.34 - - [10/Oct/2018 00:25:26] "GET /styles/homepage.css?v=156600f6ede325cfb3639a460cb712e9 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/styles/jquery-ui-clcustom.css
+/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339
+/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339
+trying hash: 583593e279158e5ad3687023e14068c0
+10.0.0.34 - - [10/Oct/2018 00:25:26] "GET /styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/js/search-concat.min.js
+/js/search-concat.min.js?v=0e155aa133fc2bddf54d8aa33afebbe0
+10.0.0.34 - - [10/Oct/2018 00:25:26] "GET /js/search-concat.min.js?v=0e155aa133fc2bddf54d8aa33afebbe0 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/js/general-concat.min.js
+/js/general-concat.min.js?v=ec2809ab798c64f11701752083535431
+10.0.0.34 - - [10/Oct/2018 00:25:26] "GET /js/general-concat.min.js?v=ec2809ab798c64f11701752083535431 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/js/homepage-concat.min.js
+/js/homepage-concat.min.js?v=25c022be0f01fac05f13555be409ae78
+10.0.0.34 - - [10/Oct/2018 00:25:27] "GET /js/homepage-concat.min.js?v=25c022be0f01fac05f13555be409ae78 HTTP/1.1" 200 -
+<socket._socketobject object at 0x7ff60f320c20>
+/home/mininet/Documents/Project4/myURLS/www.craigslist.org/static/localstorage.html
+/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170
+10.0.0.34 - - [10/Oct/2018 00:25:29] "GET /static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170 HTTP/1.1" 200 -
+Killed
