@@ -93,7 +93,7 @@ class DistanceVector(Node):
             for neighbor in self.incoming_links:
                 self.send_msg(message, neighbor.name)
 
-        return
+	return
 
 
     def log_distances(self):
