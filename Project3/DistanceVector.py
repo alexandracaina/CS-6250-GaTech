@@ -61,38 +61,37 @@ class DistanceVector(Node):
         # Implement the Bellman-Ford algorithm here.  It must accomplish two tasks below:
         # TODO 1. Process queued messages
         orig_vector= self.distance_vector.copy()
-	
-	for msg in self.messages:
+
+        for msg in self.messages:
             node_origin= msg[0]
             node_weights= msg[1]
-	    
 
-	    for node_name, node_weight in node_weights.items():
-				
-		if self.name != node_name:
-			#cost from origin plus node weight
-			cost=int(self.get_outgoing_neighbor_weight(node_origin)) + node_weights[node_name]
-			
-			if node_weight<=-99:
-				self.distance_vector[node_name]=-99
-			
-			elif (node_name not in self.distance_vector) or (cost<= self.distance_vector[node_name]):
-				self.distance_vector[node_name]= cost
-			
-		else:
+
+            for node_name, node_weight in node_weights.items():
+
+                if self.name != node_name:
+                    #cost from origin plus node weight
+                    cost=int(self.get_outgoing_neighbor_weight(node_origin)) + node_weights[node_name]
+
+                if node_weight<=-99:
+                    self.distance_vector[node_name]=-99
+
+                elif (node_name not in self.distance_vector) or (cost<= self.distance_vector[node_name]):
+                    self.distance_vector[node_name]= cost
+
+                else:
                     continue
 
-        # Empty queue
-	
-	self.messages = []
-	
-        # TODO 2. Send neighbors updated distances
+            # Empty queue
+            self.messages = []
 
-        #detect changes in distance vector, send messages to neighbors
+            # TODO 2. Send neighbors updated distances
+
+            #detect changes in distance vector, send messages to neighbors
         if (self.distance_vector != orig_vector):
-	   	message= (self.name, copy.deepcopy(self.distance_vector))
-	    	for neighbor in self.incoming_links:
-			self.send_msg(message, neighbor.name)
+            message= (self.name, copy.deepcopy(self.distance_vector))
+            for neighbor in self.incoming_links:
+                self.send_msg(message, neighbor.name)
 
         return
 
