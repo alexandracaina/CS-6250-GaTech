@@ -1,0 +1,790 @@
+HTTP Running : 8000  from  /home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk  with delay  0.0 s
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/index.html
+10.0.0.27 - - [13/Oct/2018 19:10:07] "GET / HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/jquery.min.js
+/js/jquery.min.js
+10.0.0.27 - - [13/Oct/2018 19:10:07] "GET /js/jquery.min.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/bootstrap.min.js
+/js/bootstrap.min.js
+10.0.0.27 - - [13/Oct/2018 19:10:07] "GET /js/bootstrap.min.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/jquery.lazyload.min.js
+/js/jquery.lazyload.min.js
+10.0.0.27 - - [13/Oct/2018 19:10:07] "GET /js/jquery.lazyload.min.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/ts.js
+/js/ts.js
+10.0.0.27 - - [13/Oct/2018 19:10:07] "GET /js/ts.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/css/bootstrap.css
+/css/bootstrap.css
+10.0.0.27 - - [13/Oct/2018 19:10:07] "GET /css/bootstrap.css HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/css/tsmaga.css
+/css/tsmaga.css
+10.0.0.27 - - [13/Oct/2018 19:10:07] "GET /css/tsmaga.css HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/css/ts-style.css
+/css/ts-style.css
+10.0.0.27 - - [13/Oct/2018 19:10:07] "GET /css/ts-style.css HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/include/fancybox/jquery.fancybox.pack.js
+/include/fancybox/jquery.fancybox.pack.js
+10.0.0.27 - - [13/Oct/2018 19:10:08] "GET /include/fancybox/jquery.fancybox.pack.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/include/fancybox/jquery.fancybox.css
+/include/fancybox/jquery.fancybox.css
+10.0.0.27 - - [13/Oct/2018 19:10:08] "GET /include/fancybox/jquery.fancybox.css HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/comScoreUpper.js
+/js/comScoreUpper.js
+10.0.0.27 - - [13/Oct/2018 19:10:08] "GET /js/comScoreUpper.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012174847115554frontPhoto.jpg
+/images/instant_news/20181012/20181012174847115554frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:08] "GET /images/instant_news/20181012/20181012174847115554frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012152135115532frontPhoto.jpg
+/images/instant_news/20181012/20181012152135115532frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:08] "GET /images/instant_news/20181012/20181012152135115532frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012154010115536frontPhoto.jpg
+/images/instant_news/20181012/20181012154010115536frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:08] "GET /images/instant_news/20181012/20181012154010115536frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012204130frontPhoto.jpg
+/images/instant_news/20181012/20181012204130frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:09] "GET /images/instant_news/20181012/20181012204130frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101221302220181015_photo.jpg
+/printAd/2018101221302220181015_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:09] "GET /printAd/2018101221302220181015_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101120573520181012_photo.jpg
+/printAd/2018101120573520181012_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:10] "GET /printAd/2018101120573520181012_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101120571720181012_photo.jpg
+/printAd/2018101120571720181012_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:10] "GET /printAd/2018101120571720181012_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021075020181011_photo.jpg
+/printAd/2018101021075020181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:13] "GET /printAd/2018101021075020181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021073420181011_photo.jpg
+/printAd/2018101021073420181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:16] "GET /printAd/2018101021073420181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/newsImage/20181012/50022657indexPhoto.jpg
+/newsImage//20181012/50022657indexPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:19] "GET /newsImage//20181012/50022657indexPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/newsImage/20181012/50022677indexPhoto.jpg
+/newsImage//20181012/50022677indexPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:19] "GET /newsImage//20181012/50022677indexPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012192322frontPhoto.jpg
+/images/instant_news//20181012/20181012192322frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:21] "GET /images/instant_news//20181012/20181012192322frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101120580920181012_photo.jpg
+/printAd/2018101120580920181012_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:22] "GET /printAd/2018101120580920181012_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101120575020181012_photo.jpg
+/printAd/2018101120575020181012_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:23] "GET /printAd/2018101120575020181012_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021104220181011_photo.jpg
+/printAd/2018101021104220181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:24] "GET /printAd/2018101021104220181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021102620181011_photo.jpg
+/printAd/2018101021102620181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:24] "GET /printAd/2018101021102620181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021100820181011_photo.jpg
+/printAd/2018101021100820181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:25] "GET /printAd/2018101021100820181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018100920443320181010_photo.jpg
+/printAd/2018100920443320181010_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:26] "GET /printAd/2018100920443320181010_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018100920441920181010_photo.jpg
+/printAd/2018100920441920181010_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:26] "GET /printAd/2018100920441920181010_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018100920440720181010_photo.jpg
+/printAd/2018100920440720181010_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:27] "GET /printAd/2018100920440720181010_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012161850115542frontPhoto.jpg
+/images/instant_news//20181012/20181012161850115542frontPhoto.jpg
+/images/instant_news//20181012/20181012161850115542frontPhoto.jpg
+trying hash: f790b38186ebf7c2218c854c3c103170
+10.0.0.27 - - [13/Oct/2018 19:10:27] "GET /images/instant_news//20181012/20181012161850115542frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012191751frontPhoto.jpeg
+/images/instant_news//20181012/20181012191751frontPhoto.jpeg
+10.0.0.27 - - [13/Oct/2018 19:10:27] "GET /images/instant_news//20181012/20181012191751frontPhoto.jpeg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012170819115545frontPhoto.jpeg
+/images/instant_news//20181012/20181012170819115545frontPhoto.jpeg
+/images/instant_news//20181012/20181012170819115545frontPhoto.jpeg
+trying hash: 2c6847d2fb189278b0783afa0d7de4a6
+10.0.0.27 - - [13/Oct/2018 19:10:28] "GET /images/instant_news//20181012/20181012170819115545frontPhoto.jpeg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/newsImage/20181012/50022611indexPhoto.JPG
+/newsImage//20181012/50022611indexPhoto.JPG
+10.0.0.27 - - [13/Oct/2018 19:10:28] "GET /newsImage//20181012/50022611indexPhoto.JPG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20181012115520cover.jpg
+/emagazines/20181012115520cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:28] "GET /emagazines/20181012115520cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20181002135656cover.jpg
+/emagazines/20181002135656cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:28] "GET /emagazines/20181002135656cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180910152547cover.jpg
+/emagazines/20180910152547cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:28] "GET /emagazines/20180910152547cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180905175933cover.jpg
+/emagazines/20180905175933cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:28] "GET /emagazines/20180905175933cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180831152018cover.jpg
+/emagazines/20180831152018cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:28] "GET /emagazines/20180831152018cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180810125603cover.jpg
+/emagazines/20180810125603cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:29] "GET /emagazines/20180810125603cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180808122741cover.jpg
+/emagazines/20180808122741cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:29] "GET /emagazines/20180808122741cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180803121739cover.jpg
+/emagazines/20180803121739cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:29] "GET /emagazines/20180803121739cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180713165633cover.png
+/emagazines/20180713165633cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:30] "GET /emagazines/20180713165633cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180713123730cover.png
+/emagazines/20180713123730cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:30] "GET /emagazines/20180713123730cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180709102804cover.png
+/emagazines/20180709102804cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:30] "GET /emagazines/20180709102804cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180611155634cover.png
+/emagazines/20180611155634cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:30] "GET /emagazines/20180611155634cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180601184748cover.png
+/emagazines/20180601184748cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:30] "GET /emagazines/20180601184748cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180509161930cover.png
+/emagazines/20180509161930cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180509161930cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180503115545cover.png
+/emagazines/20180503115545cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180503115545cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180416115007cover.png
+/emagazines/20180416115007cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180416115007cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180326124434cover.png
+/emagazines/20180326124434cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180326124434cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180315122339cover.png
+/emagazines/20180315122339cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180315122339cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180305121126cover.png
+/emagazines/20180305121126cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180305121126cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180202142108cover.png
+/emagazines/20180202142108cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180202142108cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180130102623cover.png
+/emagazines/20180130102623cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180130102623cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180130102214cover.png
+/emagazines/20180130102214cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180130102214cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180122182414cover.png
+/emagazines/20180122182414cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20180122182414cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171212095027cover.png
+/emagazines/20171212095027cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20171212095027cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171128102732cover.png
+/emagazines/20171128102732cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20171128102732cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171127125943cover.png
+/emagazines/20171127125943cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20171127125943cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171110123248cover.PNG
+/emagazines/20171110123248cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20171110123248cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171110104623cover.png
+/emagazines/20171110104623cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20171110104623cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171102100547cover.png
+/emagazines/20171102100547cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20171102100547cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171030125459cover.png
+/emagazines/20171030125459cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:31] "GET /emagazines/20171030125459cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171013151331cover.png
+/emagazines/20171013151331cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20171013151331cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170929144614cover.png
+/emagazines/20170929144614cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20170929144614cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170925173449cover.png
+/emagazines/20170925173449cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20170925173449cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170830124158cover.PNG
+/emagazines/20170830124158cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20170830124158cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170915165317cover.PNG
+/emagazines/20170915165317cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20170915165317cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170901161421cover.png
+/emagazines/20170901161421cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20170901161421cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170727165734cover.png
+/emagazines/20170727165734cover.png
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20170727165734cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170725122344cover.PNG
+/emagazines/20170725122344cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20170725122344cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170720122239cover.PNG
+/emagazines/20170720122239cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20170720122239cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170713141812cover.PNG
+/emagazines/20170713141812cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /emagazines/20170713141812cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/upload/cover/cfile_20181011220529000000.jpg
+/upload/cover/cfile_20181011220529000000.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:32] "GET /upload/cover/cfile_20181011220529000000.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/upload/cover/cfile_20181011220530000000.jpg
+/upload/cover/cfile_20181011220530000000.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /upload/cover/cfile_20181011220530000000.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/upload/cover/cfile_20181011220531000000.jpg
+/upload/cover/cfile_20181011220531000000.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /upload/cover/cfile_20181011220531000000.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/rightlogo/junior.png
+/images/rightlogo/junior.png
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /images/rightlogo/junior.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/rightlogo/Goodies.svg
+/images/rightlogo/Goodies.svg
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /images/rightlogo/Goodies.svg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/rightlogo/idiom.svg
+/images/rightlogo/idiom.svg
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /images/rightlogo/idiom.svg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/rightlogo/elan.jpg
+/images/rightlogo/elan.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /images/rightlogo/elan.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180810125603yearlycover.jpg
+/emagazines/20180810125603yearlycover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /emagazines/20180810125603yearlycover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180315122339yearlycover.jpg
+/emagazines/20180315122339yearlycover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /emagazines/20180315122339yearlycover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180305121126yearlycover.jpg
+/emagazines/20180305121126yearlycover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /emagazines/20180305121126yearlycover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180202142108yearlycover.jpg
+/emagazines/20180202142108yearlycover.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /emagazines/20180202142108yearlycover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/singtaocorp.gif
+/images/f_logo/singtaocorp.gif
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /images/f_logo/singtaocorp.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/headline.gif
+/images/f_logo/headline.gif
+10.0.0.27 - - [13/Oct/2018 19:10:33] "GET /images/f_logo/headline.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/singtao_com.gif
+/images/f_logo/singtao_com.gif
+10.0.0.27 - - [13/Oct/2018 19:10:34] "GET /images/f_logo/singtao_com.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/cazbuyer.gif
+/images/f_logo/cazbuyer.gif
+10.0.0.27 - - [13/Oct/2018 19:10:34] "GET /images/f_logo/cazbuyer.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/dongtouch.gif
+/images/f_logo/dongtouch.gif
+10.0.0.27 - - [13/Oct/2018 19:10:34] "GET /images/f_logo/dongtouch.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/eastouch.gif
+/images/f_logo/eastouch.gif
+10.0.0.27 - - [13/Oct/2018 19:10:34] "GET /images/f_logo/eastouch.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/singtao_pub.gif
+/images/f_logo/singtao_pub.gif
+10.0.0.27 - - [13/Oct/2018 19:10:34] "GET /images/f_logo/singtao_pub.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/hl_finance.gif
+/images/f_logo/hl_finance.gif
+10.0.0.27 - - [13/Oct/2018 19:10:34] "GET /images/f_logo/hl_finance.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/stop.png
+/images/f_logo/stop.png
+10.0.0.27 - - [13/Oct/2018 19:10:34] "GET /images/f_logo/stop.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/comScoreLower.js
+/js/comScoreLower.js
+10.0.0.27 - - [13/Oct/2018 19:10:34] "GET /js/comScoreLower.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/icon_emagazines.png
+/images/icon_emagazines.png
+10.0.0.27 - - [13/Oct/2018 19:10:34] "GET /images/icon_emagazines.png HTTP/1.1" 200 -
+10.0.0.27 - - [13/Oct/2018 19:10:34] code 501, message Unsupported method ('POST')
+10.0.0.27 - - [13/Oct/2018 19:10:34] "POST /ajax_calender.php HTTP/1.1" 501 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/index.html
+10.0.0.27 - - [13/Oct/2018 19:10:45] "GET / HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/jquery.min.js
+/js/jquery.min.js
+10.0.0.27 - - [13/Oct/2018 19:10:45] "GET /js/jquery.min.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/jquery.lazyload.min.js
+/js/jquery.lazyload.min.js
+10.0.0.27 - - [13/Oct/2018 19:10:45] "GET /js/jquery.lazyload.min.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/bootstrap.min.js
+/js/bootstrap.min.js
+10.0.0.27 - - [13/Oct/2018 19:10:45] "GET /js/bootstrap.min.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/ts.js
+/js/ts.js
+10.0.0.27 - - [13/Oct/2018 19:10:45] "GET /js/ts.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/css/bootstrap.css
+/css/bootstrap.css
+10.0.0.27 - - [13/Oct/2018 19:10:45] "GET /css/bootstrap.css HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/css/tsmaga.css
+/css/tsmaga.css
+10.0.0.27 - - [13/Oct/2018 19:10:45] "GET /css/tsmaga.css HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/css/ts-style.css
+/css/ts-style.css
+10.0.0.27 - - [13/Oct/2018 19:10:45] "GET /css/ts-style.css HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/include/fancybox/jquery.fancybox.pack.js
+/include/fancybox/jquery.fancybox.pack.js
+10.0.0.27 - - [13/Oct/2018 19:10:46] "GET /include/fancybox/jquery.fancybox.pack.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/include/fancybox/jquery.fancybox.css
+/include/fancybox/jquery.fancybox.css
+10.0.0.27 - - [13/Oct/2018 19:10:46] "GET /include/fancybox/jquery.fancybox.css HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/comScoreUpper.js
+/js/comScoreUpper.js
+10.0.0.27 - - [13/Oct/2018 19:10:46] "GET /js/comScoreUpper.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012174847115554frontPhoto.jpg
+/images/instant_news/20181012/20181012174847115554frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:46] "GET /images/instant_news/20181012/20181012174847115554frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012152135115532frontPhoto.jpg
+/images/instant_news/20181012/20181012152135115532frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:46] "GET /images/instant_news/20181012/20181012152135115532frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012204130frontPhoto.jpg
+/images/instant_news/20181012/20181012204130frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:47] "GET /images/instant_news/20181012/20181012204130frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012154010115536frontPhoto.jpg
+/images/instant_news/20181012/20181012154010115536frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:47] "GET /images/instant_news/20181012/20181012154010115536frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101221302220181015_photo.jpg
+/printAd/2018101221302220181015_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:47] "GET /printAd/2018101221302220181015_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101120573520181012_photo.jpg
+/printAd/2018101120573520181012_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:48] "GET /printAd/2018101120573520181012_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101120571720181012_photo.jpg
+/printAd/2018101120571720181012_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:48] "GET /printAd/2018101120571720181012_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021075020181011_photo.jpg
+/printAd/2018101021075020181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:51] "GET /printAd/2018101021075020181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021073420181011_photo.jpg
+/printAd/2018101021073420181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:54] "GET /printAd/2018101021073420181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/newsImage/20181012/50022657indexPhoto.jpg
+/newsImage//20181012/50022657indexPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:57] "GET /newsImage//20181012/50022657indexPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/newsImage/20181012/50022677indexPhoto.jpg
+/newsImage//20181012/50022677indexPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:57] "GET /newsImage//20181012/50022677indexPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012192322frontPhoto.jpg
+/images/instant_news//20181012/20181012192322frontPhoto.jpg
+10.0.0.27 - - [13/Oct/2018 19:10:59] "GET /images/instant_news//20181012/20181012192322frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101120580920181012_photo.jpg
+/printAd/2018101120580920181012_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:00] "GET /printAd/2018101120580920181012_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101120575020181012_photo.jpg
+/printAd/2018101120575020181012_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:01] "GET /printAd/2018101120575020181012_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021104220181011_photo.jpg
+/printAd/2018101021104220181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:02] "GET /printAd/2018101021104220181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021102620181011_photo.jpg
+/printAd/2018101021102620181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:02] "GET /printAd/2018101021102620181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018101021100820181011_photo.jpg
+/printAd/2018101021100820181011_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:03] "GET /printAd/2018101021100820181011_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018100920443320181010_photo.jpg
+/printAd/2018100920443320181010_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:04] "GET /printAd/2018100920443320181010_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018100920441920181010_photo.jpg
+/printAd/2018100920441920181010_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:05] "GET /printAd/2018100920441920181010_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/printAd/2018100920440720181010_photo.jpg
+/printAd/2018100920440720181010_photo.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:05] "GET /printAd/2018100920440720181010_photo.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012161850115542frontPhoto.jpg
+/images/instant_news//20181012/20181012161850115542frontPhoto.jpg
+/images/instant_news//20181012/20181012161850115542frontPhoto.jpg
+trying hash: f790b38186ebf7c2218c854c3c103170
+10.0.0.27 - - [13/Oct/2018 19:11:05] "GET /images/instant_news//20181012/20181012161850115542frontPhoto.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012191751frontPhoto.jpeg
+/images/instant_news//20181012/20181012191751frontPhoto.jpeg
+10.0.0.27 - - [13/Oct/2018 19:11:05] "GET /images/instant_news//20181012/20181012191751frontPhoto.jpeg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/instant_news/20181012/20181012170819115545frontPhoto.jpeg
+/images/instant_news//20181012/20181012170819115545frontPhoto.jpeg
+/images/instant_news//20181012/20181012170819115545frontPhoto.jpeg
+trying hash: 2c6847d2fb189278b0783afa0d7de4a6
+10.0.0.27 - - [13/Oct/2018 19:11:06] "GET /images/instant_news//20181012/20181012170819115545frontPhoto.jpeg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/newsImage/20181012/50022611indexPhoto.JPG
+/newsImage//20181012/50022611indexPhoto.JPG
+10.0.0.27 - - [13/Oct/2018 19:11:06] "GET /newsImage//20181012/50022611indexPhoto.JPG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20181012115520cover.jpg
+/emagazines/20181012115520cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:06] "GET /emagazines/20181012115520cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20181002135656cover.jpg
+/emagazines/20181002135656cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:06] "GET /emagazines/20181002135656cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180910152547cover.jpg
+/emagazines/20180910152547cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:06] "GET /emagazines/20180910152547cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180905175933cover.jpg
+/emagazines/20180905175933cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:06] "GET /emagazines/20180905175933cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180831152018cover.jpg
+/emagazines/20180831152018cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:06] "GET /emagazines/20180831152018cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180808122741cover.jpg
+/emagazines/20180808122741cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:07] "GET /emagazines/20180808122741cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180810125603cover.jpg
+/emagazines/20180810125603cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:07] "GET /emagazines/20180810125603cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180803121739cover.jpg
+/emagazines/20180803121739cover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:07] "GET /emagazines/20180803121739cover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180713165633cover.png
+/emagazines/20180713165633cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:08] "GET /emagazines/20180713165633cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180713123730cover.png
+/emagazines/20180713123730cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:08] "GET /emagazines/20180713123730cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180709102804cover.png
+/emagazines/20180709102804cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:08] "GET /emagazines/20180709102804cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180611155634cover.png
+/emagazines/20180611155634cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:08] "GET /emagazines/20180611155634cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180601184748cover.png
+/emagazines/20180601184748cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:08] "GET /emagazines/20180601184748cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180509161930cover.png
+/emagazines/20180509161930cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180509161930cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180503115545cover.png
+/emagazines/20180503115545cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180503115545cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180416115007cover.png
+/emagazines/20180416115007cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180416115007cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180326124434cover.png
+/emagazines/20180326124434cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180326124434cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180315122339cover.png
+/emagazines/20180315122339cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180315122339cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180305121126cover.png
+/emagazines/20180305121126cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180305121126cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180202142108cover.png
+/emagazines/20180202142108cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180202142108cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180130102623cover.png
+/emagazines/20180130102623cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180130102623cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180130102214cover.png
+/emagazines/20180130102214cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180130102214cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180122182414cover.png
+/emagazines/20180122182414cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20180122182414cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171212095027cover.png
+/emagazines/20171212095027cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20171212095027cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171128102732cover.png
+/emagazines/20171128102732cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20171128102732cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171127125943cover.png
+/emagazines/20171127125943cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20171127125943cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171110123248cover.PNG
+/emagazines/20171110123248cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20171110123248cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171110104623cover.png
+/emagazines/20171110104623cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20171110104623cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171102100547cover.png
+/emagazines/20171102100547cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20171102100547cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171030125459cover.png
+/emagazines/20171030125459cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:09] "GET /emagazines/20171030125459cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20171013151331cover.png
+/emagazines/20171013151331cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20171013151331cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170929144614cover.png
+/emagazines/20170929144614cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20170929144614cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170925173449cover.png
+/emagazines/20170925173449cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20170925173449cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170915165317cover.PNG
+/emagazines/20170915165317cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20170915165317cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170901161421cover.png
+/emagazines/20170901161421cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20170901161421cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170830124158cover.PNG
+/emagazines/20170830124158cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20170830124158cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170727165734cover.png
+/emagazines/20170727165734cover.png
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20170727165734cover.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170725122344cover.PNG
+/emagazines/20170725122344cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20170725122344cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170720122239cover.PNG
+/emagazines/20170720122239cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20170720122239cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20170713141812cover.PNG
+/emagazines/20170713141812cover.PNG
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /emagazines/20170713141812cover.PNG HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/upload/cover/cfile_20181011220529000000.jpg
+/upload/cover/cfile_20181011220529000000.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /upload/cover/cfile_20181011220529000000.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/upload/cover/cfile_20181011220530000000.jpg
+/upload/cover/cfile_20181011220530000000.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:10] "GET /upload/cover/cfile_20181011220530000000.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/upload/cover/cfile_20181011220531000000.jpg
+/upload/cover/cfile_20181011220531000000.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /upload/cover/cfile_20181011220531000000.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/rightlogo/junior.png
+/images/rightlogo/junior.png
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /images/rightlogo/junior.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/rightlogo/Goodies.svg
+/images/rightlogo/Goodies.svg
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /images/rightlogo/Goodies.svg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/rightlogo/elan.jpg
+/images/rightlogo/elan.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /images/rightlogo/elan.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/rightlogo/idiom.svg
+/images/rightlogo/idiom.svg
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /images/rightlogo/idiom.svg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180810125603yearlycover.jpg
+/emagazines/20180810125603yearlycover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /emagazines/20180810125603yearlycover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180315122339yearlycover.jpg
+/emagazines/20180315122339yearlycover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /emagazines/20180315122339yearlycover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180305121126yearlycover.jpg
+/emagazines/20180305121126yearlycover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /emagazines/20180305121126yearlycover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/emagazines/20180202142108yearlycover.jpg
+/emagazines/20180202142108yearlycover.jpg
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /emagazines/20180202142108yearlycover.jpg HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/singtaocorp.gif
+/images/f_logo/singtaocorp.gif
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /images/f_logo/singtaocorp.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/headline.gif
+/images/f_logo/headline.gif
+10.0.0.27 - - [13/Oct/2018 19:11:11] "GET /images/f_logo/headline.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/singtao_com.gif
+/images/f_logo/singtao_com.gif
+10.0.0.27 - - [13/Oct/2018 19:11:12] "GET /images/f_logo/singtao_com.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/eastouch.gif
+/images/f_logo/eastouch.gif
+10.0.0.27 - - [13/Oct/2018 19:11:12] "GET /images/f_logo/eastouch.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/cazbuyer.gif
+/images/f_logo/cazbuyer.gif
+10.0.0.27 - - [13/Oct/2018 19:11:12] "GET /images/f_logo/cazbuyer.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/dongtouch.gif
+/images/f_logo/dongtouch.gif
+10.0.0.27 - - [13/Oct/2018 19:11:12] "GET /images/f_logo/dongtouch.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/singtao_pub.gif
+/images/f_logo/singtao_pub.gif
+10.0.0.27 - - [13/Oct/2018 19:11:12] "GET /images/f_logo/singtao_pub.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/hl_finance.gif
+/images/f_logo/hl_finance.gif
+10.0.0.27 - - [13/Oct/2018 19:11:12] "GET /images/f_logo/hl_finance.gif HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/f_logo/stop.png
+/images/f_logo/stop.png
+10.0.0.27 - - [13/Oct/2018 19:11:12] "GET /images/f_logo/stop.png HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/js/comScoreLower.js
+/js/comScoreLower.js
+10.0.0.27 - - [13/Oct/2018 19:11:12] "GET /js/comScoreLower.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f15fe16ec20>
+/home/mininet/Documents/Project4/myURLS/www.thestandard.com.hk/images/icon_emagazines.png
+/images/icon_emagazines.png
+10.0.0.27 - - [13/Oct/2018 19:11:12] "GET /images/icon_emagazines.png HTTP/1.1" 200 -
+10.0.0.27 - - [13/Oct/2018 19:11:12] code 501, message Unsupported method ('POST')
+10.0.0.27 - - [13/Oct/2018 19:11:12] "POST /ajax_calender.php HTTP/1.1" 501 -
+Killed

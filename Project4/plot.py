@@ -95,7 +95,7 @@ if __name__ == '__main__':
               left=no_tfo_start,
               )
 
-          rects1 = plt.barh(np.arange(len(tfo_len)), tfo_len, height,
+          rects1 = plt.barh(np.arange(len(tfo_len)), tfo_len, height*0.75,
               color='r',
               left=tfo_start,
               #align="center"

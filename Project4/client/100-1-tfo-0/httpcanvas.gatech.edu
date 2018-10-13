@@ -1,208 +1,201 @@
-[20372:20377:8999145802:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+[24553:24558:16160955292:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
 
-(test_shell:20372): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
+(test_shell:24553): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
 Loading hacky DNS from '/home/mininet/Documents/Project4/hack_dns' succeeded.
-Remapping 'cdn.optimizely.com' -> '10.0.0.1' port 8000
-Remapping 'a11107397707.cdn.optimizely.com' -> '10.0.0.2' port 8000
-Remapping 'fonts.googleapis.com' -> '10.0.0.3' port 8000
-Remapping 'c1.rfihub.net' -> '10.0.0.4' port 8000
-Remapping 'api.npr.org' -> '10.0.0.5' port 8000
-Remapping 'www.craigslist.org' -> '10.0.0.6' port 8000
-Remapping 'www.googletagservices.com' -> '10.0.0.7' port 8000
-Remapping 'www.google-analytics.com' -> '10.0.0.8' port 8000
-Remapping 'https%3A' -> '10.0.0.9' port 8000
-Remapping 'secure-us.imrworldwide.com' -> '10.0.0.10' port 8000
-Remapping 'www.npr.org' -> '10.0.0.11' port 8000
-Remapping 'static.chartbeat.com' -> '10.0.0.12' port 8000
-Remapping 'adservice.google.com' -> '10.0.0.13' port 8000
-Remapping 'platform.twitter.com' -> '10.0.0.14' port 8000
-Remapping 'craigslist.org' -> '10.0.0.15' port 8000
-Remapping 'connect.facebook.net' -> '10.0.0.16' port 8000
-Remapping 'bam.nr-data.net' -> '10.0.0.17' port 8000
-Remapping 'pbs.twimg.com' -> '10.0.0.18' port 8000
-Remapping 'logx.optimizely.com' -> '10.0.0.19' port 8000
-Remapping 'sb.scorecardresearch.com' -> '10.0.0.20' port 8000
-Remapping 's.npr.org' -> '10.0.0.21' port 8000
-Remapping 'syndication.twitter.com' -> '10.0.0.22' port 8000
-Remapping 'js-agent.newrelic.com' -> '10.0.0.23' port 8000
-Remapping 'securepubads.g.doubleclick.net' -> '10.0.0.24' port 8000
-Remapping '6635101.fls.doubleclick.net' -> '10.0.0.25' port 8000
-Remapping 'maxcdn.bootstrapcdn.com' -> '10.0.0.26' port 8000
-Remapping 'canvas.gatech.edu' -> '10.0.0.27' port 8000
-Remapping 'fonts.gstatic.com' -> '10.0.0.28' port 8000
-Remapping 'media.npr.org' -> '10.0.0.29' port 8000
-Remapping 'a.rfihub.com' -> '10.0.0.30' port 8000
-Remapping 'cdn.syndication.twimg.com' -> '10.0.0.31' port 8000
-Remapping 'ping.chartbeat.net' -> '10.0.0.32' port 8000
-Remapping 'insight.adsrvr.org' -> '10.0.0.33' port 8000
-[20372:20384:9000076216:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000085676:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000085724:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000229364:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000485807:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000497186:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000497377:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000505013:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000595810:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000640905:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000894851:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000907648:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000911278:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9000913652:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9001052238:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9001162494:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9001327639:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9001695142:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9002107267:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9002522490:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
-[20372:20384:9003696171:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+Remapping 's2.adform.net' -> '10.0.0.1' port 8000
+Remapping 'cdn.ampproject.org' -> '10.0.0.2' port 8000
+Remapping 'admission.gatech.edu' -> '10.0.0.3' port 8000
+Remapping 'fonts.googleapis.com' -> '10.0.0.4' port 8000
+Remapping 'www.googletagservices.com' -> '10.0.0.5' port 8000
+Remapping 'www.google-analytics.com' -> '10.0.0.6' port 8000
+Remapping 'googleads.g.doubleclick.net' -> '10.0.0.7' port 8000
+Remapping 'www.googletagmanager.com' -> '10.0.0.8' port 8000
+Remapping 'a2.adform.net' -> '10.0.0.9' port 8000
+Remapping 'www.google.com' -> '10.0.0.10' port 8000
+Remapping 'adservice.google.com' -> '10.0.0.11' port 8000
+Remapping 'platform.twitter.com' -> '10.0.0.12' port 8000
+Remapping 'tpc.googlesyndication.com' -> '10.0.0.13' port 8000
+Remapping 'pbs.twimg.com' -> '10.0.0.14' port 8000
+Remapping 'pagead2.googlesyndication.com' -> '10.0.0.15' port 8000
+Remapping 'syndication.twitter.com' -> '10.0.0.16' port 8000
+Remapping 'securepubads.g.doubleclick.net' -> '10.0.0.17' port 8000
+Remapping 's0.2mdn.net' -> '10.0.0.18' port 8000
+Remapping 'maxcdn.bootstrapcdn.com' -> '10.0.0.19' port 8000
+Remapping 'canvas.gatech.edu' -> '10.0.0.20' port 8000
+Remapping 'www.thestandard.com.hk' -> '10.0.0.21' port 8000
+Remapping 'fonts.gstatic.com' -> '10.0.0.22' port 8000
+Remapping 'googleads4.g.doubleclick.net' -> '10.0.0.23' port 8000
+Remapping 'cdn.syndication.twimg.com' -> '10.0.0.24' port 8000
+Remapping 'b.scorecardresearch.com' -> '10.0.0.25' port 8000
+Remapping 'www.googleadservices.com' -> '10.0.0.26' port 8000
+[24553:24563:16161857775:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16161857826:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16161857853:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162039194:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162326890:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162326952:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162326984:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162327011:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162433284:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162466787:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162742582:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162751373:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162751595:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162754877:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162882373:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16162964333:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16163153843:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16163570483:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16163981543:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16164402297:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[24553:24563:16164772878:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
 <stats>
 c:tfo.supported:	0
 c:WebFrameActiveCount:	1
-t:tfo.page_load_timer:	8730
+t:tfo.page_load_timer:	8825
 c:URLRequestCount:	27
 c:disk_cache.miss:	27
 c:HttpNetworkTransaction.Count:	27
 c:tcp.connect:	42
 c:tcp.write_bytes:	11805
-c:tcp.read_bytes:	2754579
+c:tcp.read_bytes:	2754906
 </stats>
 
 <resolves>
 strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
-  211.944 |  4625.291 |  4413.347 |   0 | canvas.gatech.edu:80 ->  10.0.0.27:8000
-  212.449 |   212.449 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  670.031 |   670.031 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  670.060 |   670.060 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  670.573 |   670.573 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  670.591 |   670.591 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  671.062 |   671.062 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  671.079 |   671.079 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  678.659 |  1534.213 |   855.554 |   0 | maxcdn.bootstrapcdn.com:443 ->  10.0.0.26:8000
-  678.717 |   678.717 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
-  678.725 |   678.725 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
-  679.285 |  1959.375 |  1280.090 |   0 | fonts.googleapis.com:443 ->  10.0.0.3:8000
-  679.314 |   679.314 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
-  679.319 |   679.319 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
-  682.350 |   682.350 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
-  682.948 |   682.948 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
-  682.956 |   682.956 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
-  683.445 |   683.445 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  683.464 |   683.464 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  683.957 |   683.957 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  688.225 |   688.225 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  688.677 |   688.677 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  689.152 |   689.152 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  692.783 |   692.783 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  693.206 |   693.206 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  693.623 |   693.623 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  695.956 |   695.956 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  696.269 |   696.269 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  832.897 |  2211.002 |  1378.105 |   0 | canvas.gatech.edu:443 ->  10.0.0.27:8000
-  832.955 |   832.955 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
-  832.964 |   832.964 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
-  833.295 |   833.295 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  838.356 |   838.356 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  838.715 |   838.715 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  842.181 |   842.181 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  842.624 |   842.624 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  848.593 |   848.593 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  856.569 |  1689.260 |   832.691 |   0 | platform.twitter.com:443 ->  10.0.0.14:8000
-  856.688 |   856.688 |     0.000 |   1 | platform.twitter.com:443 ->  nil
-  856.699 |   856.699 |     0.000 |   1 | platform.twitter.com:443 ->  nil
-  902.057 |   902.057 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  919.063 |   919.063 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
-  919.471 |   919.471 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 1106.904 |  1106.904 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 1124.397 |  1124.397 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
- 1124.437 |  1124.437 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
- 1124.443 |  1124.443 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
- 1125.586 |  1125.586 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 1133.767 |  1133.767 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1133.779 |  1133.779 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1133.914 |  1133.914 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1133.945 |  1133.945 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1133.950 |  1133.950 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1134.007 |  1134.007 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1134.029 |  1134.029 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1134.034 |  1134.034 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1140.556 |  1140.556 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 1140.721 |  1140.721 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 1277.559 |  1277.559 |     0.000 |   1 | platform.twitter.com:443 ->  nil
- 1277.611 |  1277.611 |     0.000 |   1 | platform.twitter.com:443 ->  nil
- 1277.622 |  1277.622 |     0.000 |   1 | platform.twitter.com:443 ->  nil
- 1534.160 |  1534.160 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
- 1534.203 |  1534.203 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
- 1534.210 |  1534.210 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
- 1545.393 |  1545.393 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1545.881 |  1545.881 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1546.592 |  1546.592 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1546.626 |  1546.626 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1546.632 |  1546.632 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1553.418 |  1553.418 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1553.453 |  1553.453 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1553.460 |  1553.460 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1644.321 |  1644.321 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
- 1644.389 |  1644.389 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
- 1644.399 |  1644.399 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
- 1649.123 |  1649.123 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 1689.205 |  1689.205 |     0.000 |   1 | platform.twitter.com:443 ->  nil
- 1689.249 |  1689.249 |     0.000 |   1 | platform.twitter.com:443 ->  nil
- 1689.256 |  1689.256 |     0.000 |   1 | platform.twitter.com:443 ->  nil
- 1742.582 |  1742.582 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 1959.357 |  1959.357 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 1959.372 |  1959.372 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
- 2162.639 |  2162.639 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 2174.978 |  2174.978 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 2206.643 |  2206.643 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 2210.952 |  2210.952 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
- 2210.991 |  2210.991 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
- 2210.998 |  2210.998 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
- 2223.973 |  2223.973 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 2233.023 |  2233.023 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 2256.298 |  2256.298 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 2332.695 |  3155.481 |   822.786 |   0 | www.google-analytics.com:443 ->  10.0.0.8:8000
- 2332.742 |  2332.742 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
- 2332.749 |  2332.749 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
- 2743.314 |  2743.314 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
- 2743.358 |  2743.358 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
- 2743.365 |  2743.365 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
- 3155.430 |  3155.430 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
- 3155.471 |  3155.471 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
- 3155.478 |  3155.478 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
- 3330.217 |  3330.217 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
- 4625.262 |  4625.262 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  221.650 |  4689.989 |  4468.339 |   0 | canvas.gatech.edu:80 ->  10.0.0.20:8000
+  221.965 |   221.965 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  673.687 |   673.687 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  673.713 |   673.713 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  674.142 |   674.142 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  674.157 |   674.157 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  677.616 |   677.616 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  677.645 |   677.645 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  678.276 |  1569.597 |   891.321 |   0 | maxcdn.bootstrapcdn.com:443 ->  10.0.0.19:8000
+  678.325 |   678.325 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+  678.330 |   678.330 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+  682.084 |  1984.991 |  1302.907 |   0 | fonts.googleapis.com:443 ->  10.0.0.4:8000
+  682.157 |   682.157 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  682.168 |   682.168 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  685.804 |   685.804 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  685.865 |   685.865 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  685.871 |   685.871 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  692.423 |   692.423 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  692.450 |   692.450 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  692.933 |   692.933 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  692.947 |   692.947 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  693.312 |   693.312 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  695.516 |   695.516 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  696.999 |   696.999 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  697.292 |   697.292 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  697.573 |   697.573 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  699.400 |   699.400 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  699.717 |   699.717 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  843.245 |  2206.879 |  1363.634 |   0 | canvas.gatech.edu:443 ->  10.0.0.20:8000
+  843.245 |   843.245 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
+  843.245 |   843.245 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
+  843.597 |   843.597 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  847.263 |   847.263 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  847.512 |   847.512 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  851.608 |   851.608 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  851.681 |   851.681 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  857.780 |   857.780 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  863.978 |  1709.280 |   845.302 |   0 | platform.twitter.com:443 ->  10.0.0.12:8000
+  864.021 |   864.021 |     0.000 |   1 | platform.twitter.com:443 ->  nil
+  864.026 |   864.026 |     0.000 |   1 | platform.twitter.com:443 ->  nil
+  875.916 |   875.916 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  881.888 |   881.888 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+  890.134 |   890.134 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 1100.468 |  1100.468 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1100.480 |  1100.480 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1100.635 |  1100.635 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1100.659 |  1100.659 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1100.663 |  1100.663 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1100.705 |  1100.705 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1100.722 |  1100.722 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1100.726 |  1100.726 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1100.763 |  1100.763 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+ 1100.784 |  1100.784 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+ 1100.790 |  1100.790 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+ 1108.191 |  1108.191 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 1133.697 |  1133.697 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 1139.323 |  1139.323 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 1285.934 |  1285.934 |     0.000 |   1 | platform.twitter.com:443 ->  nil
+ 1286.163 |  1286.163 |     0.000 |   1 | platform.twitter.com:443 ->  nil
+ 1286.176 |  1286.176 |     0.000 |   1 | platform.twitter.com:443 ->  nil
+ 1569.404 |  1569.404 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1569.416 |  1569.416 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1569.563 |  1569.563 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+ 1569.589 |  1569.589 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+ 1569.594 |  1569.594 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+ 1569.640 |  1569.640 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1569.660 |  1569.660 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1569.664 |  1569.664 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1569.702 |  1569.702 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1569.719 |  1569.719 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1569.723 |  1569.723 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1675.763 |  1675.763 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
+ 1675.798 |  1675.798 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
+ 1675.804 |  1675.804 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
+ 1681.839 |  1681.839 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 1688.580 |  1688.580 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 1709.233 |  1709.233 |     0.000 |   1 | platform.twitter.com:443 ->  nil
+ 1709.271 |  1709.271 |     0.000 |   1 | platform.twitter.com:443 ->  nil
+ 1709.277 |  1709.277 |     0.000 |   1 | platform.twitter.com:443 ->  nil
+ 1767.248 |  1767.248 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 1984.976 |  1984.976 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 1984.988 |  1984.988 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+ 2192.300 |  2192.300 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 2206.828 |  2206.828 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
+ 2206.870 |  2206.870 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
+ 2206.876 |  2206.876 |     0.000 |   1 | canvas.gatech.edu:443 ->  nil
+ 2207.111 |  2207.111 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 2224.276 |  2224.276 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 2243.384 |  2243.384 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 2269.415 |  2269.415 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 2286.606 |  2286.606 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 2405.515 |  3224.023 |   818.508 |   0 | www.google-analytics.com:443 ->  10.0.0.6:8000
+ 2405.551 |  2405.551 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 2405.556 |  2405.556 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 2812.904 |  2812.904 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 2812.938 |  2812.938 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 2812.943 |  2812.943 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 3223.978 |  3223.978 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 3224.015 |  3224.015 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 3224.021 |  3224.021 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 3387.819 |  3387.819 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
+ 4688.927 |  4688.927 |     0.000 |   1 | canvas.gatech.edu:80 ->  nil
 </resolves>
 
 <transactions>
 strt (ms) | end (ms)  | len (ms)  | url
-  211.850 |   902.895 |   691.045 | http://canvas.gatech.edu/
-  670.009 |  1107.143 |   437.134 | http://canvas.gatech.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css
-  670.554 |  1129.500 |   458.946 | http://canvas.gatech.edu/sites/default/files/css/css_llA6VMxJFDm0u4LwhirU1f3TUK-6724CasfsVrZIlH0.css
-  671.049 |  1140.666 |   469.617 | http://canvas.gatech.edu/sites/default/files/css/css_l6wSvZYF8CtEcmk_Z5UNrnWVS6d8hAfOFreo_PynVkM.css
-  683.944 |  1140.770 |   456.826 | http://canvas.gatech.edu/sites/default/files/css/css_jnrgmrIPZEeWXAwE44X73yXjxNxrDBdNAqz3ofTRUnY.css
-  688.662 |  1649.208 |   960.546 | http://canvas.gatech.edu/sites/default/files/css/css_u3SoLiMzE92ZZliNj0D0oJj1Uj0RCfWlk28PZM7HQZ8.css
-  683.431 |  1743.239 |  1059.808 | http://canvas.gatech.edu/sites/default/files/css/css_Kq9eQTxD5ieXG9F-NbX7s3TLTvvlwZgrZcqCmdC-ocM.css
-  678.638 |  1943.704 |  1265.066 | https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
-  679.270 |  1959.842 |  1280.572 | https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,500,500italic,700,700italic
-  682.323 |  1962.470 |  1280.147 | https://fonts.googleapis.com/css?family=Roboto+Slab:400,700
-  856.510 |  2100.463 |  1243.953 | https://platform.twitter.com/widgets.js
-  692.768 |  2171.720 |  1478.952 | http://canvas.gatech.edu/sites/default/files/js/js_v9s9BlH6_53gzKzzUu9FU_COwZfuWBZO1P0bOflB0nc.js
-  693.193 |  2175.149 |  1481.956 | http://canvas.gatech.edu/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js
-  693.610 |  2206.768 |  1513.158 | http://canvas.gatech.edu/sites/default/files/js/js_QQqRKbG3VsXQRYzQJmK15hTS9Z-fY0ha_IOq55gNGCM.js
-  695.939 |  2224.177 |  1528.238 | http://canvas.gatech.edu/sites/all/themes/gt/css/base.css
-  696.269 |  2233.223 |  1536.954 | http://canvas.gatech.edu/sites/all/themes/gt/images/logos/logo-gt.png
-  689.130 |  2262.935 |  1573.805 | http://canvas.gatech.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js
-  833.295 |  3330.462 |  2497.167 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/30802817904_7aec990e9e_b.jpg
- 2332.673 |  3571.195 |  1238.522 | https://www.google-analytics.com/analytics.js
-  838.335 |  4625.369 |  3787.034 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/10946024544_ec50b05044_k.jpg
-  832.285 |  4747.424 |  3915.139 | https://canvas.gatech.edu/sites/default/files/images/canvas-banner.png
-  838.689 |  5406.255 |  4567.566 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/10945888563_5ee6ced17d_k.jpg
-  842.161 |  6761.463 |  5919.302 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/15340927205_54d9559ec2_k_3.jpg
-  842.610 |  7993.719 |  7151.109 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/21814046809_32e9f2426b_k.jpg
-  919.458 |  8150.671 |  7231.213 | http://canvas.gatech.edu/sites/all/themes/gt/images/logos/gt-logo-footer-retina.png
-  919.024 |  8339.287 |  7420.263 | http://canvas.gatech.edu/sites/all/themes/gt/images/gt-map-image-default.jpg
-  848.559 |  8807.707 |  7959.148 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/14184020162_ca36b265ef_k_1.jpg
+  221.584 |   885.021 |   663.437 | http://canvas.gatech.edu/
+  673.668 |  1108.272 |   434.604 | http://canvas.gatech.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css
+  674.124 |  1134.240 |   460.116 | http://canvas.gatech.edu/sites/default/files/css/css_llA6VMxJFDm0u4LwhirU1f3TUK-6724CasfsVrZIlH0.css
+  677.597 |  1139.402 |   461.805 | http://canvas.gatech.edu/sites/default/files/css/css_l6wSvZYF8CtEcmk_Z5UNrnWVS6d8hAfOFreo_PynVkM.css
+  692.923 |  1682.469 |   989.546 | http://canvas.gatech.edu/sites/default/files/css/css_jnrgmrIPZEeWXAwE44X73yXjxNxrDBdNAqz3ofTRUnY.css
+  693.302 |  1689.348 |   996.046 | http://canvas.gatech.edu/sites/default/files/css/css_u3SoLiMzE92ZZliNj0D0oJj1Uj0RCfWlk28PZM7HQZ8.css
+  692.400 |  1767.847 |  1075.447 | http://canvas.gatech.edu/sites/default/files/css/css_Kq9eQTxD5ieXG9F-NbX7s3TLTvvlwZgrZcqCmdC-ocM.css
+  682.051 |  1985.211 |  1303.160 | https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,500,500italic,700,700italic
+  685.774 |  1993.922 |  1308.148 | https://fonts.googleapis.com/css?family=Roboto+Slab:400,700
+  678.263 |  1997.261 |  1318.998 | https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+  863.951 |  2124.856 |  1260.905 | https://platform.twitter.com/widgets.js
+  696.988 |  2192.364 |  1495.376 | http://canvas.gatech.edu/sites/default/files/js/js_v9s9BlH6_53gzKzzUu9FU_COwZfuWBZO1P0bOflB0nc.js
+  697.282 |  2207.161 |  1509.879 | http://canvas.gatech.edu/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js
+  697.563 |  2224.346 |  1526.783 | http://canvas.gatech.edu/sites/default/files/js/js_QQqRKbG3VsXQRYzQJmK15hTS9Z-fY0ha_IOq55gNGCM.js
+  699.384 |  2243.497 |  1544.113 | http://canvas.gatech.edu/sites/all/themes/gt/css/base.css
+  699.706 |  2269.821 |  1570.115 | http://canvas.gatech.edu/sites/all/themes/gt/images/logos/logo-gt.png
+  695.491 |  2290.317 |  1594.826 | http://canvas.gatech.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js
+  843.580 |  3387.895 |  2544.315 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/30802817904_7aec990e9e_b.jpg
+ 2405.498 |  3644.764 |  1239.266 | https://www.google-analytics.com/analytics.js
+  843.245 |  4015.311 |  3172.066 | https://canvas.gatech.edu/sites/default/files/images/canvas-banner.png
+  847.251 |  4690.280 |  3843.029 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/10946024544_ec50b05044_k.jpg
+  847.499 |  5466.575 |  4619.076 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/10945888563_5ee6ced17d_k.jpg
+  851.591 |  6719.446 |  5867.855 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/15340927205_54d9559ec2_k_3.jpg
+  851.671 |  8095.386 |  7243.715 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/21814046809_32e9f2426b_k.jpg
+  890.120 |  8245.286 |  7355.166 | http://canvas.gatech.edu/sites/all/themes/gt/images/logos/gt-logo-footer-retina.png
+  875.897 |  8434.734 |  7558.837 | http://canvas.gatech.edu/sites/all/themes/gt/images/gt-map-image-default.jpg
+  857.760 |  8908.694 |  8050.934 | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/14184020162_ca36b265ef_k_1.jpg
 </transactions>
 
 <responses>
@@ -214,9 +207,9 @@ status       | mime_type       | charset | url -> redirect_url
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/css/css_jnrgmrIPZEeWXAwE44X73yXjxNxrDBdNAqz3ofTRUnY.css -> nil
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/css/css_u3SoLiMzE92ZZliNj0D0oJj1Uj0RCfWlk28PZM7HQZ8.css -> nil
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/css/css_Kq9eQTxD5ieXG9F-NbX7s3TLTvvlwZgrZcqCmdC-ocM.css -> nil
-             |                 |         | https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css -> nil
              |                 |         | https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,500,500italic,700,700italic -> nil
              |                 |         | https://fonts.googleapis.com/css?family=Roboto+Slab:400,700 -> nil
+             |                 |         | https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css -> nil
              |                 |         | https://platform.twitter.com/widgets.js -> nil
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/js/js_v9s9BlH6_53gzKzzUu9FU_COwZfuWBZO1P0bOflB0nc.js -> nil
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js -> nil
@@ -226,8 +219,8 @@ status       | mime_type       | charset | url -> redirect_url
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js -> nil
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/30802817904_7aec990e9e_b.jpg -> nil
              |                 |         | https://www.google-analytics.com/analytics.js -> nil
-          OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/10946024544_ec50b05044_k.jpg -> nil
              |                 |         | https://canvas.gatech.edu/sites/default/files/images/canvas-banner.png -> nil
+          OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/10946024544_ec50b05044_k.jpg -> nil
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/10945888563_5ee6ced17d_k.jpg -> nil
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/15340927205_54d9559ec2_k_3.jpg -> nil
           OK |       text/html |         | http://canvas.gatech.edu/sites/default/files/uploads/images/superblock_images/21814046809_32e9f2426b_k.jpg -> nil
@@ -289,11 +282,12 @@ Histogram: Net.ConnectionUsedSSLVersionFallback recorded 18 samples, average = 1
 2  ------------------------------------------------------------------------O (6 = 33.3%) {66.7%}
 3  ... 
 
-Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 42 samples, average = 212.2 (flags = 0x1)
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 42 samples, average = 214.2 (flags = 0x1)
 0    ... 
 186  ------------------------------------------------------------------------O (23 = 54.8%) {0.0%}
-211  -----------------------------------------------------------O              (19 = 45.2%) {54.8%}
-239  ... 
+211  --------------------------------------------------------O                 (18 = 42.9%) {54.8%}
+239  ---O                                                                      (1 = 2.4%) {97.6%}
+271  ... 
 
 Histogram: Net.HadConnectionType3 recorded 2 samples, average = 3.5 (flags = 0x1)
 0  ------------------------------------------------------------------------O (1 = 50.0%)
@@ -301,95 +295,94 @@ Histogram: Net.HadConnectionType3 recorded 2 samples, average = 3.5 (flags = 0x1
 7  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
 8  ... 
 
-Histogram: Net.HttpConnectionLatency recorded 21 samples, average = 1087.1 (flags = 0x1)
+Histogram: Net.HttpConnectionLatency recorded 21 samples, average = 1127.4 (flags = 0x1)
 0     ... 
-186   --------------O                                                           (1 = 4.8%) {0.0%}
-211   ------------------------------------------------------------------------O (5 = 23.8%) {4.8%}
+186   ------------------------------------O                                     (3 = 14.3%) {0.0%}
+211   ------------------------------------O                                     (3 = 14.3%) {14.3%}
 239   ... 
-394   --------------O                                                           (1 = 4.8%) {28.6%}
+394   ------------O                                                             (1 = 4.8%) {28.6%}
 446   ... 
-572   -----------------------------O                                            (2 = 9.5%) {33.3%}
-648   -----------------------------O                                            (2 = 9.5%) {42.9%}
+572   ------------O                                                             (1 = 4.8%) {33.3%}
+648   ------------------------O                                                 (2 = 9.5%) {38.1%}
 734   ... 
-1065  --------------O                                                           (1 = 4.8%) {52.4%}
-1206  --------------O                                                           (1 = 4.8%) {57.1%}
-1365  -----------------------------O                                            (2 = 9.5%) {61.9%}
-1546  ----------------------------------------------------------O               (4 = 19.0%) {71.4%}
+1206  ------------------------------------O                                     (3 = 14.3%) {47.6%}
+1365  O                                                                         (0 = 0.0%) {61.9%}
+1546  ------------------------------------------------------------------------O (6 = 28.6%) {61.9%}
 1750  ... 
-2540  --------------O                                                           (1 = 4.8%) {90.5%}
+2540  ------------O                                                             (1 = 4.8%) {90.5%}
 2876  ... 
-3687  --------------O                                                           (1 = 4.8%) {95.2%}
+3687  ------------O                                                             (1 = 4.8%) {95.2%}
 4175  ... 
 
-Histogram: Net.HttpJob.TotalTime recorded 27 samples, average = 2607.5 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTime recorded 27 samples, average = 2629.5 (flags = 0x1)
 0     ... 
 378   --------------O                                                           (1 = 3.7%) {0.0%}
-449   -------------------------------------------O                              (3 = 11.1%) {3.7%}
-533   O                                                                         (0 = 0.0%) {14.8%}
-633   --------------O                                                           (1 = 3.7%) {14.8%}
-752   O                                                                         (0 = 0.0%) {18.5%}
-894   -----------------------------O                                            (2 = 7.4%) {18.5%}
-1062  -----------------------------O                                            (2 = 7.4%) {25.9%}
-1262  ------------------------------------------------------------------------O (5 = 18.5%) {33.3%}
-1500  ----------------------------------------------------------O               (4 = 14.8%) {51.9%}
-1782  O                                                                         (0 = 0.0%) {66.7%}
-2117  --------------O                                                           (1 = 3.7%) {66.7%}
-2516  ... 
-3553  -----------------------------O                                            (2 = 7.4%) {70.4%}
+449   -----------------------------O                                            (2 = 7.4%) {3.7%}
+533   O                                                                         (0 = 0.0%) {11.1%}
+633   --------------O                                                           (1 = 3.7%) {11.1%}
+752   O                                                                         (0 = 0.0%) {14.8%}
+894   -----------------------------O                                            (2 = 7.4%) {14.8%}
+1062  -------------------------------------------O                              (3 = 11.1%) {22.2%}
+1262  ----------------------------------------------------------O               (4 = 14.8%) {33.3%}
+1500  ------------------------------------------------------------------------O (5 = 18.5%) {48.1%}
+1782  ... 
+2516  --------------O                                                           (1 = 3.7%) {66.7%}
+2990  --------------O                                                           (1 = 3.7%) {70.4%}
+3553  --------------O                                                           (1 = 3.7%) {74.1%}
 4222  --------------O                                                           (1 = 3.7%) {77.8%}
 5017  --------------O                                                           (1 = 3.7%) {81.5%}
 5961  O                                                                         (0 = 0.0%) {85.2%}
 7083  ----------------------------------------------------------O               (4 = 14.8%) {85.2%}
 8416  ... 
 
-Histogram: Net.HttpJob.TotalTimeCancel recorded 6 samples, average = 1703.5 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTimeCancel recorded 6 samples, average = 1600.3 (flags = 0x1)
 0     ... 
 1062  ------------------------------------------------O                         (2 = 33.3%) {0.0%}
 1262  ------------------------------------------------------------------------O (3 = 50.0%) {33.3%}
 1500  ... 
-3553  ------------------------O                                                 (1 = 16.7%) {83.3%}
-4222  ... 
+2990  ------------------------O                                                 (1 = 16.7%) {83.3%}
+3553  ... 
 
-Histogram: Net.HttpJob.TotalTimeNotCached recorded 21 samples, average = 2865.8 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 21 samples, average = 2923.6 (flags = 0x1)
 0     ... 
-378   ------------------O                                                       (1 = 4.8%) {0.0%}
-449   ------------------------------------------------------O                   (3 = 14.3%) {4.8%}
-533   O                                                                         (0 = 0.0%) {19.0%}
-633   ------------------O                                                       (1 = 4.8%) {19.0%}
-752   O                                                                         (0 = 0.0%) {23.8%}
-894   ------------------------------------O                                     (2 = 9.5%) {23.8%}
-1062  O                                                                         (0 = 0.0%) {33.3%}
-1262  ------------------------------------O                                     (2 = 9.5%) {33.3%}
-1500  ------------------------------------------------------------------------O (4 = 19.0%) {42.9%}
-1782  O                                                                         (0 = 0.0%) {61.9%}
-2117  ------------------O                                                       (1 = 4.8%) {61.9%}
-2516  ... 
-3553  ------------------O                                                       (1 = 4.8%) {66.7%}
-4222  ------------------O                                                       (1 = 4.8%) {71.4%}
-5017  ------------------O                                                       (1 = 4.8%) {76.2%}
+378   --------------O                                                           (1 = 4.8%) {0.0%}
+449   -----------------------------O                                            (2 = 9.5%) {4.8%}
+533   O                                                                         (0 = 0.0%) {14.3%}
+633   --------------O                                                           (1 = 4.8%) {14.3%}
+752   O                                                                         (0 = 0.0%) {19.0%}
+894   -----------------------------O                                            (2 = 9.5%) {19.0%}
+1062  --------------O                                                           (1 = 4.8%) {28.6%}
+1262  --------------O                                                           (1 = 4.8%) {33.3%}
+1500  ------------------------------------------------------------------------O (5 = 23.8%) {38.1%}
+1782  ... 
+2516  --------------O                                                           (1 = 4.8%) {61.9%}
+2990  O                                                                         (0 = 0.0%) {66.7%}
+3553  --------------O                                                           (1 = 4.8%) {66.7%}
+4222  --------------O                                                           (1 = 4.8%) {71.4%}
+5017  --------------O                                                           (1 = 4.8%) {76.2%}
 5961  O                                                                         (0 = 0.0%) {81.0%}
-7083  ------------------------------------------------------------------------O (4 = 19.0%) {81.0%}
+7083  ----------------------------------------------------------O               (4 = 19.0%) {81.0%}
 8416  ... 
 
-Histogram: Net.HttpJob.TotalTimeSuccess recorded 21 samples, average = 2865.8 (flags = 0x1)
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 21 samples, average = 2923.6 (flags = 0x1)
 0     ... 
-378   ------------------O                                                       (1 = 4.8%) {0.0%}
-449   ------------------------------------------------------O                   (3 = 14.3%) {4.8%}
-533   O                                                                         (0 = 0.0%) {19.0%}
-633   ------------------O                                                       (1 = 4.8%) {19.0%}
-752   O                                                                         (0 = 0.0%) {23.8%}
-894   ------------------------------------O                                     (2 = 9.5%) {23.8%}
-1062  O                                                                         (0 = 0.0%) {33.3%}
-1262  ------------------------------------O                                     (2 = 9.5%) {33.3%}
-1500  ------------------------------------------------------------------------O (4 = 19.0%) {42.9%}
-1782  O                                                                         (0 = 0.0%) {61.9%}
-2117  ------------------O                                                       (1 = 4.8%) {61.9%}
-2516  ... 
-3553  ------------------O                                                       (1 = 4.8%) {66.7%}
-4222  ------------------O                                                       (1 = 4.8%) {71.4%}
-5017  ------------------O                                                       (1 = 4.8%) {76.2%}
+378   --------------O                                                           (1 = 4.8%) {0.0%}
+449   -----------------------------O                                            (2 = 9.5%) {4.8%}
+533   O                                                                         (0 = 0.0%) {14.3%}
+633   --------------O                                                           (1 = 4.8%) {14.3%}
+752   O                                                                         (0 = 0.0%) {19.0%}
+894   -----------------------------O                                            (2 = 9.5%) {19.0%}
+1062  --------------O                                                           (1 = 4.8%) {28.6%}
+1262  --------------O                                                           (1 = 4.8%) {33.3%}
+1500  ------------------------------------------------------------------------O (5 = 23.8%) {38.1%}
+1782  ... 
+2516  --------------O                                                           (1 = 4.8%) {61.9%}
+2990  O                                                                         (0 = 0.0%) {66.7%}
+3553  --------------O                                                           (1 = 4.8%) {66.7%}
+4222  --------------O                                                           (1 = 4.8%) {71.4%}
+5017  --------------O                                                           (1 = 4.8%) {76.2%}
 5961  O                                                                         (0 = 0.0%) {81.0%}
-7083  ------------------------------------------------------------------------O (4 = 19.0%) {81.0%}
+7083  ----------------------------------------------------------O               (4 = 19.0%) {81.0%}
 8416  ... 
 
 Histogram: Net.HttpResponseCode recorded 21 samples, average = 200.0 (flags = 0x1)
@@ -401,21 +394,21 @@ Histogram: Net.HttpSocketType recorded 21 samples, average = 0.0 (flags = 0x1)
 0  ------------------------------------------------------------------------O (21 = 100.0%)
 1  ... 
 
-Histogram: Net.HttpTimeToFirstByte recorded 27 samples, average = 2204.3 (flags = 0x1)
+Histogram: Net.HttpTimeToFirstByte recorded 27 samples, average = 2227.5 (flags = 0x1)
 0     ... 
-389   ------------------------------------------------------------------------O (6 = 22.2%) {0.0%}
+389   ------------------------------------------------------------------------O (5 = 18.5%) {0.0%}
 477   ... 
-881   ------------------------O                                                 (2 = 7.4%) {22.2%}
-1081  ------------------------------------------------------------O             (5 = 18.5%) {29.6%}
-1326  ------------------------------------------------------------O             (5 = 18.5%) {48.1%}
-1627  ------------O                                                             (1 = 3.7%) {66.7%}
-1996  ------------O                                                             (1 = 3.7%) {70.4%}
+881   -------------------------------------------O                              (3 = 11.1%) {18.5%}
+1081  ------------------------------------------------------------------------O (5 = 18.5%) {29.6%}
+1326  ------------------------------------------------------------------------O (5 = 18.5%) {48.1%}
+1627  --------------O                                                           (1 = 3.7%) {66.7%}
+1996  --------------O                                                           (1 = 3.7%) {70.4%}
 2449  O                                                                         (0 = 0.0%) {74.1%}
-3005  ------------O                                                             (1 = 3.7%) {74.1%}
-3687  ------------------------O                                                 (2 = 7.4%) {77.8%}
-4524  ------------O                                                             (1 = 3.7%) {85.2%}
-5551  ------------O                                                             (1 = 3.7%) {88.9%}
-6812  ------------------------O                                                 (2 = 7.4%) {92.6%}
+3005  -----------------------------O                                            (2 = 7.4%) {74.1%}
+3687  --------------O                                                           (1 = 3.7%) {81.5%}
+4524  --------------O                                                           (1 = 3.7%) {85.2%}
+5551  --------------O                                                           (1 = 3.7%) {88.9%}
+6812  -----------------------------O                                            (2 = 7.4%) {92.6%}
 8359  ... 
 
 Histogram: Net.NumDuplicateCookiesInDb recorded 0 samples (flags = 0x1)
@@ -525,20 +518,19 @@ Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
 Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
 0 ... 
 
-Histogram: Net.SocketRequestTime_TCP recorded 42 samples, average = 648.8 (flags = 0x1)
+Histogram: Net.SocketRequestTime_TCP recorded 42 samples, average = 670.3 (flags = 0x1)
 0     ... 
 186   ------------------------------------------------------------------------O (15 = 35.7%) {0.0%}
 211   ----------------------------------------------------------O               (12 = 28.6%) {35.7%}
 239   ... 
 394   -----O                                                                    (1 = 2.4%) {64.3%}
 446   ... 
-572   ----------O                                                               (2 = 4.8%) {66.7%}
-648   ----------O                                                               (2 = 4.8%) {71.4%}
+572   -----O                                                                    (1 = 2.4%) {66.7%}
+648   ----------O                                                               (2 = 4.8%) {69.0%}
 734   ... 
-1065  -----O                                                                    (1 = 2.4%) {76.2%}
-1206  -----O                                                                    (1 = 2.4%) {78.6%}
-1365  ----------O                                                               (2 = 4.8%) {81.0%}
-1546  -------------------O                                                      (4 = 9.5%) {85.7%}
+1206  --------------O                                                           (3 = 7.1%) {73.8%}
+1365  O                                                                         (0 = 0.0%) {81.0%}
+1546  -----------------------------O                                            (6 = 14.3%) {81.0%}
 1750  ... 
 2540  -----O                                                                    (1 = 2.4%) {95.2%}
 2876  ... 
@@ -582,75 +574,79 @@ Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
 Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
 0 ... 
 
-Histogram: Net.TCP_Connection_Latency recorded 42 samples, average = 212.2 (flags = 0x1)
+Histogram: Net.TCP_Connection_Latency recorded 42 samples, average = 214.1 (flags = 0x1)
 0    ... 
 186  ------------------------------------------------------------------------O (23 = 54.8%) {0.0%}
-211  -----------------------------------------------------------O              (19 = 45.2%) {54.8%}
-239  ... 
+211  --------------------------------------------------------O                 (18 = 42.9%) {54.8%}
+239  ---O                                                                      (1 = 2.4%) {97.6%}
+271  ... 
 
-Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 42 samples, average = 212.2 (flags = 0x1)
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 42 samples, average = 214.1 (flags = 0x1)
 0    ... 
 186  ------------------------------------------------------------------------O (23 = 54.8%) {0.0%}
-211  -----------------------------------------------------------O              (19 = 45.2%) {54.8%}
-239  ... 
+211  --------------------------------------------------------O                 (18 = 42.9%) {54.8%}
+239  ---O                                                                      (1 = 2.4%) {97.6%}
+271  ... 
 
-Histogram: Net.Transaction_Latency_Total recorded 21 samples, average = 2864.0 (flags = 0x1)
+Histogram: Net.Transaction_Latency_Total recorded 21 samples, average = 2922.9 (flags = 0x1)
 0     ... 
-394   --------------O                                                           (1 = 4.8%) {0.0%}
-446   -------------------------------------------O                              (3 = 14.3%) {4.8%}
+394   ------------------O                                                       (1 = 4.8%) {0.0%}
+446   ------------------------------------O                                     (2 = 9.5%) {4.8%}
 505   ... 
-648   --------------O                                                           (1 = 4.8%) {19.0%}
+648   ------------------O                                                       (1 = 4.8%) {14.3%}
 734   ... 
-941   -----------------------------O                                            (2 = 9.5%) {23.8%}
-1065  ... 
-1365  ------------------------------------------------------------------------O (5 = 23.8%) {33.3%}
-1546  --------------O                                                           (1 = 4.8%) {57.1%}
+941   ------------------------------------O                                     (2 = 9.5%) {19.0%}
+1065  ------------------O                                                       (1 = 4.8%) {28.6%}
+1206  O                                                                         (0 = 0.0%) {33.3%}
+1365  ------------------------------------------------------------------------O (4 = 19.0%) {33.3%}
+1546  ------------------------------------O                                     (2 = 9.5%) {52.4%}
 1750  ... 
-2243  --------------O                                                           (1 = 4.8%) {61.9%}
-2540  ... 
-3687  --------------O                                                           (1 = 4.8%) {66.7%}
-4175  --------------O                                                           (1 = 4.8%) {71.4%}
+2540  ------------------O                                                       (1 = 4.8%) {61.9%}
+2876  ... 
+3687  ------------------O                                                       (1 = 4.8%) {66.7%}
+4175  ------------------O                                                       (1 = 4.8%) {71.4%}
 4727  O                                                                         (0 = 0.0%) {76.2%}
-5352  --------------O                                                           (1 = 4.8%) {76.2%}
+5352  ------------------O                                                       (1 = 4.8%) {76.2%}
 6060  O                                                                         (0 = 0.0%) {81.0%}
-6861  -------------------------------------------O                              (3 = 14.3%) {81.0%}
-7768  --------------O                                                           (1 = 4.8%) {95.2%}
+6861  ------------------------------------------------------O                   (3 = 14.3%) {81.0%}
+7768  ------------------O                                                       (1 = 4.8%) {95.2%}
 8795  ... 
 
-Histogram: Net.Transaction_Latency_Total_New_Connection recorded 21 samples, average = 2864.0 (flags = 0x1)
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 21 samples, average = 2922.9 (flags = 0x1)
 0     ... 
-394   --------------O                                                           (1 = 4.8%) {0.0%}
-446   -------------------------------------------O                              (3 = 14.3%) {4.8%}
+394   ------------------O                                                       (1 = 4.8%) {0.0%}
+446   ------------------------------------O                                     (2 = 9.5%) {4.8%}
 505   ... 
-648   --------------O                                                           (1 = 4.8%) {19.0%}
+648   ------------------O                                                       (1 = 4.8%) {14.3%}
 734   ... 
-941   -----------------------------O                                            (2 = 9.5%) {23.8%}
-1065  ... 
-1365  ------------------------------------------------------------------------O (5 = 23.8%) {33.3%}
-1546  --------------O                                                           (1 = 4.8%) {57.1%}
+941   ------------------------------------O                                     (2 = 9.5%) {19.0%}
+1065  ------------------O                                                       (1 = 4.8%) {28.6%}
+1206  O                                                                         (0 = 0.0%) {33.3%}
+1365  ------------------------------------------------------------------------O (4 = 19.0%) {33.3%}
+1546  ------------------------------------O                                     (2 = 9.5%) {52.4%}
 1750  ... 
-2243  --------------O                                                           (1 = 4.8%) {61.9%}
-2540  ... 
-3687  --------------O                                                           (1 = 4.8%) {66.7%}
-4175  --------------O                                                           (1 = 4.8%) {71.4%}
+2540  ------------------O                                                       (1 = 4.8%) {61.9%}
+2876  ... 
+3687  ------------------O                                                       (1 = 4.8%) {66.7%}
+4175  ------------------O                                                       (1 = 4.8%) {71.4%}
 4727  O                                                                         (0 = 0.0%) {76.2%}
-5352  --------------O                                                           (1 = 4.8%) {76.2%}
+5352  ------------------O                                                       (1 = 4.8%) {76.2%}
 6060  O                                                                         (0 = 0.0%) {81.0%}
-6861  -------------------------------------------O                              (3 = 14.3%) {81.0%}
-7768  --------------O                                                           (1 = 4.8%) {95.2%}
+6861  ------------------------------------------------------O                   (3 = 14.3%) {81.0%}
+7768  ------------------O                                                       (1 = 4.8%) {95.2%}
 8795  ... 
 
-Histogram: Net.Transaction_Latency_b recorded 21 samples, average = 1776.1 (flags = 0x1)
+Histogram: Net.Transaction_Latency_b recorded 21 samples, average = 1794.9 (flags = 0x1)
 0     ... 
-211   ------------------------------------------------------------------------O (3 = 14.3%) {0.0%}
-239   ------------------------O                                                 (1 = 4.8%) {14.3%}
-271   ------------------------O                                                 (1 = 4.8%) {19.0%}
-307   O                                                                         (0 = 0.0%) {23.8%}
-348   ------------------------O                                                 (1 = 4.8%) {23.8%}
-394   O                                                                         (0 = 0.0%) {28.6%}
+211   ------------------------O                                                 (1 = 4.8%) {0.0%}
+239   ------------------------------------------------O                         (2 = 9.5%) {4.8%}
+271   ------------------------O                                                 (1 = 4.8%) {14.3%}
+307   ------------------------------------------------O                         (2 = 9.5%) {19.0%}
+348   ... 
 446   ------------------------O                                                 (1 = 4.8%) {28.6%}
-505   ------------------------O                                                 (1 = 4.8%) {33.3%}
-572   ... 
+505   O                                                                         (0 = 0.0%) {33.3%}
+572   ------------------------O                                                 (1 = 4.8%) {33.3%}
+648   O                                                                         (0 = 0.0%) {38.1%}
 734   ------------------------------------------------------------------------O (3 = 14.3%) {38.1%}
 831   ------------------------O                                                 (1 = 4.8%) {52.4%}
 941   ------------------------------------------------O                         (2 = 9.5%) {57.1%}

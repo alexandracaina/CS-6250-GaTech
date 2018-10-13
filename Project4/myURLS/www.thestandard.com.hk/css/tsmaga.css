@@ -1,0 +1,139 @@
+.tsmaga {
+	padding: 13px 0;
+	background-color: #ed1a3b;
+	margin-bottom:30px; position:relative;
+}
+.tsmaga .heading {
+	margin: 0;
+	padding: 0;t
+	color: #fff;
+}
+.tsmaga .heading h3 {
+	margin: 0;
+	margin-bottom: 6px;
+	padding: 0 31px;
+}
+.tsmaga .heading a {
+	color: #fff;
+	text-decoration: none;
+}
+.tsmaga .carousel-indicators {
+	bottom: 0;
+}
+
+.tsmaga ul, ol {
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+
+.tsmaga .row .col-xs-3{
+  padding-left:12px;
+  padding-right:15px;
+}
+
+.tsmaga .carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 45%;
+    z-index: 15;
+    padding-left: 0;
+    /* margin-left: -30%; */
+    text-align: center;
+    list-style: none;
+    width: 70px;
+}
+
+.tsmaga .carousel-control.left,.tsmaga .carousel-control.right {
+    background:none;
+}
+
+.tsmaga .carousel-control.left {
+    position: absolute;
+    top: 95px;
+    bottom: 0;
+    left: -7px;
+    font-size: 30px;
+    color: #fff;
+    text-align: center; 
+    display:block;
+    background:rgba(255,255,255,0.5);
+    
+    width:30px; height:45px;
+    -webkit-border-top-right-radius: 50px;
+    -webkit-border-bottom-right-radius: 50px;
+    -moz-border-radius-topright: 50px;
+    -moz-border-radius-bottomright: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+.tsmaga .carousel-control.right {
+    position: absolute;
+    top: 95px;
+    bottom: 0;
+    right: -9px;
+    font-size: 30px;
+    color: #fff;
+    text-align: center; 
+    display:block;
+    background:rgba(255,255,255,0.5);
+    
+    width:30px; height:45px;
+    -webkit-border-top-left-radius: 50px;
+    -webkit-border-bottom-left-radius: 50px;
+    -moz-border-radius-topleft: 50px;
+    -moz-border-radius-bottomleft: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+
+}
+
+
+.tsmaga .carousel-indicators li {
+    margin: 0;
+    width: 7px;
+    height: 7px;
+    background-color: rgba(255,255,255,.75);
+    border: none; margin-right:2px
+}
+.tsmaga .carousel-indicators li.active {
+	border-color: #ffd505;
+	background-color: #ffd505;
+}
+.tsmaga .item {
+	padding: 0 34px;
+}
+.tsmaga .item .col-xs-3 a {
+	display: block;
+}
+.tsmaga .carousel-caption {
+	position: relative;
+	top: auto;
+	left: auto;
+	right: auto;
+	display:block;
+	font-size: 12px;
+	text-align: left;
+	color: #ffd505;
+	text-shadow: none;
+}
+.tsmaga .carousel-caption a {
+	color: #ffd505;
+}
+.tsmaga .carousel-caption h3 {
+	margin: 8px 0 4px 0;
+	font-size: 16px;
+	font-weight: bold;
+}
+.tsmaga .carousel-control {
+	opacity: 1;
+}
+.tsmaga .carousel-control .fa-angle-left, 
+.tsmaga .carousel-control .fa-angle-right, 
+.tsmaga .carousel-control .icon-next, 
+.tsmaga .carousel-control .icon-prev {
+	background:none;
+}
+

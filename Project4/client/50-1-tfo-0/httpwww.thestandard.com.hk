@@ -1,0 +1,1139 @@
+[23047:23052:16017250628:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+
+(test_shell:23047): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
+Loading hacky DNS from '/home/mininet/Documents/Project4/hack_dns' succeeded.
+Remapping 's2.adform.net' -> '10.0.0.1' port 8000
+Remapping 'cdn.ampproject.org' -> '10.0.0.2' port 8000
+Remapping 'admission.gatech.edu' -> '10.0.0.3' port 8000
+Remapping 'fonts.googleapis.com' -> '10.0.0.4' port 8000
+Remapping 'www.googletagservices.com' -> '10.0.0.5' port 8000
+Remapping 'www.google-analytics.com' -> '10.0.0.6' port 8000
+Remapping 'googleads.g.doubleclick.net' -> '10.0.0.7' port 8000
+Remapping 'www.googletagmanager.com' -> '10.0.0.8' port 8000
+Remapping 'a2.adform.net' -> '10.0.0.9' port 8000
+Remapping 'www.google.com' -> '10.0.0.10' port 8000
+Remapping 'adservice.google.com' -> '10.0.0.11' port 8000
+Remapping 'platform.twitter.com' -> '10.0.0.12' port 8000
+Remapping 'tpc.googlesyndication.com' -> '10.0.0.13' port 8000
+Remapping 'pbs.twimg.com' -> '10.0.0.14' port 8000
+Remapping 'pagead2.googlesyndication.com' -> '10.0.0.15' port 8000
+Remapping 'syndication.twitter.com' -> '10.0.0.16' port 8000
+Remapping 'securepubads.g.doubleclick.net' -> '10.0.0.17' port 8000
+Remapping 's0.2mdn.net' -> '10.0.0.18' port 8000
+Remapping 'maxcdn.bootstrapcdn.com' -> '10.0.0.19' port 8000
+Remapping 'canvas.gatech.edu' -> '10.0.0.20' port 8000
+Remapping 'www.thestandard.com.hk' -> '10.0.0.21' port 8000
+Remapping 'fonts.gstatic.com' -> '10.0.0.22' port 8000
+Remapping 'googleads4.g.doubleclick.net' -> '10.0.0.23' port 8000
+Remapping 'cdn.syndication.twimg.com' -> '10.0.0.24' port 8000
+Remapping 'b.scorecardresearch.com' -> '10.0.0.25' port 8000
+Remapping 'www.googleadservices.com' -> '10.0.0.26' port 8000
+[23047:23057:16017825210:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16017856505:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16018069613:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16018111871:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16018308575:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16018372327:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23047:16019098108:INFO:CONSOLE(0)] "http://b.scorecardresearch.com/b?c1=2&c2=9053246&ns_site=news&ns_vsite=ts&name=news.ts.main.home&product=news," source: http://www.thestandard.com.hk/js/comScoreUpper.js(280)
+[23047:23057:16019698606:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16019702909:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16019911570:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16019911745:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16020131157:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16020131999:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16046182204:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23047:16046242804:INFO:CONSOLE(0)] "ajax calender error.," source: http://www.thestandard.com.hk/(1153)
+[23047:23047:16046243183:INFO:CONSOLE(0)] "501," source: http://www.thestandard.com.hk/(1154)
+[23047:23057:16046393570:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[23047:23057:16046605021:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+<stats>
+c:tfo.supported:	0
+c:WebFrameActiveCount:	1
+t:tfo.page_load_timer:	29469
+c:URLRequestCount:	108
+c:disk_cache.miss:	107
+c:HttpNetworkTransaction.Count:	108
+c:tcp.connect:	118
+c:tcp.write_bytes:	41055
+c:tcp.read_bytes:	12857246
+</stats>
+
+<resolves>
+strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
+  251.105 | 29009.323 | 28758.218 |   0 | www.thestandard.com.hk:80 ->  10.0.0.21:8000
+  251.237 |   251.237 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  584.192 |  1058.659 |   474.467 |   0 | www.googletagmanager.com:443 ->  10.0.0.8:8000
+  584.262 |   584.262 |     0.000 |   1 | www.googletagmanager.com:443 ->  nil
+  584.271 |   584.271 |     0.000 |   1 | www.googletagmanager.com:443 ->  nil
+  585.121 |   585.121 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  585.145 |   585.145 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  597.313 |   597.313 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  597.393 |   597.393 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  598.498 |   598.498 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  598.532 |   598.532 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  606.401 |   606.401 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  606.439 |   606.439 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  607.155 |   607.155 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  607.196 |   607.196 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  611.780 |   611.780 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  624.245 |   624.245 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  624.714 |  1128.400 |   503.686 |   0 | maxcdn.bootstrapcdn.com:443 ->  10.0.0.19:8000
+  624.756 |   624.756 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+  624.763 |   624.763 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+  625.248 |   625.248 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  626.997 |   626.997 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  649.314 |   649.314 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  650.348 |   650.348 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  652.148 |   652.148 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  653.831 |   653.831 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  654.508 |   654.508 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  654.999 |   654.999 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  655.385 |   655.385 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  655.803 |   655.803 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  656.156 |   656.156 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  656.516 |   656.516 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  656.826 |   656.826 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  658.672 |   658.672 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  658.994 |   658.994 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  659.315 |   659.315 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  659.684 |   659.684 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  660.256 |   660.256 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  660.620 |   660.620 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  660.952 |   660.952 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  661.304 |   661.304 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  661.622 |   661.622 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  661.812 |   661.812 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  662.141 |   662.141 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  662.462 |   662.462 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  675.527 |   675.527 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  675.958 |   675.958 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  676.575 |   676.575 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  676.961 |   676.961 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  677.862 |   677.862 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  680.600 |   680.600 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  680.982 |   680.982 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  681.302 |   681.302 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  681.725 |   681.725 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  682.107 |   682.107 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  682.534 |   682.534 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  686.681 |   686.681 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  686.986 |   686.986 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  687.299 |   687.299 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  687.601 |   687.601 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  687.925 |   687.925 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  688.286 |   688.286 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  701.093 |   701.093 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  701.148 |   701.148 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  701.184 |   701.184 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  701.217 |   701.217 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  701.251 |   701.251 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  703.035 |   703.035 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  703.072 |   703.072 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  703.106 |   703.106 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  703.148 |   703.148 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  703.571 |   703.571 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  703.696 |   703.696 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  704.993 |   704.993 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  706.394 |   706.394 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  706.432 |   706.432 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  706.465 |   706.465 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  706.768 |   706.768 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  707.105 |   707.105 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  711.990 |   711.990 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  712.182 |   712.182 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  712.244 |   712.244 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  712.295 |   712.295 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  712.339 |   712.339 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  718.288 |   718.288 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  718.335 |   718.335 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  718.786 |   718.786 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  737.087 |   737.087 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  737.135 |   737.135 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  737.169 |   737.169 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  765.862 |   765.862 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  765.909 |   765.909 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  765.944 |   765.944 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  767.359 |   767.359 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  768.644 |   768.644 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  768.681 |   768.681 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  768.726 |   768.726 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  768.766 |   768.766 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  811.160 |   811.160 |     0.000 |   1 | www.googletagmanager.com:443 ->  nil
+  811.207 |   811.207 |     0.000 |   1 | www.googletagmanager.com:443 ->  nil
+  811.214 |   811.214 |     0.000 |   1 | www.googletagmanager.com:443 ->  nil
+  821.541 |   821.541 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  826.686 |   826.686 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  830.167 |   830.167 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  830.531 |   830.531 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  830.876 |   830.876 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  831.224 |   831.224 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  831.566 |   831.566 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  834.498 |   834.498 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  844.362 |   844.362 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+  844.402 |   844.402 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+  844.408 |   844.408 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+  844.717 |   844.717 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  844.755 |   844.755 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  845.730 |   845.730 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+  845.769 |   845.794 |     0.025 |   0 | www.googleadservices.com:80 ->  10.0.0.26:8000
+  845.790 |   845.790 |     0.000 |   1 | www.googleadservices.com:80 ->  nil
+ 1058.584 |  1058.584 |     0.000 |   1 | www.googletagmanager.com:443 ->  nil
+ 1058.643 |  1058.643 |     0.000 |   1 | www.googletagmanager.com:443 ->  nil
+ 1058.654 |  1058.654 |     0.000 |   1 | www.googletagmanager.com:443 ->  nil
+ 1128.351 |  1128.351 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+ 1128.390 |  1128.390 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+ 1128.396 |  1128.396 |     0.000 |   1 | maxcdn.bootstrapcdn.com:443 ->  nil
+ 1164.324 |  1164.324 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1409.577 |  1409.577 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1410.950 |  1410.950 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1423.370 |  1423.370 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1528.383 |  1528.383 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1652.407 |  1652.407 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1830.136 |  1830.136 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1851.638 |  1851.638 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1916.132 |  1916.132 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1939.556 |  1939.556 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 1968.974 |  1969.012 |     0.038 |   0 | www.googletagservices.com:80 ->  10.0.0.5:8000
+ 1969.008 |  1969.008 |     0.000 |   1 | www.googletagservices.com:80 ->  nil
+ 2082.775 | 28903.410 | 26820.635 |   0 | b.scorecardresearch.com:80 ->  10.0.0.25:8000
+ 2082.809 |  2082.809 |     0.000 |   1 | b.scorecardresearch.com:80 ->  nil
+ 2088.949 |  2088.949 |     0.000 |   1 | b.scorecardresearch.com:80 ->  nil
+ 2088.993 |  2088.993 |     0.000 |   1 | b.scorecardresearch.com:80 ->  nil
+ 2150.054 |  2150.054 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 2435.572 |  2435.572 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 2474.692 |  2897.786 |   423.094 |   0 | adservice.google.com:443 ->  10.0.0.11:8000
+ 2474.757 |  2474.757 |     0.000 |   1 | adservice.google.com:443 ->  nil
+ 2474.765 |  2474.765 |     0.000 |   1 | adservice.google.com:443 ->  nil
+ 2475.497 |  2897.895 |   422.398 |   0 | securepubads.g.doubleclick.net:443 ->  10.0.0.17:8000
+ 2475.538 |  2475.538 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+ 2475.546 |  2475.546 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+ 2684.474 |  2684.474 |     0.000 |   1 | adservice.google.com:443 ->  nil
+ 2684.517 |  2684.517 |     0.000 |   1 | adservice.google.com:443 ->  nil
+ 2684.525 |  2684.525 |     0.000 |   1 | adservice.google.com:443 ->  nil
+ 2688.753 |  2688.753 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+ 2688.788 |  2688.788 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+ 2689.393 |  2689.393 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+ 2897.729 |  2897.729 |     0.000 |   1 | adservice.google.com:443 ->  nil
+ 2897.774 |  2897.774 |     0.000 |   1 | adservice.google.com:443 ->  nil
+ 2897.782 |  2897.782 |     0.000 |   1 | adservice.google.com:443 ->  nil
+ 2897.856 |  2897.856 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+ 2897.885 |  2897.885 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+ 2897.892 |  2897.892 |     0.000 |   1 | securepubads.g.doubleclick.net:443 ->  nil
+ 3613.316 |  3613.316 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 3672.391 |  3672.391 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 3821.194 |  3821.194 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 4531.578 |  4531.578 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 5633.737 |  5633.737 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+ 8212.732 |  8212.732 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+10841.815 | 10841.815 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+13921.441 | 13921.441 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+14255.882 | 14255.882 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+16396.493 | 16396.493 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+17284.827 | 17284.827 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+17968.096 | 17968.096 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+18761.495 | 18761.495 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+19452.162 | 19452.162 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+19945.213 | 19945.213 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+21278.670 | 21278.670 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+21361.168 | 21361.168 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+21716.240 | 21716.240 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+22088.786 | 22088.786 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+22218.210 | 22218.210 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+22491.993 | 22491.993 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+22806.163 | 22806.163 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+23043.723 | 23043.723 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+23077.546 | 23077.546 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+23103.049 | 23103.049 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+23124.290 | 23124.290 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+23162.452 | 23162.452 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+23440.896 | 23440.896 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+23512.070 | 23512.070 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+23554.845 | 23554.845 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+24878.861 | 24878.861 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25028.822 | 25028.822 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25185.256 | 25185.256 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25197.991 | 25197.991 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25205.902 | 25205.902 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25211.442 | 25211.442 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25420.463 | 25420.463 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25543.497 | 25543.497 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25601.179 | 25601.179 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25673.438 | 25673.438 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25710.848 | 25710.848 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25761.663 | 25761.663 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+25866.194 | 25866.194 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26003.833 | 26003.833 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26053.081 | 26053.081 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26102.843 | 26102.843 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26157.499 | 26157.499 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26372.523 | 26372.523 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26450.048 | 26450.048 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26498.273 | 26498.273 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26559.080 | 26559.080 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26655.082 | 26655.082 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26694.210 | 26694.210 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26862.776 | 26862.776 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+26965.160 | 26965.160 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27096.339 | 27096.339 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27133.777 | 27133.777 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27142.074 | 27142.074 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27242.820 | 27242.820 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27427.275 | 27427.275 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27546.514 | 27546.514 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27553.575 | 27553.575 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27676.503 | 27676.503 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27704.466 | 27704.466 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27752.179 | 27752.179 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27865.216 | 27865.216 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27923.335 | 27923.335 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+27929.814 | 27929.814 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28016.351 | 28016.351 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28197.094 | 28197.094 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28406.881 | 28406.881 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28431.234 | 28431.234 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28474.308 | 28474.308 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28512.756 | 28512.756 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28562.757 | 28562.757 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28572.287 | 28572.287 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28682.451 | 28682.451 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28682.924 | 28682.924 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28692.997 | 28692.997 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+28902.791 | 28902.791 |     0.000 |   1 | b.scorecardresearch.com:80 ->  nil
+28903.405 | 28903.405 |     0.000 |   1 | b.scorecardresearch.com:80 ->  nil
+28949.995 | 29379.750 |   429.755 |   0 | googleads.g.doubleclick.net:443 ->  10.0.0.7:8000
+28950.045 | 28950.045 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+28950.054 | 28950.054 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+29009.275 | 29009.275 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+29009.312 | 29009.312 |     0.000 |   1 | www.thestandard.com.hk:80 ->  nil
+29168.190 | 29168.190 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+29168.243 | 29168.243 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+29168.252 | 29168.252 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+29379.626 | 29379.626 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+29379.727 | 29379.727 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+29379.745 | 29379.745 |     0.000 |   1 | googleads.g.doubleclick.net:443 ->  nil
+</resolves>
+
+<transactions>
+strt (ms) | end (ms)  | len (ms)  | url
+  251.041 |   836.076 |   585.035 | http://www.thestandard.com.hk/
+  585.103 |  1175.044 |   589.941 | http://www.thestandard.com.hk/js/jquery.min.js
+  584.164 |  1295.218 |   711.054 | https://www.googletagmanager.com/gtm.js?id=GTM-K5JPWNM
+  624.698 |  1359.938 |   735.240 | https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css
+  597.289 |  1410.407 |   813.118 | http://www.thestandard.com.hk/js/jquery.lazyload.min.js
+  606.375 |  1411.011 |   804.636 | http://www.thestandard.com.hk/js/ts.js
+  845.758 |  1418.782 |   573.024 | http://www.googleadservices.com/pagead/conversion.js
+  598.475 |  1423.437 |   824.962 | http://www.thestandard.com.hk/js/bootstrap.min.js
+  611.708 |  1528.467 |   916.759 | http://www.thestandard.com.hk/css/tsmaga.css
+  607.136 |  1652.496 |  1045.360 | http://www.thestandard.com.hk/css/bootstrap.css
+  626.965 |  1830.243 |  1203.278 | http://www.thestandard.com.hk/include/fancybox/jquery.fancybox.css
+  649.290 |  1858.312 |  1209.022 | http://www.thestandard.com.hk/js/comScoreUpper.js
+  624.217 |  1917.359 |  1293.142 | http://www.thestandard.com.hk/css/ts-style.css
+  625.221 |  1950.449 |  1325.228 | http://www.thestandard.com.hk/include/fancybox/jquery.fancybox.pack.js
+ 2082.750 |  2426.048 |   343.298 | http://b.scorecardresearch.com/b?c1=2&c2=9053246&ns_site=news&ns_vsite=ts&name=news.ts.main.home&product=news&ns__t=1539472346729&ns_c=ISO-8859-1&c8=The%20Standard&c7=http%3A%2F%2Fwww.thestandard.com.hk%2F&c9=
+ 2088.916 |  2426.309 |   337.393 | http://b.scorecardresearch.com/b?c1=2&c2=9053246&ns_site=news&ns_vsite=ts&name=news.ts.main.home&product=news&ns__t=1539472346733&ns_c=ISO-8859-1&c8=The%20Standard&c7=http%3A%2F%2Fwww.thestandard.com.hk%2F&c9=
+ 1968.952 |  2434.761 |   465.809 | http://www.googletagservices.com/tag/js/gpt.js
+  650.249 |  2435.647 |  1785.398 | http://www.thestandard.com.hk/images/instant_news/20181012/20181012174847115554frontPhoto.jpg
+ 2475.478 |  3117.309 |   641.831 | https://securepubads.g.doubleclick.net/gpt/pubads_impl_265.js
+ 2474.666 |  3119.755 |   645.089 | https://adservice.google.com/adsid/integrator.js?domain=www.thestandard.com.hk
+  653.807 |  3613.427 |  2959.620 | http://www.thestandard.com.hk/images/instant_news/20181012/20181012154010115536frontPhoto.jpg
+  652.110 |  3672.784 |  3020.674 | http://www.thestandard.com.hk/images/instant_news/20181012/20181012152135115532frontPhoto.jpg
+  654.465 |  3821.825 |  3167.360 | http://www.thestandard.com.hk/images/instant_news/20181012/20181012204130frontPhoto.jpg
+  654.981 |  4531.950 |  3876.969 | http://www.thestandard.com.hk/printAd/2018101221302220181015_photo.jpg
+  655.372 |  5634.420 |  4979.048 | http://www.thestandard.com.hk/printAd/2018101120573520181012_photo.jpg
+  655.783 |  8213.001 |  7557.218 | http://www.thestandard.com.hk/printAd/2018101120571720181012_photo.jpg
+  656.133 | 10842.194 | 10186.061 | http://www.thestandard.com.hk/printAd/2018101021075020181011_photo.jpg
+  656.503 | 13921.529 | 13265.026 | http://www.thestandard.com.hk/printAd/2018101021073420181011_photo.jpg
+  656.813 | 14256.094 | 13599.281 | http://www.thestandard.com.hk/newsImage//20181012/50022657indexPhoto.jpg
+  658.651 | 16396.723 | 15738.072 | http://www.thestandard.com.hk/newsImage//20181012/50022677indexPhoto.jpg
+  658.981 | 17284.915 | 16625.934 | http://www.thestandard.com.hk/images/instant_news//20181012/20181012192322frontPhoto.jpg
+  659.303 | 17968.394 | 17309.091 | http://www.thestandard.com.hk/printAd/2018101120580920181012_photo.jpg
+  659.672 | 18761.726 | 18102.054 | http://www.thestandard.com.hk/printAd/2018101120575020181012_photo.jpg
+  659.996 | 19452.407 | 18792.411 | http://www.thestandard.com.hk/printAd/2018101021104220181011_photo.jpg
+  660.600 | 19945.447 | 19284.847 | http://www.thestandard.com.hk/printAd/2018101021102620181011_photo.jpg
+  660.940 | 21279.073 | 20618.133 | http://www.thestandard.com.hk/printAd/2018101021100820181011_photo.jpg
+  661.292 | 21361.754 | 20700.462 | http://www.thestandard.com.hk/printAd/2018100920443320181010_photo.jpg
+  661.614 | 21717.105 | 21055.491 | http://www.thestandard.com.hk/printAd/2018100920441920181010_photo.jpg
+  661.799 | 22097.378 | 21435.579 | http://www.thestandard.com.hk/printAd/2018100920440720181010_photo.jpg
+  662.129 | 22225.071 | 21562.942 | http://www.thestandard.com.hk/images/instant_news//20181012/20181012161850115542frontPhoto.jpg
+  662.450 | 22492.076 | 21829.626 | http://www.thestandard.com.hk/images/instant_news//20181012/20181012191751frontPhoto.jpeg
+  675.498 | 22806.250 | 22130.752 | http://www.thestandard.com.hk/images/instant_news//20181012/20181012170819115545frontPhoto.jpeg
+  676.544 | 23043.804 | 22367.260 | http://www.thestandard.com.hk/emagazines/20181012115520cover.jpg
+  676.948 | 23077.666 | 22400.718 | http://www.thestandard.com.hk/emagazines/20181002135656cover.jpg
+  677.848 | 23103.133 | 22425.285 | http://www.thestandard.com.hk/emagazines/20180910152547cover.jpg
+  680.582 | 23124.380 | 22443.798 | http://www.thestandard.com.hk/emagazines/20180905175933cover.jpg
+  680.969 | 23162.567 | 22481.598 | http://www.thestandard.com.hk/emagazines/20180831152018cover.jpg
+  681.712 | 23441.032 | 22759.320 | http://www.thestandard.com.hk/emagazines/20180808122741cover.jpg
+  675.931 | 23512.159 | 22836.228 | http://www.thestandard.com.hk/newsImage//20181012/50022611indexPhoto.JPG
+  681.289 | 23554.932 | 22873.643 | http://www.thestandard.com.hk/emagazines/20180810125603cover.jpg
+  686.669 | 24878.945 | 24192.276 | http://www.thestandard.com.hk/emagazines/20180713123730cover.png
+  687.589 | 25028.903 | 24341.314 | http://www.thestandard.com.hk/emagazines/20180601184748cover.png
+  682.088 | 25185.336 | 24503.248 | http://www.thestandard.com.hk/emagazines/20180803121739cover.jpg
+  682.513 | 25198.072 | 24515.559 | http://www.thestandard.com.hk/emagazines/20180713165633cover.png
+  686.986 | 25205.986 | 24519.000 | http://www.thestandard.com.hk/emagazines/20180709102804cover.png
+  687.284 | 25211.507 | 24524.223 | http://www.thestandard.com.hk/emagazines/20180611155634cover.png
+  687.913 | 25420.545 | 24732.632 | http://www.thestandard.com.hk/emagazines/20180509161930cover.png
+  688.273 | 25543.582 | 24855.309 | http://www.thestandard.com.hk/emagazines/20180503115545cover.png
+  701.061 | 25601.250 | 24900.189 | http://www.thestandard.com.hk/emagazines/20180416115007cover.png
+  701.174 | 25673.468 | 24972.294 | http://www.thestandard.com.hk/emagazines/20180315122339cover.png
+  701.207 | 25710.941 | 25009.734 | http://www.thestandard.com.hk/emagazines/20180305121126cover.png
+  701.138 | 25761.749 | 25060.611 | http://www.thestandard.com.hk/emagazines/20180326124434cover.png
+  701.239 | 25866.295 | 25165.056 | http://www.thestandard.com.hk/emagazines/20180202142108cover.png
+  703.019 | 26003.911 | 25300.892 | http://www.thestandard.com.hk/emagazines/20180130102623cover.png
+  703.062 | 26053.175 | 25350.113 | http://www.thestandard.com.hk/emagazines/20180130102214cover.png
+  703.096 | 26102.936 | 25399.840 | http://www.thestandard.com.hk/emagazines/20180122182414cover.png
+  703.128 | 26157.591 | 25454.463 | http://www.thestandard.com.hk/emagazines/20171212095027cover.png
+  703.539 | 26372.610 | 25669.071 | http://www.thestandard.com.hk/emagazines/20171128102732cover.png
+  703.678 | 26450.135 | 25746.457 | http://www.thestandard.com.hk/emagazines/20171127125943cover.png
+  704.980 | 26498.355 | 25793.375 | http://www.thestandard.com.hk/emagazines/20171110123248cover.PNG
+  706.380 | 26559.165 | 25852.785 | http://www.thestandard.com.hk/emagazines/20171110104623cover.png
+  706.455 | 26655.165 | 25948.710 | http://www.thestandard.com.hk/emagazines/20171030125459cover.png
+  706.420 | 26694.292 | 25987.872 | http://www.thestandard.com.hk/emagazines/20171102100547cover.png
+  706.756 | 26863.207 | 26156.451 | http://www.thestandard.com.hk/emagazines/20171013151331cover.png
+  707.085 | 26965.271 | 26258.186 | http://www.thestandard.com.hk/emagazines/20170929144614cover.png
+  712.225 | 27096.429 | 26384.204 | http://www.thestandard.com.hk/emagazines/20170901161421cover.png
+  711.877 | 27133.870 | 26421.993 | http://www.thestandard.com.hk/emagazines/20170925173449cover.png
+  712.157 | 27142.204 | 26430.047 | http://www.thestandard.com.hk/emagazines/20170915165317cover.PNG
+  712.281 | 27242.905 | 26530.624 | http://www.thestandard.com.hk/emagazines/20170830124158cover.PNG
+  712.325 | 27427.360 | 26715.035 | http://www.thestandard.com.hk/emagazines/20170727165734cover.png
+  718.325 | 27546.598 | 26828.273 | http://www.thestandard.com.hk/emagazines/20170720122239cover.PNG
+  718.266 | 27553.651 | 26835.385 | http://www.thestandard.com.hk/emagazines/20170725122344cover.PNG
+  737.061 | 27676.749 | 26939.688 | http://www.thestandard.com.hk/upload/cover/cfile_20181011220529000000.jpg
+  737.123 | 27704.574 | 26967.451 | http://www.thestandard.com.hk/upload/cover/cfile_20181011220530000000.jpg
+  718.761 | 27752.265 | 27033.504 | http://www.thestandard.com.hk/emagazines/20170713141812cover.PNG
+  737.159 | 27865.306 | 27128.147 | http://www.thestandard.com.hk/upload/cover/cfile_20181011220531000000.jpg
+  765.839 | 27923.419 | 27157.580 | http://www.thestandard.com.hk/images/rightlogo/junior.png
+  765.898 | 27929.890 | 27163.992 | http://www.thestandard.com.hk/images/rightlogo/Goodies.svg
+  765.933 | 28016.440 | 27250.507 | http://www.thestandard.com.hk/images/rightlogo/idiom.svg
+  767.342 | 28197.182 | 27429.840 | http://www.thestandard.com.hk/images/rightlogo/elan.jpg
+  821.514 | 28406.969 | 27585.455 | http://www.thestandard.com.hk/images/f_logo/singtaocorp.gif
+  768.628 | 28431.320 | 27662.692 | http://www.thestandard.com.hk/emagazines/20180810125603yearlycover.jpg
+  768.671 | 28474.414 | 27705.743 | http://www.thestandard.com.hk/emagazines/20180315122339yearlycover.jpg
+  768.715 | 28512.843 | 27744.128 | http://www.thestandard.com.hk/emagazines/20180305121126yearlycover.jpg
+  768.749 | 28562.843 | 27794.094 | http://www.thestandard.com.hk/emagazines/20180202142108yearlycover.jpg
+  826.637 | 28572.382 | 27745.745 | http://www.thestandard.com.hk/images/f_logo/headline.gif
+  830.133 | 28682.528 | 27852.395 | http://www.thestandard.com.hk/images/f_logo/singtao_com.gif
+  830.518 | 28682.977 | 27852.459 | http://www.thestandard.com.hk/images/f_logo/cazbuyer.gif
+  830.865 | 28693.119 | 27862.254 | http://www.thestandard.com.hk/images/f_logo/eastouch.gif
+  831.211 | 28724.386 | 27893.175 | http://www.thestandard.com.hk/images/f_logo/dongtouch.gif
+  831.554 | 28772.259 | 27940.705 | http://www.thestandard.com.hk/images/f_logo/singtao_pub.gif
+  844.702 | 28787.812 | 27943.110 | http://www.thestandard.com.hk/images/f_logo/hl_finance.gif
+  844.745 | 28898.738 | 28053.993 | http://www.thestandard.com.hk/images/f_logo/stop.png
+  845.711 | 28901.831 | 28056.120 | http://www.thestandard.com.hk/js/comScoreLower.js
+ 2150.024 | 29088.335 | 26938.311 | http://www.thestandard.com.hk/images/icon_emagazines.png
+28902.771 | 29127.237 |   224.466 | http://b.scorecardresearch.com/c2/9053246/cs.js
+29009.252 | 29226.003 |   216.751 | http://www.thestandard.com.hk/ajax_calender.php
+28949.967 | 29591.086 |   641.119 | https://googleads.g.doubleclick.net/pagead/viewthroughconversion/877381987/?random=1539472373567&cv=9&fst=1539472373567&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=659255991&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=16&u_his=1&u_tz=-240&u_java=false&u_nplug=7&u_nmime=47&frm=0&url=http%3A%2F%2Fwww.thestandard.com.hk%2F&tiba=The%20Standard&rfmt=3&fmt=4
+</transactions>
+
+<responses>
+status       | mime_type       | charset | url -> redirect_url
+          OK |       text/html |         | http://www.thestandard.com.hk/ -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/js/jquery.min.js -> nil
+             |                 |         | https://www.googletagmanager.com/gtm.js?id=GTM-K5JPWNM -> nil
+             |                 |         | https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/js/jquery.lazyload.min.js -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/js/ts.js -> nil
+          OK |       text/html |         | http://www.googleadservices.com/pagead/conversion.js -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/js/bootstrap.min.js -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/css/tsmaga.css -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/css/bootstrap.css -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/include/fancybox/jquery.fancybox.css -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/js/comScoreUpper.js -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/css/ts-style.css -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/include/fancybox/jquery.fancybox.pack.js -> nil
+file not found |       text/html |         | http://b.scorecardresearch.com/b?c1=2&c2=9053246&ns_site=news&ns_vsite=ts&name=news.ts.main.home&product=news&ns__t=1539472346729&ns_c=ISO-8859-1&c8=The%20Standard&c7=http%3A%2F%2Fwww.thestandard.com.hk%2F&c9= -> nil
+file not found |       text/html |         | http://b.scorecardresearch.com/b?c1=2&c2=9053246&ns_site=news&ns_vsite=ts&name=news.ts.main.home&product=news&ns__t=1539472346733&ns_c=ISO-8859-1&c8=The%20Standard&c7=http%3A%2F%2Fwww.thestandard.com.hk%2F&c9= -> nil
+          OK |       text/html |         | http://www.googletagservices.com/tag/js/gpt.js -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/instant_news/20181012/20181012174847115554frontPhoto.jpg -> nil
+             |                 |         | https://securepubads.g.doubleclick.net/gpt/pubads_impl_265.js -> nil
+             |                 |         | https://adservice.google.com/adsid/integrator.js?domain=www.thestandard.com.hk -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/instant_news/20181012/20181012154010115536frontPhoto.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/instant_news/20181012/20181012152135115532frontPhoto.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/instant_news/20181012/20181012204130frontPhoto.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101221302220181015_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101120573520181012_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101120571720181012_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101021075020181011_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101021073420181011_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/newsImage//20181012/50022657indexPhoto.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/newsImage//20181012/50022677indexPhoto.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/instant_news//20181012/20181012192322frontPhoto.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101120580920181012_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101120575020181012_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101021104220181011_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101021102620181011_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018101021100820181011_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018100920443320181010_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018100920441920181010_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/printAd/2018100920440720181010_photo.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/instant_news//20181012/20181012161850115542frontPhoto.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/instant_news//20181012/20181012191751frontPhoto.jpeg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/instant_news//20181012/20181012170819115545frontPhoto.jpeg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20181012115520cover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20181002135656cover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180910152547cover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180905175933cover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180831152018cover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180808122741cover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/newsImage//20181012/50022611indexPhoto.JPG -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180810125603cover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180713123730cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180601184748cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180803121739cover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180713165633cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180709102804cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180611155634cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180509161930cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180503115545cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180416115007cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180315122339cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180305121126cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180326124434cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180202142108cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180130102623cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180130102214cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180122182414cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20171212095027cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20171128102732cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20171127125943cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20171110123248cover.PNG -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20171110104623cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20171030125459cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20171102100547cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20171013151331cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20170929144614cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20170901161421cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20170925173449cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20170915165317cover.PNG -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20170830124158cover.PNG -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20170727165734cover.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20170720122239cover.PNG -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20170725122344cover.PNG -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/upload/cover/cfile_20181011220529000000.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/upload/cover/cfile_20181011220530000000.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20170713141812cover.PNG -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/upload/cover/cfile_20181011220531000000.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/rightlogo/junior.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/rightlogo/Goodies.svg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/rightlogo/idiom.svg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/rightlogo/elan.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/f_logo/singtaocorp.gif -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180810125603yearlycover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180315122339yearlycover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180305121126yearlycover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/emagazines/20180202142108yearlycover.jpg -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/f_logo/headline.gif -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/f_logo/singtao_com.gif -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/f_logo/cazbuyer.gif -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/f_logo/eastouch.gif -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/f_logo/dongtouch.gif -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/f_logo/singtao_pub.gif -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/f_logo/hl_finance.gif -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/f_logo/stop.png -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/js/comScoreLower.js -> nil
+          OK |       text/html |         | http://www.thestandard.com.hk/images/icon_emagazines.png -> nil
+          OK |       text/html |         | http://b.scorecardresearch.com/c2/9053246/cs.js -> nil
+Unsupported method ('POST') |       text/html |         | http://www.thestandard.com.hk/ajax_calender.php -> nil
+             |                 |         | https://googleads.g.doubleclick.net/pagead/viewthroughconversion/877381987/?random=1539472373567&cv=9&fst=1539472373567&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=659255991&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=16&u_his=1&u_tz=-240&u_java=false&u_nplug=7&u_nmime=47&frm=0&url=http%3A%2F%2Fwww.thestandard.com.hk%2F&tiba=The%20Standard&rfmt=3&fmt=4 -> nil
+</responses>
+
+<queries>
+Collections of histograms for DNS.
+Histogram: DNS.TotalTime recorded 118 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (118 = 100.0%)
+1  ... 
+
+
+Collections of histograms for Net.
+Histogram: Net.Compress.NoProxy.ShouldHaveBeenCompressed recorded 102 samples, average = 125880.0 (flags = 0x1)
+0        -----------------------------------------O                                (4 = 3.9%)
+500      ... 
+1268     ----------O                                                               (1 = 1.0%) {3.9%}
+1370     ... 
+1867     ----------O                                                               (1 = 1.0%) {4.9%}
+2018     ... 
+2357     ---------------------O                                                    (2 = 2.0%) {5.9%}
+2547     ---------------------O                                                    (2 = 2.0%) {7.8%}
+2752     ---------------------O                                                    (2 = 2.0%) {9.8%}
+2974     ----------O                                                               (1 = 1.0%) {11.8%}
+3214     ---------------------O                                                    (2 = 2.0%) {12.7%}
+3473     ----------O                                                               (1 = 1.0%) {14.7%}
+3753     O                                                                         (0 = 0.0%) {15.7%}
+4056     ----------O                                                               (1 = 1.0%) {15.7%}
+4383     O                                                                         (0 = 0.0%) {16.7%}
+4737     ----------O                                                               (1 = 1.0%) {16.7%}
+5119     ... 
+8810     ---------------------O                                                    (2 = 2.0%) {17.6%}
+9521     ----------O                                                               (1 = 1.0%) {19.6%}
+10289    ----------O                                                               (1 = 1.0%) {20.6%}
+11119    O                                                                         (0 = 0.0%) {21.6%}
+12016    -------------------------------O                                          (3 = 2.9%) {21.6%}
+12985    O                                                                         (0 = 0.0%) {24.5%}
+14032    ----------O                                                               (1 = 1.0%) {24.5%}
+15164    ----------O                                                               (1 = 1.0%) {25.5%}
+16387    ----------O                                                               (1 = 1.0%) {26.5%}
+17709    O                                                                         (0 = 0.0%) {27.5%}
+19137    ---------------------O                                                    (2 = 2.0%) {27.5%}
+20681    ----------O                                                               (1 = 1.0%) {29.4%}
+22349    -----------------------------------------O                                (4 = 3.9%) {30.4%}
+24152    ---------------------O                                                    (2 = 2.0%) {34.3%}
+26100    ---------------------O                                                    (2 = 2.0%) {36.3%}
+28205    -------------------------------O                                          (3 = 2.9%) {38.2%}
+30480    -------------------------------O                                          (3 = 2.9%) {41.2%}
+32938    --------------------------------------------------------------O           (6 = 5.9%) {44.1%}
+35595    -----------------------------------------O                                (4 = 3.9%) {50.0%}
+38466    -------------------------------O                                          (3 = 2.9%) {53.9%}
+41569    -------------------------------O                                          (3 = 2.9%) {56.9%}
+44922    ------------------------------------------------------------------------O (7 = 6.9%) {59.8%}
+48545    -----------------------------------------O                                (4 = 3.9%) {66.7%}
+52461    ----------O                                                               (1 = 1.0%) {70.6%}
+56692    ... 
+77318    ----------O                                                               (1 = 1.0%) {71.6%}
+83554    ----------O                                                               (1 = 1.0%) {72.5%}
+90293    ----------O                                                               (1 = 1.0%) {73.5%}
+97576    ----------O                                                               (1 = 1.0%) {74.5%}
+105446   ----------O                                                               (1 = 1.0%) {75.5%}
+113951   ----------O                                                               (1 = 1.0%) {76.5%}
+123142   ----------O                                                               (1 = 1.0%) {77.5%}
+133075   -------------------------------O                                          (3 = 2.9%) {78.4%}
+143809   -------------------------------O                                          (3 = 2.9%) {81.4%}
+155408   ----------O                                                               (1 = 1.0%) {84.3%}
+167943   ... 
+211947   ----------O                                                               (1 = 1.0%) {85.3%}
+229042   ----------O                                                               (1 = 1.0%) {86.3%}
+247516   ----------O                                                               (1 = 1.0%) {87.3%}
+267480   ----------O                                                               (1 = 1.0%) {88.2%}
+289055   ----------O                                                               (1 = 1.0%) {89.2%}
+312370   ... 
+394217   ----------O                                                               (1 = 1.0%) {90.2%}
+426014   ----------O                                                               (1 = 1.0%) {91.2%}
+460376   ---------------------O                                                    (2 = 2.0%) {92.2%}
+497510   ... 
+581004   ---------------------O                                                    (2 = 2.0%) {94.1%}
+627867   ... 
+925361   ----------O                                                               (1 = 1.0%) {96.1%}
+1000000  -------------------------------O                                          (3 = 2.9%) {97.1%}
+
+Histogram: Net.ConnectionTypeCount3 recorded 221 samples, average = 3.3 (flags = 0x1)
+0  ------------------------------------------------------------------------O (118 = 53.4%)
+1  ... 
+7  ---------------------------------------------------------------O          (103 = 46.6%) {53.4%}
+8  ... 
+
+Histogram: Net.ConnectionUsedSSLVersionFallback recorded 15 samples, average = 1.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (5 = 33.3%)
+1  ------------------------------------------------------------------------O (5 = 33.3%) {33.3%}
+2  ------------------------------------------------------------------------O (5 = 33.3%) {66.7%}
+3  ... 
+
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 118 samples, average = 134.1 (flags = 0x1)
+0    ... 
+100  ------------------------------------------------------------------------O (41 = 34.7%) {0.0%}
+113  ----------------------------------------O                                 (23 = 19.5%) {34.7%}
+128  --------------------------------O                                         (18 = 15.3%) {54.2%}
+145  ----------------------------O                                             (16 = 13.6%) {69.5%}
+164  ---------------------O                                                    (12 = 10.2%) {83.1%}
+186  -------O                                                                  (4 = 3.4%) {93.2%}
+211  -----O                                                                    (3 = 2.5%) {96.6%}
+239  ... 
+307  --O                                                                       (1 = 0.8%) {99.2%}
+348  ... 
+
+Histogram: Net.GoogleConnectionUsedSSLVersionFallback recorded 3 samples, average = 1.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 33.3%)
+1  ------------------------------------------------------------------------O (1 = 33.3%) {33.3%}
+2  ------------------------------------------------------------------------O (1 = 33.3%) {66.7%}
+3  ... 
+
+Histogram: Net.HadConnectionType3 recorded 2 samples, average = 3.5 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 50.0%)
+1  ... 
+7  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+8  ... 
+
+Histogram: Net.HttpConnectionLatency recorded 103 samples, average = 17524.3 (flags = 0x1)
+0      ... 
+100    ------------O                                                             (5 = 4.9%) {0.0%}
+113    -----O                                                                    (2 = 1.9%) {4.9%}
+128    O                                                                         (0 = 0.0%) {6.8%}
+145    --O                                                                       (1 = 1.0%) {6.8%}
+164    ---------O                                                                (4 = 3.9%) {7.8%}
+186    ... 
+348    --O                                                                       (1 = 1.0%) {11.7%}
+394    ... 
+648    --O                                                                       (1 = 1.0%) {12.6%}
+734    O                                                                         (0 = 0.0%) {13.6%}
+831    -----O                                                                    (2 = 1.9%) {13.6%}
+941    -----O                                                                    (2 = 1.9%) {15.5%}
+1065   --O                                                                       (1 = 1.0%) {17.5%}
+1206   -----O                                                                    (2 = 1.9%) {18.4%}
+1365   -----O                                                                    (2 = 1.9%) {20.4%}
+1546   O                                                                         (0 = 0.0%) {22.3%}
+1750   --O                                                                       (1 = 1.0%) {22.3%}
+1981   ... 
+2876   -----O                                                                    (2 = 1.9%) {23.3%}
+3256   --O                                                                       (1 = 1.0%) {25.2%}
+3687   --O                                                                       (1 = 1.0%) {26.2%}
+4175   O                                                                         (0 = 0.0%) {27.2%}
+4727   --O                                                                       (1 = 1.0%) {27.2%}
+5352   ... 
+6861   --O                                                                       (1 = 1.0%) {28.2%}
+7768   ... 
+9958   --O                                                                       (1 = 1.0%) {29.1%}
+11275  O                                                                         (0 = 0.0%) {30.1%}
+12766  -----O                                                                    (2 = 1.9%) {30.1%}
+14454  --O                                                                       (1 = 1.0%) {32.0%}
+16365  -------O                                                                  (3 = 2.9%) {33.0%}
+18529  ---------O                                                                (4 = 3.9%) {35.9%}
+20979  ------------------------------O                                           (13 = 12.6%) {39.8%}
+23753  ------------------------------------------------------------------------O (31 = 30.1%) {52.4%}
+26894  ------------------------------------------O                               (18 = 17.5%) {82.5%}
+30451  ... 
+
+Histogram: Net.HttpJob.TotalTime recorded 108 samples, average = 18206.8 (flags = 0x1)
+0      ... 
+190    --O                                                                       (2 = 1.9%) {0.0%}
+226    ... 
+318    --O                                                                       (2 = 1.9%) {1.9%}
+378    O                                                                         (0 = 0.0%) {3.7%}
+449    -O                                                                        (1 = 0.9%) {3.7%}
+533    ---O                                                                      (3 = 2.8%) {4.6%}
+633    -----O                                                                    (5 = 4.6%) {7.4%}
+752    ---O                                                                      (3 = 2.8%) {12.0%}
+894    --O                                                                       (2 = 1.9%) {14.8%}
+1062   --O                                                                       (2 = 1.9%) {16.7%}
+1262   --O                                                                       (2 = 1.9%) {18.5%}
+1500   O                                                                         (0 = 0.0%) {20.4%}
+1782   -O                                                                        (1 = 0.9%) {20.4%}
+2117   O                                                                         (0 = 0.0%) {21.3%}
+2516   -O                                                                        (1 = 0.9%) {21.3%}
+2990   --O                                                                       (2 = 1.9%) {22.2%}
+3553   -O                                                                        (1 = 0.9%) {24.1%}
+4222   -O                                                                        (1 = 0.9%) {25.0%}
+5017   ... 
+7083   -O                                                                        (1 = 0.9%) {25.9%}
+8416   O                                                                         (0 = 0.0%) {26.9%}
+10000  ------------------------------------------------------------------------O (79 = 73.1%) {26.9%}
+
+Histogram: Net.HttpJob.TotalTimeCancel recorded 5 samples, average = 674.8 (flags = 0x1)
+0    ... 
+633  ------------------------------------------------------------------------O (5 = 100.0%) {0.0%}
+752  ... 
+
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 103 samples, average = 19057.8 (flags = 0x1)
+0      ... 
+190    --O                                                                       (2 = 1.9%) {0.0%}
+226    ... 
+318    --O                                                                       (2 = 1.9%) {1.9%}
+378    O                                                                         (0 = 0.0%) {3.9%}
+449    -O                                                                        (1 = 1.0%) {3.9%}
+533    ---O                                                                      (3 = 2.9%) {4.9%}
+633    O                                                                         (0 = 0.0%) {7.8%}
+752    ---O                                                                      (3 = 2.9%) {7.8%}
+894    --O                                                                       (2 = 1.9%) {10.7%}
+1062   --O                                                                       (2 = 1.9%) {12.6%}
+1262   --O                                                                       (2 = 1.9%) {14.6%}
+1500   O                                                                         (0 = 0.0%) {16.5%}
+1782   -O                                                                        (1 = 1.0%) {16.5%}
+2117   O                                                                         (0 = 0.0%) {17.5%}
+2516   -O                                                                        (1 = 1.0%) {17.5%}
+2990   --O                                                                       (2 = 1.9%) {18.4%}
+3553   -O                                                                        (1 = 1.0%) {20.4%}
+4222   -O                                                                        (1 = 1.0%) {21.4%}
+5017   ... 
+7083   -O                                                                        (1 = 1.0%) {22.3%}
+8416   O                                                                         (0 = 0.0%) {23.3%}
+10000  ------------------------------------------------------------------------O (79 = 76.7%) {23.3%}
+
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 103 samples, average = 19057.8 (flags = 0x1)
+0      ... 
+190    --O                                                                       (2 = 1.9%) {0.0%}
+226    ... 
+318    --O                                                                       (2 = 1.9%) {1.9%}
+378    O                                                                         (0 = 0.0%) {3.9%}
+449    -O                                                                        (1 = 1.0%) {3.9%}
+533    ---O                                                                      (3 = 2.9%) {4.9%}
+633    O                                                                         (0 = 0.0%) {7.8%}
+752    ---O                                                                      (3 = 2.9%) {7.8%}
+894    --O                                                                       (2 = 1.9%) {10.7%}
+1062   --O                                                                       (2 = 1.9%) {12.6%}
+1262   --O                                                                       (2 = 1.9%) {14.6%}
+1500   O                                                                         (0 = 0.0%) {16.5%}
+1782   -O                                                                        (1 = 1.0%) {16.5%}
+2117   O                                                                         (0 = 0.0%) {17.5%}
+2516   -O                                                                        (1 = 1.0%) {17.5%}
+2990   --O                                                                       (2 = 1.9%) {18.4%}
+3553   -O                                                                        (1 = 1.0%) {20.4%}
+4222   -O                                                                        (1 = 1.0%) {21.4%}
+5017   ... 
+7083   -O                                                                        (1 = 1.0%) {22.3%}
+8416   O                                                                         (0 = 0.0%) {23.3%}
+10000  ------------------------------------------------------------------------O (79 = 76.7%) {23.3%}
+
+Histogram: Net.HttpResponseCode recorded 103 samples, average = 206.9 (flags = 0x1)
+0    ... 
+200  ------------------------------------------------------------------------O (100 = 97.1%) {0.0%}
+201  ... 
+404  ------------------------------------------------------------------------O (2 = 1.9%) {97.1%}
+405  ... 
+501  ------------------------------------------------------------------------O (1 = 1.0%) {99.0%}
+502  ... 
+
+Histogram: Net.HttpSocketType recorded 103 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (103 = 100.0%)
+1  ... 
+
+Histogram: Net.HttpTimeToFirstByte recorded 108 samples, average = 17760.8 (flags = 0x1)
+0      ... 
+210    --------O                                                                 (6 = 5.6%) {0.0%}
+258    ---O                                                                      (2 = 1.9%) {5.6%}
+317    ... 
+477    -O                                                                        (1 = 0.9%) {7.4%}
+585    ---------O                                                                (7 = 6.5%) {8.3%}
+718    -O                                                                        (1 = 0.9%) {14.8%}
+881    ---O                                                                      (2 = 1.9%) {15.7%}
+1081   -----O                                                                    (4 = 3.7%) {17.6%}
+1326   -O                                                                        (1 = 0.9%) {21.3%}
+1627   O                                                                         (0 = 0.0%) {22.2%}
+1996   -O                                                                        (1 = 0.9%) {22.2%}
+2449   -O                                                                        (1 = 0.9%) {23.1%}
+3005   ---O                                                                      (2 = 1.9%) {24.1%}
+3687   -O                                                                        (1 = 0.9%) {25.9%}
+4524   O                                                                         (0 = 0.0%) {26.9%}
+5551   -O                                                                        (1 = 0.9%) {26.9%}
+6812   O                                                                         (0 = 0.0%) {27.8%}
+8359   -O                                                                        (1 = 0.9%) {27.8%}
+10257  O                                                                         (0 = 0.0%) {28.7%}
+12586  ----O                                                                     (3 = 2.8%) {28.7%}
+15444  -------O                                                                  (5 = 4.6%) {31.5%}
+18951  --------------------O                                                     (15 = 13.9%) {36.1%}
+23255  ------------------------------------------------------------------------O (54 = 50.0%) {50.0%}
+28536  ... 
+
+Histogram: Net.NumDuplicateCookiesInDb recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.PreconnectUtilization2 recorded 118 samples, average = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (118 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSL2 recorded 15 samples, average = 107.0 (flags = 0x1)
+0    ... 
+107  ------------------------------------------------------------------------O (15 = 100.0%) {0.0%}
+108  ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCP recorded 118 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (118 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCP recorded 118 samples, average = 15310.9 (flags = 0x1)
+0      ... 
+100    -----------------------------------O                                      (15 = 12.7%) {0.0%}
+113    --------------O                                                           (6 = 5.1%) {12.7%}
+128    --O                                                                       (1 = 0.8%) {17.8%}
+145    --O                                                                       (1 = 0.8%) {18.6%}
+164    ---------O                                                                (4 = 3.4%) {19.5%}
+186    ... 
+348    --O                                                                       (1 = 0.8%) {22.9%}
+394    ... 
+648    --O                                                                       (1 = 0.8%) {23.7%}
+734    O                                                                         (0 = 0.0%) {24.6%}
+831    -----O                                                                    (2 = 1.7%) {24.6%}
+941    -----O                                                                    (2 = 1.7%) {26.3%}
+1065   --O                                                                       (1 = 0.8%) {28.0%}
+1206   -----O                                                                    (2 = 1.7%) {28.8%}
+1365   -----O                                                                    (2 = 1.7%) {30.5%}
+1546   O                                                                         (0 = 0.0%) {32.2%}
+1750   --O                                                                       (1 = 0.8%) {32.2%}
+1981   ... 
+2876   -----O                                                                    (2 = 1.7%) {33.1%}
+3256   --O                                                                       (1 = 0.8%) {34.7%}
+3687   --O                                                                       (1 = 0.8%) {35.6%}
+4175   O                                                                         (0 = 0.0%) {36.4%}
+4727   --O                                                                       (1 = 0.8%) {36.4%}
+5352   ... 
+6861   --O                                                                       (1 = 0.8%) {37.3%}
+7768   ... 
+9958   --O                                                                       (1 = 0.8%) {38.1%}
+11275  O                                                                         (0 = 0.0%) {39.0%}
+12766  -----O                                                                    (2 = 1.7%) {39.0%}
+14454  --O                                                                       (1 = 0.8%) {40.7%}
+16365  -------O                                                                  (3 = 2.5%) {41.5%}
+18529  ---------O                                                                (4 = 3.4%) {44.1%}
+20979  ------------------------------O                                           (13 = 11.0%) {47.5%}
+23753  ------------------------------------------------------------------------O (31 = 26.3%) {58.5%}
+26894  ------------------------------------------O                               (18 = 15.3%) {84.7%}
+30451  ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCP recorded 118 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (118 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketType_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.TCP_Connection_Latency recorded 118 samples, average = 134.0 (flags = 0x1)
+0    ... 
+100  ------------------------------------------------------------------------O (41 = 34.7%) {0.0%}
+113  ----------------------------------------O                                 (23 = 19.5%) {34.7%}
+128  --------------------------------O                                         (18 = 15.3%) {54.2%}
+145  ----------------------------O                                             (16 = 13.6%) {69.5%}
+164  ---------------------O                                                    (12 = 10.2%) {83.1%}
+186  -------O                                                                  (4 = 3.4%) {93.2%}
+211  -----O                                                                    (3 = 2.5%) {96.6%}
+239  ... 
+307  --O                                                                       (1 = 0.8%) {99.2%}
+348  ... 
+
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 118 samples, average = 134.0 (flags = 0x1)
+0    ... 
+100  ------------------------------------------------------------------------O (41 = 34.7%) {0.0%}
+113  ----------------------------------------O                                 (23 = 19.5%) {34.7%}
+128  --------------------------------O                                         (18 = 15.3%) {54.2%}
+145  ----------------------------O                                             (16 = 13.6%) {69.5%}
+164  ---------------------O                                                    (12 = 10.2%) {83.1%}
+186  -------O                                                                  (4 = 3.4%) {93.2%}
+211  -----O                                                                    (3 = 2.5%) {96.6%}
+239  ... 
+307  --O                                                                       (1 = 0.8%) {99.2%}
+348  ... 
+
+Histogram: Net.Transaction_Latency_Total recorded 103 samples, average = 19057.0 (flags = 0x1)
+0      ... 
+211    -----O                                                                    (2 = 1.9%) {0.0%}
+239    ... 
+307    -----O                                                                    (2 = 1.9%) {1.9%}
+348    ... 
+446    --O                                                                       (1 = 1.0%) {3.9%}
+505    --O                                                                       (1 = 1.0%) {4.9%}
+572    -----O                                                                    (2 = 1.9%) {5.8%}
+648    O                                                                         (0 = 0.0%) {7.8%}
+734    -------O                                                                  (3 = 2.9%) {7.8%}
+831    --O                                                                       (1 = 1.0%) {10.7%}
+941    --O                                                                       (1 = 1.0%) {11.7%}
+1065   -----O                                                                    (2 = 1.9%) {12.6%}
+1206   -----O                                                                    (2 = 1.9%) {14.6%}
+1365   ... 
+1750   --O                                                                       (1 = 1.0%) {16.5%}
+1981   ... 
+2876   -------O                                                                  (3 = 2.9%) {17.5%}
+3256   O                                                                         (0 = 0.0%) {20.4%}
+3687   --O                                                                       (1 = 1.0%) {20.4%}
+4175   O                                                                         (0 = 0.0%) {21.4%}
+4727   --O                                                                       (1 = 1.0%) {21.4%}
+5352   ... 
+6861   --O                                                                       (1 = 1.0%) {22.3%}
+7768   ... 
+9958   --O                                                                       (1 = 1.0%) {23.3%}
+11275  O                                                                         (0 = 0.0%) {24.3%}
+12766  -----O                                                                    (2 = 1.9%) {24.3%}
+14454  --O                                                                       (1 = 1.0%) {26.2%}
+16365  -------O                                                                  (3 = 2.9%) {27.2%}
+18529  ---------O                                                                (4 = 3.9%) {30.1%}
+20979  -----------------------------O                                            (13 = 12.6%) {34.0%}
+23753  ------------------------------------------------------------------------O (32 = 31.1%) {46.6%}
+26894  ----------------------------------------------------O                     (23 = 22.3%) {77.7%}
+30451  ... 
+
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 103 samples, average = 19057.0 (flags = 0x1)
+0      ... 
+211    -----O                                                                    (2 = 1.9%) {0.0%}
+239    ... 
+307    -----O                                                                    (2 = 1.9%) {1.9%}
+348    ... 
+446    --O                                                                       (1 = 1.0%) {3.9%}
+505    --O                                                                       (1 = 1.0%) {4.9%}
+572    -----O                                                                    (2 = 1.9%) {5.8%}
+648    O                                                                         (0 = 0.0%) {7.8%}
+734    -------O                                                                  (3 = 2.9%) {7.8%}
+831    --O                                                                       (1 = 1.0%) {10.7%}
+941    --O                                                                       (1 = 1.0%) {11.7%}
+1065   -----O                                                                    (2 = 1.9%) {12.6%}
+1206   -----O                                                                    (2 = 1.9%) {14.6%}
+1365   ... 
+1750   --O                                                                       (1 = 1.0%) {16.5%}
+1981   ... 
+2876   -------O                                                                  (3 = 2.9%) {17.5%}
+3256   O                                                                         (0 = 0.0%) {20.4%}
+3687   --O                                                                       (1 = 1.0%) {20.4%}
+4175   O                                                                         (0 = 0.0%) {21.4%}
+4727   --O                                                                       (1 = 1.0%) {21.4%}
+5352   ... 
+6861   --O                                                                       (1 = 1.0%) {22.3%}
+7768   ... 
+9958   --O                                                                       (1 = 1.0%) {23.3%}
+11275  O                                                                         (0 = 0.0%) {24.3%}
+12766  -----O                                                                    (2 = 1.9%) {24.3%}
+14454  --O                                                                       (1 = 1.0%) {26.2%}
+16365  -------O                                                                  (3 = 2.9%) {27.2%}
+18529  ---------O                                                                (4 = 3.9%) {30.1%}
+20979  -----------------------------O                                            (13 = 12.6%) {34.0%}
+23753  ------------------------------------------------------------------------O (32 = 31.1%) {46.6%}
+26894  ----------------------------------------------------O                     (23 = 22.3%) {77.7%}
+30451  ... 
+
+Histogram: Net.Transaction_Latency_b recorded 103 samples, average = 1531.5 (flags = 0x1)
+0      ... 
+100    -----------------------------------------------------------------O        (9 = 8.7%) {0.0%}
+113    -------O                                                                  (1 = 1.0%) {8.7%}
+128    O                                                                         (0 = 0.0%) {9.7%}
+145    -------O                                                                  (1 = 1.0%) {9.7%}
+164    -------O                                                                  (1 = 1.0%) {10.7%}
+186    O                                                                         (0 = 0.0%) {11.7%}
+211    ------------------------------------O                                     (5 = 4.9%) {11.7%}
+239    -------------------------------------------O                              (6 = 5.8%) {16.5%}
+271    -------------------------------------------O                              (6 = 5.8%) {22.3%}
+307    ------------------------------------------------------------------------O (10 = 9.7%) {28.2%}
+348    ----------------------------------------------------------O               (8 = 7.8%) {37.9%}
+394    -------------------------------------------O                              (6 = 5.8%) {45.6%}
+446    ----------------------------------------------------------O               (8 = 7.8%) {51.5%}
+505    -----------------------------O                                            (4 = 3.9%) {59.2%}
+572    ----------------------O                                                   (3 = 2.9%) {63.1%}
+648    --------------O                                                           (2 = 1.9%) {66.0%}
+734    -------O                                                                  (1 = 1.0%) {68.0%}
+831    --------------O                                                           (2 = 1.9%) {68.9%}
+941    ... 
+1206   -------O                                                                  (1 = 1.0%) {70.9%}
+1365   --------------O                                                           (2 = 1.9%) {71.8%}
+1546   -----------------------------O                                            (4 = 3.9%) {73.8%}
+1750   -----------------------------O                                            (4 = 3.9%) {77.7%}
+1981   -------O                                                                  (1 = 1.0%) {81.6%}
+2243   --------------O                                                           (2 = 1.9%) {82.5%}
+2540   -------O                                                                  (1 = 1.0%) {84.5%}
+2876   -------O                                                                  (1 = 1.0%) {85.4%}
+3256   --------------O                                                           (2 = 1.9%) {86.4%}
+3687   -------O                                                                  (1 = 1.0%) {88.3%}
+4175   O                                                                         (0 = 0.0%) {89.3%}
+4727   -------O                                                                  (1 = 1.0%) {89.3%}
+5352   ----------------------O                                                   (3 = 2.9%) {90.3%}
+6060   O                                                                         (0 = 0.0%) {93.2%}
+6861   -------O                                                                  (1 = 1.0%) {93.2%}
+7768   -------O                                                                  (1 = 1.0%) {94.2%}
+8795   -------O                                                                  (1 = 1.0%) {95.1%}
+9958   --------------O                                                           (2 = 1.9%) {96.1%}
+11275  --------------O                                                           (2 = 1.9%) {98.1%}
+12766  ... 
+
+
+</queries>
