@@ -1,0 +1,505 @@
+Ping All ======
+*** Ping: testing ping reachability
+e1 -> e2 e3 mobile1 server1 server2 server3 w1 w2 w3 
+e2 -> e1 e3 mobile1 server1 server2 server3 w1 w2 w3 
+e3 -> e1 e2 mobile1 server1 server2 server3 w1 w2 w3 
+mobile1 -> e1 e2 e3 server1 server2 server3 X X w3 
+server1 -> e1 e2 e3 mobile1 server2 server3 w1 w2 w3 
+server2 -> e1 e2 e3 mobile1 server1 server3 w1 w2 w3 
+server3 -> e1 e2 e3 mobile1 server1 server2 w1 w2 w3 
+w1 -> e1 e2 e3 X server1 server2 server3 w2 w3 
+w2 -> e1 e2 e3 X server1 server2 server3 w1 w3 
+w3 -> e1 e2 e3 mobile1 server1 server2 server3 w1 w2 
+*** Results: 4% dropped (86/90 received)
+====== Wait for all servers on 1234 ======
+
+====== Prohibit connections to PPTP service on 10.0.0.6 (TCP port 1723) ======
+
+====== Wait for servers on server2:1723 ======
+====== Should NOT connect ======
+======
+connecting to 10.0.0.6 port 1723
+======
+====== Should connect ======
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.6', 1234)
+closing socket
+======
+connecting to 10.0.0.6 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.6', 1723)
+closing socket
+======
+PING 10.0.0.6 (10.0.0.6) 56(84) bytes of data.
+64 bytes from 10.0.0.6: icmp_seq=1 ttl=64 time=0.302 ms
+64 bytes from 10.0.0.6: icmp_seq=2 ttl=64 time=0.098 ms
+
+--- 10.0.0.6 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.098/0.200/0.302/0.102 ms
+======
+
+====== Prohibit SSH connections to e1-e3 (TCP and UPD port 22) ======
+
+====== Wait for servers 10.0.0.1 10.0.0.2 10.0.0.3 on 22 ======
+====== Should NOT connect ======
+======
+connecting to 10.0.0.1 port 22
+======
+connecting to 10.0.0.2 port 22
+======
+connecting to 10.0.0.3 port 22
+======
+connecting to 10.0.0.1 port 22
+======
+connecting to 10.0.0.2 port 22
+======
+connecting to 10.0.0.3 port 22
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+====== Should connect ======
+======
+connecting to 10.0.0.1 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.2 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.3 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.1 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.2 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.3 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.1', 1234)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.2', 1234)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.3', 1234)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.1', 1234)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.2', 1234)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.3', 1234)
+closing socket
+======
+PING 10.0.0.1 (10.0.0.1) 56(84) bytes of data.
+64 bytes from 10.0.0.1: icmp_seq=1 ttl=64 time=0.609 ms
+64 bytes from 10.0.0.1: icmp_seq=2 ttl=64 time=0.063 ms
+
+--- 10.0.0.1 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.063/0.336/0.609/0.273 ms
+======
+PING 10.0.0.2 (10.0.0.2) 56(84) bytes of data.
+64 bytes from 10.0.0.2: icmp_seq=1 ttl=64 time=0.715 ms
+64 bytes from 10.0.0.2: icmp_seq=2 ttl=64 time=0.087 ms
+
+--- 10.0.0.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 0.087/0.401/0.715/0.314 ms
+======
+PING 10.0.0.3 (10.0.0.3) 56(84) bytes of data.
+64 bytes from 10.0.0.3: icmp_seq=1 ttl=64 time=0.527 ms
+64 bytes from 10.0.0.3: icmp_seq=2 ttl=64 time=0.082 ms
+
+--- 10.0.0.3 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.082/0.304/0.527/0.223 ms
+======
+PING 10.0.0.1 (10.0.0.1) 56(84) bytes of data.
+64 bytes from 10.0.0.1: icmp_seq=1 ttl=64 time=0.580 ms
+64 bytes from 10.0.0.1: icmp_seq=2 ttl=64 time=0.085 ms
+
+--- 10.0.0.1 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.085/0.332/0.580/0.248 ms
+======
+PING 10.0.0.2 (10.0.0.2) 56(84) bytes of data.
+64 bytes from 10.0.0.2: icmp_seq=1 ttl=64 time=0.474 ms
+64 bytes from 10.0.0.2: icmp_seq=2 ttl=64 time=0.088 ms
+
+--- 10.0.0.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.088/0.281/0.474/0.193 ms
+======
+PING 10.0.0.3 (10.0.0.3) 56(84) bytes of data.
+64 bytes from 10.0.0.3: icmp_seq=1 ttl=64 time=0.432 ms
+64 bytes from 10.0.0.3: icmp_seq=2 ttl=64 time=0.084 ms
+
+--- 10.0.0.3 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.084/0.258/0.432/0.174 ms
+======
+
+====== Prohibit connections to DNS/NTP (UDP 53/123) on server1/server2 ======
+
+====== Wait for UDP servers 10.0.0.5 10.0.0.6 10.0.0.7 on 53 123 ======
+====== Should NOT connect ======
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+====== Should connect ======
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.7', 53)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.7', 123)
+closing socket
+======
+connecting to 10.0.0.5 port 53
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.5 port 123
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.6 port 53
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.6 port 123
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.7 port 53
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.7 port 123
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+PING 10.0.0.5 (10.0.0.5) 56(84) bytes of data.
+64 bytes from 10.0.0.5: icmp_seq=1 ttl=64 time=0.480 ms
+64 bytes from 10.0.0.5: icmp_seq=2 ttl=64 time=0.087 ms
+
+--- 10.0.0.5 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 0.087/0.283/0.480/0.197 ms
+======
+PING 10.0.0.6 (10.0.0.6) 56(84) bytes of data.
+64 bytes from 10.0.0.6: icmp_seq=1 ttl=64 time=0.611 ms
+64 bytes from 10.0.0.6: icmp_seq=2 ttl=64 time=0.072 ms
+
+--- 10.0.0.6 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 0.072/0.341/0.611/0.270 ms
+======
+PING 10.0.0.7 (10.0.0.7) 56(84) bytes of data.
+64 bytes from 10.0.0.7: icmp_seq=1 ttl=64 time=0.562 ms
+64 bytes from 10.0.0.7: icmp_seq=2 ttl=64 time=0.085 ms
+
+--- 10.0.0.7 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.085/0.323/0.562/0.239 ms
+======
+
+====== Prohibit 10.0.0.8 and 10.0.0.9 from pinging 10.0.0.4 ======
+
+====== Should NOT connect ======
+======
+PING 10.0.0.4 (10.0.0.4) 56(84) bytes of data.
+
+--- 10.0.0.4 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1007ms
+
+======
+PING 10.0.0.4 (10.0.0.4) 56(84) bytes of data.
+
+--- 10.0.0.4 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+======
+====== Should connect ======
+======
+PING 10.0.0.4 (10.0.0.4) 56(84) bytes of data.
+64 bytes from 10.0.0.4: icmp_seq=1 ttl=64 time=0.475 ms
+64 bytes from 10.0.0.4: icmp_seq=2 ttl=64 time=0.084 ms
+
+--- 10.0.0.4 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.084/0.279/0.475/0.196 ms
+======
+connecting to 10.0.0.4 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.4 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.4 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.4', 1234)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.4', 1234)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.4', 1234)
+closing socket
+======
+
+====== Prohibit all traffic to TCP 9950-9952 on 10.0.0.3 from 10.0.0.1 ======
+
+====== Wait for servers 10.0.0.3 on 9950-9952 ======
+====== Should NOT connect ======
+======
+connecting to 10.0.0.3 port 9950
+======
+connecting to 10.0.0.3 port 9951
+======
+connecting to 10.0.0.3 port 9952
+======
+====== Should connect ======
+======
+PING 10.0.0.3 (10.0.0.3) 56(84) bytes of data.
+64 bytes from 10.0.0.3: icmp_seq=1 ttl=64 time=0.534 ms
+64 bytes from 10.0.0.3: icmp_seq=2 ttl=64 time=0.083 ms
+
+--- 10.0.0.3 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.083/0.308/0.534/0.226 ms
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.3', 9950)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.3', 9951)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.3', 9952)
+closing socket
+======
+connecting to 10.0.0.3 port 9950
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.3 port 9951
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.3 port 9952
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.3', 9950)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.3', 9951)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.3', 9952)
+closing socket
+======
+PING 10.0.0.3 (10.0.0.3) 56(84) bytes of data.
+64 bytes from 10.0.0.3: icmp_seq=1 ttl=64 time=0.485 ms
+64 bytes from 10.0.0.3: icmp_seq=2 ttl=64 time=0.074 ms
+
+--- 10.0.0.3 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.074/0.279/0.485/0.206 ms
+======
+
+====== Prohibit 10.0.0.4 from communicating with e1-e3 on both TCP/UDP ======
+
+====== Should NOT connect ======
+======
+connecting to 10.0.0.1 port 1234
+======
+connecting to 10.0.0.2 port 1234
+======
+connecting to 10.0.0.3 port 1234
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+sending "This is the message"
+======
+====== Should connect ======
+======
+PING 10.0.0.1 (10.0.0.1) 56(84) bytes of data.
+64 bytes from 10.0.0.1: icmp_seq=1 ttl=64 time=0.600 ms
+64 bytes from 10.0.0.1: icmp_seq=2 ttl=64 time=0.082 ms
+
+--- 10.0.0.1 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.082/0.341/0.600/0.259 ms
+======
+PING 10.0.0.2 (10.0.0.2) 56(84) bytes of data.
+64 bytes from 10.0.0.2: icmp_seq=1 ttl=64 time=0.465 ms
+64 bytes from 10.0.0.2: icmp_seq=2 ttl=64 time=0.059 ms
+
+--- 10.0.0.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 0.059/0.262/0.465/0.203 ms
+======
+PING 10.0.0.3 (10.0.0.3) 56(84) bytes of data.
+64 bytes from 10.0.0.3: icmp_seq=1 ttl=64 time=0.546 ms
+64 bytes from 10.0.0.3: icmp_seq=2 ttl=64 time=0.097 ms
+
+--- 10.0.0.3 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.097/0.321/0.546/0.225 ms
+======
+connecting to 10.0.0.8 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.8', 1234)
+closing socket
+======
+connecting to 10.0.0.1 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.2 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+connecting to 10.0.0.3 port 1234
+sending "This is the message.  It will be repeated."
+received "This is the mess"
+received "age.  It will be"
+received " repeated."
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.1', 1234)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.2', 1234)
+closing socket
+======
+sending "This is the message"
+received "This is the message" from ('10.0.0.3', 1234)
+closing socket
+:

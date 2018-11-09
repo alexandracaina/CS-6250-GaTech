@@ -1,0 +1,372 @@
+e1 echo -e "====== Ping All ======"
+pingall
+e1 echo -e "====== Ping All ======"
+pingall
+e1 python test-udp-server.py e1 1234 > /dev/null 2>&1 &
+e1 python test-tcp-server.py e1 1234 > /dev/null 2>&1 &
+e2 python test-udp-server.py e2 1234 > /dev/null 2>&1 &
+e2 python test-tcp-server.py e2 1234 > /dev/null 2>&1 &
+e3 python test-udp-server.py e3 1234 > /dev/null 2>&1 &
+e3 python test-tcp-server.py e3 1234 > /dev/null 2>&1 &
+mobile1 python test-udp-server.py mobile1 1234 > /dev/null 2>&1 &
+mobile1 python test-tcp-server.py mobile1 1234 > /dev/null 2>&1 &
+server1 python test-udp-server.py server1 1234 > /dev/null 2>&1 &
+server1 python test-tcp-server.py server1 1234 > /dev/null 2>&1 &
+server2 python test-udp-server.py server2 1234 > /dev/null 2>&1 &
+server2 python test-tcp-server.py server2 1234 > /dev/null 2>&1 &
+server3 python test-udp-server.py server3 1234 > /dev/null 2>&1 &
+server3 python test-tcp-server.py server3 1234 > /dev/null 2>&1 &
+w1 python test-udp-server.py w1 1234 > /dev/null 2>&1 &
+w1 python test-tcp-server.py w1 1234 > /dev/null 2>&1 &
+w2 python test-udp-server.py w2 1234 > /dev/null 2>&1 &
+w2 python test-tcp-server.py w2 1234 > /dev/null 2>&1 &
+w3 python test-udp-server.py w3 1234 > /dev/null 2>&1 &
+w3 python test-tcp-server.py w3 1234 > /dev/null 2>&1 &
+e1 echo -e "====== Wait for all servers on 1234 ======"
+e1 sleep 2
+e1 echo -e "\n====== Prohibit connections to PPTP service on server2 (TCP port 1723) ======\n"
+server2 python test-udp-server.py server2 1723 > /dev/null 2>&1 &
+server2 python test-tcp-server.py server2 1723 > /dev/null 2>&1 &
+e1 echo -e "====== Wait for servers on server2:1723 ======"
+e1 sleep 2
+e1 echo -e "====== Should NOT connect ======"
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py server2 1723
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "====== Should connect ======"
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py server2 1234
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py server2 1234
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py server2 1723
+e1 echo "======"
+e1 sleep 2
+e1 ping -c 2 server2
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "\n====== Prohibit SSH connections to e1-e3 (TCP and UPD port 22) ======\n"
+e1 python test-udp-server.py e1 22 > /dev/null 2>&1 &
+e1 python test-tcp-server.py e1 22 > /dev/null 2>&1 &
+e2 python test-udp-server.py e2 22 > /dev/null 2>&1 &
+e2 python test-tcp-server.py e2 22 > /dev/null 2>&1 &
+e3 python test-udp-server.py e3 22 > /dev/null 2>&1 &
+e3 python test-tcp-server.py e3 22 > /dev/null 2>&1 &
+e1 echo -e "====== Wait for servers e1 e2 e3 on 22 ======"
+e1 sleep 2
+e1 echo -e "====== Should NOT connect ======"
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-tcp-client.py e1 22
+e1 echo "======"
+e1 sleep 2
+e3 timeout 5 python test-tcp-client.py e2 22
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py e3 22
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py e1 22
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py e2 22
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py e3 22
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-udp-client.py e1 22
+e1 echo "======"
+e1 sleep 2
+e3 timeout 5 python test-udp-client.py e2 22
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py e3 22
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py e1 22
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py e2 22
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py e3 22
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "====== Should connect ======"
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-tcp-client.py e1 1234
+e1 echo "======"
+e1 sleep 2
+e3 timeout 5 python test-tcp-client.py e2 1234
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py e3 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py e1 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py e2 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py e3 1234
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-udp-client.py e1 1234
+e1 echo "======"
+e1 sleep 2
+e3 timeout 5 python test-udp-client.py e2 1234
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py e3 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py e1 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py e2 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py e3 1234
+e1 echo "======"
+e1 sleep 2
+e2 ping -c 2 e1
+e1 echo "======"
+e1 sleep 2
+e3 ping -c 2 e2
+e1 echo "======"
+e1 sleep 2
+e1 ping -c 2 e3
+e1 echo "======"
+e1 sleep 2
+w1 ping -c 2 e1
+e1 echo "======"
+e1 sleep 2
+w1 ping -c 2 e2
+e1 echo "======"
+e1 sleep 2
+w1 ping -c 2 e3
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "\n====== Prohibit connections to DNS/NTP (UDP 53/123) on server1/server2 ======\n"
+server1 python test-udp-server.py server1 53 > /dev/null 2>&1 &
+server1 python test-udp-server.py server1 123 > /dev/null 2>&1 &
+server1 python test-tcp-server.py server1 53 > /dev/null 2>&1 &
+server1 python test-tcp-server.py server1 123 > /dev/null 2>&1 &
+server2 python test-udp-server.py server2 53 > /dev/null 2>&1 &
+server2 python test-udp-server.py server2 123 > /dev/null 2>&1 &
+server2 python test-tcp-server.py server2 53 > /dev/null 2>&1 &
+server2 python test-tcp-server.py server2 123 > /dev/null 2>&1 &
+server3 python test-udp-server.py server3 53 > /dev/null 2>&1 &
+server3 python test-udp-server.py server3 123 > /dev/null 2>&1 &
+server3 python test-tcp-server.py server3 53 > /dev/null 2>&1 &
+server3 python test-tcp-server.py server3 123 > /dev/null 2>&1 &
+e1 echo -e "====== Wait for UDP servers server1 server2 server3 on 53 123 ======"
+e1 sleep 2
+e1 echo -e "====== Should NOT connect ======"
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py server1 53
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py server1 123
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py server2 53
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py server2 123
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "====== Should connect ======"
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py server3 53
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py server3 123
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py server1 53
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py server1 123
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py server2 53
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py server2 123
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py server3 53
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py server3 123
+e1 echo "======"
+e1 sleep 2
+e1 ping -c 2 server1
+e1 echo "======"
+e1 sleep 2
+e1 ping -c 2 server2
+e1 echo "======"
+e1 sleep 2
+e1 ping -c 2 server3
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "\n====== Prohibit w1 and w2 from pinging mobile1 ======\n"
+e1 echo -e "====== Should NOT connect ======"
+e1 echo "======"
+e1 sleep 2
+w1 ping -c 2 mobile1
+e1 echo "======"
+e1 sleep 2
+w2 ping -c 2 mobile1
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "====== Should connect ======"
+e1 echo "======"
+e1 sleep 2
+w3 ping -c 2 mobile1
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py mobile1 1234
+e1 echo "======"
+e1 sleep 2
+w2 timeout 5 python test-tcp-client.py mobile1 1234
+e1 echo "======"
+e1 sleep 2
+w3 timeout 5 python test-tcp-client.py mobile1 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py mobile1 1234
+e1 echo "======"
+e1 sleep 2
+w2 timeout 5 python test-udp-client.py mobile1 1234
+e1 echo "======"
+e1 sleep 2
+w3 timeout 5 python test-udp-client.py mobile1 1234
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "\n====== Prohibit all traffic to TCP 9950-9952 on e3 from e1 ======\n"
+e3 python test-udp-server.py e3 9950 > /dev/null 2>&1 &
+e3 python test-udp-server.py e3 9951 > /dev/null 2>&1 &
+e3 python test-udp-server.py e3 9952 > /dev/null 2>&1 &
+e3 python test-tcp-server.py e3 9950 > /dev/null 2>&1 &
+e3 python test-tcp-server.py e3 9951 > /dev/null 2>&1 &
+e3 python test-tcp-server.py e3 9952 > /dev/null 2>&1 &
+e1 echo -e "====== Wait for servers e3 on 9950-9952 ======"
+e1 sleep 2
+e1 echo -e "====== Should NOT connect ======"
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py e3 9950
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py e3 9951
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-tcp-client.py e3 9952
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "====== Should connect ======"
+e1 echo "======"
+e1 sleep 2
+e1 ping -c 2 e3
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py e3 9950
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py e3 9951
+e1 echo "======"
+e1 sleep 2
+e1 timeout 5 python test-udp-client.py e3 9952
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-tcp-client.py e3 9950
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-tcp-client.py e3 9951
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-tcp-client.py e3 9952
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-udp-client.py e3 9950
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-udp-client.py e3 9951
+e1 echo "======"
+e1 sleep 2
+e2 timeout 5 python test-udp-client.py e3 9952
+e1 echo "======"
+e1 sleep 2
+e2 ping -c 2 e3
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "\n====== Prohibit mobile1 from communicating with e1-e3 on both TCP/UDP ======\n"
+e1 echo -e "====== Should NOT connect ======"
+e1 echo "======"
+e1 sleep 2
+mobile1 timeout 5 python test-tcp-client.py e1 1234
+e1 echo "======"
+e1 sleep 2
+mobile1 timeout 5 python test-tcp-client.py e2 1234
+e1 echo "======"
+e1 sleep 2
+mobile1 timeout 5 python test-tcp-client.py e3 1234
+e1 echo "======"
+e1 sleep 2
+mobile1 timeout 5 python test-udp-client.py e1 1234
+e1 echo "======"
+e1 sleep 2
+mobile1 timeout 5 python test-udp-client.py e2 1234
+e1 echo "======"
+e1 sleep 2
+mobile1 timeout 5 python test-udp-client.py e3 1234
+e1 echo "======"
+e1 sleep 2
+e1 echo -e "====== Should connect ======"
+e1 echo "======"
+e1 sleep 2
+mobile1 ping -c 2 e1
+e1 echo "======"
+e1 sleep 2
+mobile1 ping -c 2 e2
+e1 echo "======"
+e1 sleep 2
+mobile1 ping -c 2 e3
+e1 echo "======"
+e1 sleep 2
+mobile1 timeout 5 python test-tcp-client.py w1 1234
+e1 echo "======"
+e1 sleep 2
+mobile1 timeout 5 python test-udp-client.py w1 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py e1 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py e2 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-tcp-client.py e3 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py e1 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py e2 1234
+e1 echo "======"
+e1 sleep 2
+w1 timeout 5 python test-udp-client.py e3 1234
+e1 echo "======"
+e1 sleep 2

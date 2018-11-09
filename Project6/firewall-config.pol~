@@ -1,0 +1,45 @@
+#Rule number, srcmac, dstmac, srcip, dstip, srcport, dstport, protocol
+# Rule number is incremented each time - mostly for debug purposes
+# - for a rule element indicates that you don't need to match it.
+# Comments are on their own line
+
+
+#1. Block all systems from accessing PPTP server running on server2
+#To block port 1723, set dstport=1723, dstip=server2 ip
+1, -, -, -, 10.0.0.6, -, 1723, T
+
+#2. Block all systems from connecting to SSH server on east hosts (e1-e3)
+#To block port TCP & UDP Port 22, set dstport=22, dstip= e1-e3 ip
+
+2, -, -, -, 10.0.0.1, -, 22, B
+3, -, -, -, 10.0.0.2, -, 22, B
+4, -, -, -, 10.0.0.3, -, 22, B
+
+#3. Block all hosts from server 1 and server2 to protect DNS(UDP Port 123) and NTP(UDP Port 53) services
+
+5, -, -, -, 10.0.0.5, -, 123, U
+6, -, -, -, 10.0.0.5, -, 53, U
+7, -, -, -, 10.0.0.6, -, 123, U
+8, -, -, -, 10.0.0.6, -, 53, U
+
+
+#4. Disallow hosts w1 and w2 from pinging mobile1. ICMP response not completed.
+# Set srcmac= w1 and w2 mac, dstmac= mobile1 mac
+
+9, 00:00:00:00:00:08, 00:00:00:00:00:04, -, -, -, -, I
+10, 00:00:00:00:00:09, 00:00:00:00:00:04, -, -, -, -, I
+
+#5. Disallow traffic destined to TCP ports 9950-9952 from host e1 to host e3
+# set srcip= e1 dstip= e3, dstport= 9950-9952
+
+11, -, -, 10.0.0.1, 10.0.0.3, -, 9950, T
+12, -, -, 10.0.0.1, 10.0.0.3, -, 9951, T
+13, -, -, 10.0.0.1, 10.0.0.3, -, 9952, T
+
+#6. Restrict host mobile1 from communicating east hosts (e1-e3) on both TCP and UDP
+# set srcip= mobile1 ip dstip= east hosts( e1-e3) 
+14, -, -, 10.0.0.4, 10.0.0.1, -, -, B
+15, -, -, 10.0.0.4, 10.0.0.2, -, -, B
+16, -, -, 10.0.0.4, 10.0.0.3, -, -, B
+
+
